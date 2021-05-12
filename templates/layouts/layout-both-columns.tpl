@@ -30,7 +30,8 @@
     {block name='head'}
         {include file='_partials/head.tpl'}
     {/block}
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/jui/jquery.min.js" type="text/javascript"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/jui/jquery.min.js"
+        type="text/javascript"></script>
     <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/head.js" type="text/javascript"></script>
 
 </head>
@@ -58,8 +59,6 @@
                     {else}
                         {include file='_partials/header_home_nl.tpl' banner=$banner}
                     {/if}
-                    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/slider.js"
-        type="text/javascript"></script>
                 {else}
                     {if $language.iso_code == 'en'}
                         {include file='_partials/header_en.tpl' banner=$banner}
@@ -68,8 +67,6 @@
                     {else}
                         {include file='_partials/header_nl.tpl' banner=$banner}
                     {/if}
-                    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/topsliderjs.js"
-        type="text/javascript"></script>
                 {/if}
             {/block}
         </header>
@@ -245,7 +242,12 @@
     <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/system/core.js"
         type="text/javascript">
     </script>
-    
+    {if $page.page_name == 'index'}
+        <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/slider.js" type="text/javascript"></script>
+    {else}
+        <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/topsliderjs.js"
+            type="text/javascript"></script>
+    {/if}
     <script
         src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/vmsite.js?vmver=9293"
         type="text/javascript"></script>
@@ -297,7 +299,7 @@
 <script type="text/javascript" src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/respond.js"></script>
 <script type="text/javascript" src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/selectivizr.js"></script>
 <![endif]-->
-<script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/footer.js" type="text/javascript"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/footer.js" type="text/javascript"></script>
 
 </body>
 

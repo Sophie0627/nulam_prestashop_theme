@@ -25,63 +25,80 @@
 {extends file=$layout}
 
 {block name='content'}
+    <div id="gkPageContent">
+        <div class="gkPage">
+            <div>
+                <div id="gkContent">
+                    <section id="gkMainbody">
+                        <div id="cart-view" class="cart-view">
+                            <div class="card-block vm-cart-header-container">
+                                <div class="width50 floatleft vm-cart-header">
+                                    <h1 class="h1">{l s='Shopping Cart' d='Shop.Theme.Checkout'}</h1>
+                                    <div class="payments_signin_button"></div>
+                                </div>
 
-  <section id="main">
-    <div class="cart-grid row">
+                                <div class="clear"></div>
+                            </div>
+                            <div class="cart-grid row vm-fieldset-pricelist">
 
-      <!-- Left Block: cart product informations & shpping -->
-      <div class="cart-grid-body col-xs-12 col-lg-8">
+                                <!-- Left Block: cart product informations & shpping -->
+                                <div class="cart-grid-body left_part">
+                                    <table class="cart-summary" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tbody>
+                                            <!-- cart products detailed -->
 
-        <!-- cart products detailed -->
-        <div class="card cart-container">
-          <div class="card-block">
-            <h1 class="h1">{l s='Shopping Cart' d='Shop.Theme.Checkout'}</h1>
-          </div>
-          <hr class="separator">
-          {block name='cart_overview'}
-            {include file='checkout/_partials/cart-detailed.tpl' cart=$cart}
-          {/block}
+                                            {block name='cart_overview'}
+                                                {include file='checkout/_partials/cart-detailed.tpl' cart=$cart}
+                                            {/block}
+                                            <tr>
+                                                <td colspan="4">
+                                                    <h3>+ een gratis smakelijke verrassing voor u hond! <span><img
+                                                                src="https://nulam.nl//components/com_virtuemart/assets/images/gift_PNG5945.png"
+                                                                alt="+ een gratis smakelijke verrassing voor u hond!"
+                                                                width="30" height="30"></span></h3>
+                                                </td>
+                                                <td colspan="3">&nbsp;</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- shipping informations -->
+                                    {block name='hook_shopping_cart_footer'}
+                                        {hook h='displayShoppingCartFooter'}
+                                    {/block}
+                                </div>
+
+                                <!-- Right Block: cart subtotal & cart total -->
+                                <div class="cart-grid-right right_part">
+
+                                    {block name='cart_summary'}
+                                        <div class="card cart-summary">
+
+                                            {block name='hook_shopping_cart'}
+                                                {hook h='displayShoppingCart'}
+                                            {/block}
+
+                                            {block name='cart_totals'}
+                                                {include file='checkout/_partials/cart-detailed-totals.tpl' cart=$cart}
+                                            {/block}
+
+                                            {block name='cart_actions'}
+                                                {include file='checkout/_partials/cart-detailed-actions.tpl' cart=$cart}
+                                            {/block}
+
+                                        </div>
+                                    {/block}
+
+                                    {block name='hook_reassurance'}
+                                        {hook h='displayReassurance'}
+                                    {/block}
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
         </div>
-
-        {block name='continue_shopping'}
-          <a class="btn btn-primary" href="{$urls.pages.index}">
-            <i class="material-icons">chevron_left</i>{l s='Continue shopping' d='Shop.Theme.Actions'}
-          </a>
-        {/block}
-
-        <!-- shipping informations -->
-        {block name='hook_shopping_cart_footer'}
-          {hook h='displayShoppingCartFooter'}
-        {/block}
-      </div>
-
-      <!-- Right Block: cart subtotal & cart total -->
-      <div class="cart-grid-right col-xs-12 col-lg-4">
-
-        {block name='cart_summary'}
-          <div class="card cart-summary">
-
-            {block name='hook_shopping_cart'}
-              {hook h='displayShoppingCart'}
-            {/block}
-
-            {block name='cart_totals'}
-              {include file='checkout/_partials/cart-detailed-totals.tpl' cart=$cart}
-            {/block}
-
-            {block name='cart_actions'}
-              {include file='checkout/_partials/cart-detailed-actions.tpl' cart=$cart}
-            {/block}
-
-          </div>
-        {/block}
-
-        {block name='hook_reassurance'}
-          {hook h='displayReassurance'}
-        {/block}
-
-      </div>
-
     </div>
-  </section>
 {/block}
