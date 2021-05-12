@@ -1,0 +1,80 @@
+.product-block .side-block-wrap {
+	text-align: center;
+	font: 18px/1.2 "appleberryregularregular", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
+	margin: -160px 5% 0 0;
+	position: relative;
+	float: left;
+	width: 40%;
+	z-index: 99;
+}
+h3, .h3
+{
+	font-size: 24px;
+}
+.icon-arrow-prev-2:before {
+	content: "\e606";
+}
+.icon-arrow-next-2:before {
+	content: "\e607";
+}
+
+.icon-arrow-next:before {
+	content: "\e603";
+}
+.icon-arrow-prev:before {
+	content: "\e604";
+}
+
+
+.gallery {
+	position: relative;
+	margin: 0 auto 88px;
+	max-width: 1200px;
+}
+.gallery .mask {
+	position: relative;
+	overflow: hidden;
+	width: 960px;
+	margin: 0 auto;
+	font-size: 0;
+	line-height: 0;
+	letter-spacing: -4px;
+}
+.gallery .mask .slideset {
+	width: 99999px;
+	float: left;
+}
+.gallery .mask .slide {
+	text-align: center;
+	padding: 0 10px;
+	width: 320px;
+	letter-spacing: 0;
+	display: inline-block;
+	vertical-align: bottom;
+}
+.gallery .img-wrap {
+	margin-bottom: 24px;
+}
+.gallery .img-wrap:hover {
+	opacity: .8;
+}
+.gallery .btn-prev, .gallery .btn-next {
+	-webkit-transform: translatey(-50%);
+	-ms-transform: translatey(-50%);
+	transform: translatey(-50%);
+	text-decoration: none;
+	position: absolute;
+	font-size: 60px;
+	line-height: 1;
+	top: 50%;
+	left: 10px;
+	color: #757575;
+}
+.gallery .btn-prev:hover, .gallery .btn-next:hover {
+	color: #424242;
+}
+.gallery .btn-next {
+	left: auto;
+	right: 10px;
+}
+

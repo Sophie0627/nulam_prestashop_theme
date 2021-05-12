@@ -1,0 +1,31 @@
+
+@media (min-width:768px) {
+.dogbox-sidebar {
+	z-index: 999;
+	position: fixed;
+	top: 50%;
+	right: -348px;
+	cursor: pointer;
+	float: left;
+	width: 420px;
+	height: 390px;
+	background: transparent url(nulam-popup-sk.png) no-repeat scroll 0 0;
+}
+.dogbox-sidebar .content {
+	width: 240px;
+	padding-left: 60px;
+}
+}
+
+
+@media all and (max-width:800px) {
+
+.dogbox-sidebar {
+	top: 17%;
+}
+
+}
+
+
+
+
