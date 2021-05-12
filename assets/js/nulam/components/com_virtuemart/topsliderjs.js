@@ -22,19 +22,7 @@ jQuery(function(){
 
 function initCarousel() {
 
-  jQuery('div.slider').scrollGallery({
-    mask: 'div.mask',
-    slider: 'div.slideset',
-    slides: 'div.slide',
-    btnPrev: 'a.btn-prev',
-    btnNext: 'a.btn-next',
-    generatePagination: '.pagination',
-    autoRotation: false,
-    switchTime: 3000,
-    animSpeed: 500,
-    step: 1
-  });
-  
+ 
 
   jQuery('div.gallery').scrollGallery({
     mask: 'div.mask',

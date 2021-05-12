@@ -58,6 +58,8 @@
                     {else}
                         {include file='_partials/header_home_nl.tpl' banner=$banner}
                     {/if}
+                    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/slider.js"
+        type="text/javascript"></script>
                 {else}
                     {if $language.iso_code == 'en'}
                         {include file='_partials/header_en.tpl' banner=$banner}
@@ -66,6 +68,8 @@
                     {else}
                         {include file='_partials/header_nl.tpl' banner=$banner}
                     {/if}
+                    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/topsliderjs.js"
+        type="text/javascript"></script>
                 {/if}
             {/block}
         </header>
@@ -241,8 +245,7 @@
     <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/system/core.js"
         type="text/javascript">
     </script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/topsliderjs.js"
-        type="text/javascript"></script>
+    
     <script
         src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/vmsite.js?vmver=9293"
         type="text/javascript"></script>
