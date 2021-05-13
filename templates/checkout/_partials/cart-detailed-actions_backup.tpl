@@ -22,19 +22,25 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  * International Registered Trademark & Property of PrestaShop SA
  *}
-{block name='cart_detailed_product'}
-  <tbody class="cart-overview js-cart" data-refresh-url="{url entity='cart' params=['ajax' => true, 'action' => 'refresh']}">
-    {if $cart.products}
-      {foreach from=$cart.products item=product}
-        <tr valign="top" class="sectiontableentry1">
-          {block name='cart_detailed_product_line'}
-            {include file='checkout/_partials/cart-detailed-product-line.tpl' product=$product}
-          {/block}
-        </tr>
-        {if $product.customizations|count >1}<hr>{/if}
-      {/foreach}
-    {else}
-      <span class="no-items">{l s='There are no more items in your cart' d='Shop.Theme.Checkout'}</span>
-    {/if}
-  </tbody>
-{/block}
+ {block name='cart_detailed_actions'}
+    <div class="checkout cart-detailed-actions card-block">
+      {if $cart.minimalPurchaseRequired}
+        <div class="alert alert-warning" role="alert">
+          {$cart.minimalPurchaseRequired}
+        </div>
+        <div class="text-sm-center">
+          <button type="button" class="btn btn-primary disabled" disabled>{l s='Proceed to checkout' d='Shop.Theme.Actions'}</button>
+        </div>
+      {elseif empty($cart.products) }
+        <div class="text-sm-center">
+          <button type="button" class="btn btn-primary disabled" disabled>{l s='Proceed to checkout' d='Shop.Theme.Actions'}</button>
+        </div>
+      {else}
+        <div class="text-sm-center">
+          <a href="{$urls.pages.order}" class="btn btn-primary">{l s='Proceed to checkout' d='Shop.Theme.Actions'}</a>
+          {hook h='displayExpressCheckout'}
+        </div>
+      {/if}
+    </div>
+  {/block}
+  

@@ -2,11 +2,16 @@
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/topsliderstyle.css" rel="stylesheet" type="text/css">
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/jquery.fancybox-1.3.4.css?vmver=9293" rel="stylesheet" type="text/css">
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/media/system/modal.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/com_ottestimonial2.css">
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/font-awesome.css" rel="stylesheet" type="text/css">
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/normalize.css" rel="stylesheet" type="text/css">
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/system/system.css" rel="stylesheet" type="text/css">
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/template.ecommerce.css" rel="stylesheet" type="text/css">
-<link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/topsidebar_nl.css" rel="stylesheet" type="text/css">
+{if $language.iso_code == 'nl'}
+  <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/topsidebar_nl.css" rel="stylesheet" type="text/css">
+{else}
+  <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/topsidebar.css" rel="stylesheet" type="text/css">
+{/if}
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/modules/mod_cookiesaccept/screen.css" rel="stylesheet" type="text/css">
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/media/mod_falang/template.css" rel="stylesheet" type="text/css">
 
@@ -75,7 +80,6 @@
 <link rel="stylesheet" href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/tablet.css" media="(max-width: 1040px)">
 <link rel="stylesheet" href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/small.tablet.css" media="(max-width: 840px)">
 <link rel="stylesheet" href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/mobile.css" media="(max-width: 640px)">
-
 <!--[if IE 9]>
 <link rel="stylesheet" href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/ie/ie9.css" type="text/css" />
 <![endif]-->

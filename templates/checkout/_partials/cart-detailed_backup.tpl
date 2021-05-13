@@ -22,19 +22,21 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  * International Registered Trademark & Property of PrestaShop SA
  *}
-{block name='cart_detailed_product'}
-  <tbody class="cart-overview js-cart" data-refresh-url="{url entity='cart' params=['ajax' => true, 'action' => 'refresh']}">
+ {block name='cart_detailed_product'}
+  <div class="cart-overview js-cart" data-refresh-url="{url entity='cart' params=['ajax' => true, 'action' => 'refresh']}">
     {if $cart.products}
+    <ul class="cart-items">
       {foreach from=$cart.products item=product}
-        <tr valign="top" class="sectiontableentry1">
+        <li class="cart-item">
           {block name='cart_detailed_product_line'}
             {include file='checkout/_partials/cart-detailed-product-line.tpl' product=$product}
           {/block}
-        </tr>
+        </li>
         {if $product.customizations|count >1}<hr>{/if}
       {/foreach}
+    </ul>
     {else}
       <span class="no-items">{l s='There are no more items in your cart' d='Shop.Theme.Checkout'}</span>
     {/if}
-  </tbody>
+  </div>
 {/block}

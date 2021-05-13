@@ -22,11 +22,12 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  * International Registered Trademark & Property of PrestaShop SA
  *}
-{if $cart.vouchers.allowed}
+ {if $cart.vouchers.allowed}
   {block name='cart_voucher'}
     <div class="block-promo">
       <div class="cart-voucher">
-        {if $cart.vouchers.added}
+        {hook h="displayPaymentRuleCartVoucher"}
+                                {if $cart.vouchers.added}
           {block name='cart_voucher_list'}
             <ul class="promo-name card-block">
               {foreach from=$cart.vouchers.added item=voucher}

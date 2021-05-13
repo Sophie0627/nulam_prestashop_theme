@@ -23,46 +23,31 @@
  * International Registered Trademark & Property of PrestaShop SA
  *}
 {block name='cart_detailed_totals'}
-<div class="cart-detailed-totals">
-
-  <div class="card-block">
     {foreach from=$cart.subtotals item="subtotal"}
-      {if $subtotal.value && $subtotal.type !== 'tax'}
-        <div class="cart-summary-line" id="cart-subtotal-{$subtotal.type}">
-          <span class="label{if 'products' === $subtotal.type} js-subtotal{/if}">
-            {if 'products' == $subtotal.type}
-              {$cart.summary_string}
-            {else}
-              {$subtotal.label}
-            {/if}
-          </span>
-          <span class="value">{$subtotal.value}</span>
-          {if $subtotal.type === 'shipping'}
-              <div><small class="value">{hook h='displayCheckoutSubtotalDetails' subtotal=$subtotal}</small></div>
-          {/if}
-        </div>
-      {/if}
+        {if $subtotal.value && $subtotal.type !== 'tax'}
+            <tr class="sectiontableentry1">
+                <td>{if 'products' == $subtotal.type}
+                        {$cart.summary_string}
+                    {else}
+                        {$subtotal.label}
+                    {/if}</td>
+                <td colspan="2" align="right">
+                    <div class="PricesalesPrice vm-display vm-price-value"><span class="vm-price-desc"></span><span
+                            class="PricesalesPrice">{$subtotal.value} </span></div>
+                </td>
+                {if $subtotal.type === 'shipping'}
+                    <div><small class="value">{hook h='displayCheckoutSubtotalDetails' subtotal=$subtotal}</small></div>
+                {/if}
+            </tr>
+
+        {/if}
     {/foreach}
-  </div>
 
-  {block name='cart_voucher'}
-    {include file='checkout/_partials/cart-voucher.tpl'}
-  {/block}
-
-  <hr class="separator">
-
-  <div class="card-block">
-    <div class="cart-summary-line cart-total">
-      <span class="label">{$cart.totals.total.label} {$cart.labels.tax_short}</span>
-      <span class="value">{$cart.totals.total.value}</span>
-    </div>
-
-    <div class="cart-summary-line">
-      <small class="label">{$cart.subtotals.tax.label}</small>
-      <small class="value">{$cart.subtotals.tax.value}</small>
-    </div>
-  </div>
-
-  <hr class="separator">
-</div>
+    <tr class="sectiontableentry2">
+        <td align="right">{$cart.totals.total.label}:</td>
+        <td colspan="2" align="right"><strong>
+                <div class="PricebillTotal vm-display vm-price-value"><span class="vm-price-desc"></span><span
+                        class="PricebillTotal">{$cart.totals.total.value} </span></div>
+            </strong></td>
+    </tr>
 {/block}

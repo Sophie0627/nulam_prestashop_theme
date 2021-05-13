@@ -39,27 +39,17 @@
 
                                 <div class="clear"></div>
                             </div>
-                            <div class="cart-grid row vm-fieldset-pricelist">
+                            <div class="cart-grid vm-fieldset-pricelist">
 
                                 <!-- Left Block: cart product informations & shpping -->
                                 <div class="cart-grid-body left_part">
-                                    <table class="cart-summary" cellspacing="0" cellpadding="0" border="0" width="100%">
-                                        <tbody>
+                                    <table class="cart-summary cart-overview js-cart" cellspacing="0" cellpadding="0" border="0" width="100%">
                                             <!-- cart products detailed -->
 
                                             {block name='cart_overview'}
                                                 {include file='checkout/_partials/cart-detailed.tpl' cart=$cart}
                                             {/block}
-                                            <tr>
-                                                <td colspan="4">
-                                                    <h3>+ een gratis smakelijke verrassing voor u hond! <span><img
-                                                                src="https://nulam.nl//components/com_virtuemart/assets/images/gift_PNG5945.png"
-                                                                alt="+ een gratis smakelijke verrassing voor u hond!"
-                                                                width="30" height="30"></span></h3>
-                                                </td>
-                                                <td colspan="3">&nbsp;</td>
-                                            </tr>
-                                        </tbody>
+                                                
                                     </table>
                                     <!-- shipping informations -->
                                     {block name='hook_shopping_cart_footer'}
@@ -71,20 +61,48 @@
                                 <div class="cart-grid-right right_part">
 
                                     {block name='cart_summary'}
-                                        <div class="card cart-summary">
+                                        <div class="topleft card cart-summary">
+                                            <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                                                <tbody>
+                                                    <tr class="heading_part">
+                                                        <td colspan="3">
+                                                            <h3 class="head_title">Overzicht</h3>
+                                                        </td>
+                                                    </tr>
+                                                    {block name='hook_shopping_cart'}
+                                                        {hook h='displayShoppingCart'}
+                                                    {/block}
 
-                                            {block name='hook_shopping_cart'}
-                                                {hook h='displayShoppingCart'}
-                                            {/block}
+                                                    {block name='cart_totals'}
+                                                        {include file='checkout/_partials/cart-detailed-totals.tpl' cart=$cart}
+                                                    {/block}
+                                                    
+                                                    <tr>
+                                                        {block name='cart_actions'}
+                                                            {include file='checkout/_partials/cart-detailed-actions.tpl' cart=$cart}
+                                                        {/block}
+                                                        
+                                                    </tr>
+                                                    <tr class="showspace_btw">
+                                                        <td colspan="3"></td>
+                                                    </tr>
 
-                                            {block name='cart_totals'}
-                                                {include file='checkout/_partials/cart-detailed-totals.tpl' cart=$cart}
-                                            {/block}
-
-                                            {block name='cart_actions'}
-                                                {include file='checkout/_partials/cart-detailed-actions.tpl' cart=$cart}
-                                            {/block}
-
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <div class="bottmdiv">
+                                            <table class="newclass" cellpadding="0" cellspacing="0" border="0">
+                                                <tbody>
+                                                    <tr class="sectiontableentry2">
+                                                        <td colspan="3" align="left">
+                                                        {block name='cart_voucher'}
+                                                            {include file='checkout/_partials/cart-voucher.tpl'}
+                                                        {/block}
+                                                            
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
                                         </div>
                                     {/block}
 
