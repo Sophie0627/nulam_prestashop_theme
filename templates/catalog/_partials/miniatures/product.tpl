@@ -6,7 +6,15 @@
             </a>
             <h3 class="catProductTitle"><a href="{$product.url}">{$product.name|truncate:30:'...'}</a></h3>
             <div class="product_shortdesc">{$product.description_short|strip_tags:'UTF-8'|truncate:360:'...'}</div>
-            <a href="{$product.url}" class="readon detail_btn">Artikelgegevens</a>
+            <a href="{$product.url}" class="readon detail_btn">
+            {if $language.iso_code == 'nl'}
+                Artikelgegevens
+            {elseif $language.iso_code == 'de'}
+                Artikeldaten
+            {else}
+                Product details
+            {/if}        
+            </a>
         </div>
     </div>
 </div>

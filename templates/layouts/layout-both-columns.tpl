@@ -51,6 +51,7 @@
 
         <header id="gkHeader" class="gk-clearfix">
             {block name='header'}
+                {if !isset($banner)}{assign var="banner" value='/images/banner-test.jpg'}{/if}
                 {if $page.page_name == 'index'}
                     {if $language.iso_code == 'en'}
                         {include file='_partials/header_home_en.tpl' banner=$banner}
@@ -60,6 +61,38 @@
                         {include file='_partials/header_home_nl.tpl' banner=$banner}
                     {/if}
                 {else}
+                    {if $page.page_name == 'category'}
+                        {if $category.id == 2}
+                            {assign var='banner' value='/images/cms/13-nl.jpg'}
+                        {/if}
+                        {if $category.id|in_array:[3,4,5,6,7]}
+                            {if $language.iso_code == 'nl'}
+                                {assign var='banner' value='/images/banner-all-chunks-nl-2.jpg'}
+                            {else}
+                                {assign var='banner' value='/images/banner-all-chunks-uk.jpg'}
+                            {/if}
+                        {/if}
+                        {if $category.id|in_array:[8,9,10]}
+                            {if $language.iso_code == 'nl'}
+                                {assign var='banner' value='/images/banner-all-Fresh-nl.jpg'}
+                            {else}
+                                {assign var='banner' value='/images/banner-all-Fresh-uk.jpg'}
+                            {/if}
+                        {/if}
+                        {if $category.id|in_array:[11,12,13,14]}
+                            {assign var='banner' value='/images/banner-snacks.jpg'}
+                        {/if}
+                        {if $category.id|in_array:[15,16,17]}
+                            {assign var='banner' value='/images/banner-noon-food.jpg'}
+                        {/if}
+                    {elseif $page.page_name == 'product'}
+                        {assign var="images" value=[1	=> '/images/stories/virtuemart/product/1482313169_puppy-banner.jpg',2	=> '/images/stories/virtuemart/product/1482276090_banner-bulldog-junior-3.jpg',4	=> '/images/stories/virtuemart/product/1482308149_banner-rijst-2.jpg',5	=> '/images/stories/virtuemart/product/1481959129_banner-sea-2.jpg',6	=> '/images/stories/virtuemart/product/1519984986_banner-salmon-potatoes.jpg',7	=> '/images/stories/virtuemart/product/1518428005_Nulam_banner-energy.jpg',8	=> '/images/stories/virtuemart/product/1481806666_banner-ennergy-plus.jpg',9	=> '/images/stories/virtuemart/product/1481794773_banner-mini-adult-2.jpg',10	=> '/images/stories/virtuemart/product/1521254376__banner-lamb-potatoes.jpg',12	=> '/images/stories/virtuemart/product/1482142125_banner-bulldog.jpg',13	=> '/images/stories/virtuemart/product/1518962986__banner-vetanary.png',15	=> '/images/stories/virtuemart/product/1482318366_Header-Light-senior.jpg',16	=> '/images/stories/virtuemart/product/1483686622_banner-14.jpg',17	=> '/images/stories/virtuemart/product/1482389031_banner-3.jpg',18	=> '/images/stories/virtuemart/product/1534840280_1482660184_banner-27.jpg',19	=> '/images/stories/virtuemart/product/1522582093_pure-bulldog-puppy-banner.jpg',20	=> '/images/stories/virtuemart/product/1482935334_banner-nature.jpg',22	=> '/images/stories/virtuemart/product/1482935739_banner-sintbernad.jpg',23	=> '/images/stories/virtuemart/product/1482661413_banner-zee.jpg',24	=> '/images/stories/virtuemart/product/1482661145_banner-17.jpg',25	=> '/images/stories/virtuemart/product/1482659241_banner-voer.jpg',26	=> '/images/stories/virtuemart/product/1482660857_banner-21.jpg',27	=> '/images/stories/virtuemart/product/1482392327_banner-senior-2.jpg',29	=> '/images/stories/virtuemart/product/1482388821_banner-4.jpg',30	=> '/images/stories/virtuemart/product/1482391266_banner-24.jpg',31	=> '/images/stories/virtuemart/product/1482389667_banner-19.jpg',33	=> '/images/stories/virtuemart/product/1482389489_banner-10.jpg',34	=> '/images/stories/virtuemart/product/1482662094_banner-3.jpg',35	=> '/images/stories/virtuemart/product/1522579420_banner-pure-bulldog-complete.jpg',36	=> '/images/stories/virtuemart/product/1507813113_nulam-banner-frensch-puppy.jpg',37	=> '/images/stories/virtuemart/product/',40	=> '/images/stories/virtuemart/product/1507968802_banner-nulam-2.jpg',41	=> '/images/stories/virtuemart/product/1507814185_banner-bulldog-adult.jpg',42	=> '/images/stories/virtuemart/product/1507971443_banner-nulam-5.jpg',43	=> '/images/stories/virtuemart/product/1507972627_banner-nulam-6.jpg',45	=> '/images/stories/virtuemart/product/1507805557_Nulam_banner-3.jpg',46	=> '/images/stories/virtuemart/product/1483083213_banner-9.jpg',47	=> '/images/stories/virtuemart/product/1483082352_banner31.jpg',48	=> '/images/stories/virtuemart/product/1483082027_banner-40.jpg',49	=> '/images/stories/virtuemart/product/1507747648_banner-nulam-1.jpg',50	=> '/images/stories/virtuemart/product/1507121006_banner-ganz.jpg',51	=> '/images/stories/virtuemart/product/1507747910_banner-nulam-3.jpg',57	=> '/images/stories/virtuemart/product/1483080564_banner-33.jpg',58	=> '/images/stories/virtuemart/product/1483081112_banner-37.jpg',59	=> '/images/stories/virtuemart/product/1483079110_banner-35.jpg',60	=> '/images/stories/virtuemart/product/1483035587_banner-32.jpg',61	=> '/images/stories/virtuemart/product/1483035562_banner-38.jpg',62	=> '/images/stories/virtuemart/product/1521254553_banner-duck-potatoes.jpg',53	=> '/images/stories/virtuemart/product/1584692795_banner-noon-food.jpg',56	=> '/images/stories/virtuemart/product/1584695975_banner-noon-food.jpg']}
+                        {foreach from=$images item=item key=key}
+                            {if $key == $product.id}
+                                {assign var="banner" value=$item}
+                            {/if}
+                        {/foreach}
+                    {/if}
                     {if $language.iso_code == 'en'}
                         {include file='_partials/header_en.tpl' banner=$banner}
                     {elseif $language.iso_code == 'de'}
@@ -176,31 +209,27 @@
     <div id="gk-login-popup">
         <a href="#" id="gk-login-popup-close">×</a>
         <div class="login">
-            <h3>Log in</h3>
-
-            <form action="https://nulam.nl/component/virtuemart/?Itemid=1272" method="post" id="login-form"
-                class="form-inline">
+            <h3>{l s='Sign in' d='Shop.Theme.Actions'}</h3>
+            {block name='login_form_errors'}
+            {/block}
+            <form action="{$urls.pages.authentication}" method="post" id="login-form" class="form-inline">
                 <fieldset class="userdata">
                     <p class="login-fields">
-                        <label>Gebruikersnaam</label>
-                        <input id="modlgn-username" type="text" name="username" class="inputbox" size="24">
+                        <label>{l s='Email' d='Shop.Theme.Actions'}</label>
+                        <input id="modlgn-username" type="text" name="email" class="inputbox" size="24">
                     </p>
                     <p class="login-fields">
-                        <label>Wachtwoord</label>
+                        <label>{l s='Password' d='Shop.Theme.Actions'}</label>
                         <input id="modlgn-passwd" type="password" name="password" class="inputbox" size="24">
                     </p>
-                    <button class="button">Inloggen</button>
+                    <button class="button">{l s='Sign in' d='Shop.Theme.Actions'}</button>
                     <ul>
-                        <li> <a href="/login-page.html?view=reset" class="inverse"> Wachtwoord vergeten?</a> </li>
-                        <li> <a href="/login-page.html?view=remind" class="inverse"> Gebruikersnaam vergeten?</a> </li>
-                        <li class="last"> <a class="btn-border" href="/login-page.html?view=registration"> Account
-                                aanmaken?</a> </li>
+                        <li> <a href="{$urls.pages.password}" class="inverse">
+                                {l s='Forgot your password?' d='Shop.Theme.Customeraccount'}</a> </li>
+                        <li class="last"> <a class="btn-border" href="{$urls.pages.register}"
+                                data-link-action="display-register-form">{l s='No account? Create one here' d='Shop.Theme.Customeraccount'}</a>
+                        </li>
                     </ul>
-                    <input type="hidden" name="option" value="com_users">
-                    <input type="hidden" name="task" value="user.login">
-                    <input type="hidden" name="return"
-                        value="aHR0cHM6Ly9udWxhbS5ubC9jb21wb25lbnQvdmlydHVlbWFydC8/SXRlbWlkPTEyNzI=">
-                    <input type="hidden" name="69cbcc25ed4e87787bb947b0ad97395a" value="1">
                 </fieldset>
                 <div class="posttext"> </div>
             </form>
@@ -213,16 +242,12 @@
 
         <h3>Meld je aan</h3>
         <p>Schrijf nu in op onze nieuwsbrief <br>en ontvang de laatste aanbiedingen</p>
-        <form action="index.php?option=com_acymailing&amp;ctrl=sub" method="post"><input name="user[email]" required=""
-                type="email" id="user_email" placeholder="email:"> <input type="submit" value="Aanmelden"
-                id="gk-newsletter-submit"> <input name="acyformname" type="hidden" value="formAcymailing1"> <input
-                name="ctrl" type="hidden" value="sub"> <input name="task" type="hidden" value="optin"> <input
-                name="option" type="hidden" value="com_acymailing"> <input name="visiblelists" type="hidden" value="">
-            <input name="hiddenlists" type="hidden" value="1"> <input name="user[html]" type="hidden" value="1">
+        <form action="{$urls.pages.index}" method="post"><input name="email" required="" type="email" id="user_email"
+                placeholder="email:"> <input type="submit" name="submitNewsletter" value="ok" id="gk-newsletter-submit">
+            <input type="hidden" name="action" value="0" />
         </form>
-        <!-- Configuration details: https://www.acyba.com/acymailing/248-acymailing-external-subscription-form.html -->
-        <p><small> Lees onze <a href="/index.php/privacy">privacy beleid</a> &amp; <a
-                    href="/index.php/algemene-voorwaarden">algemene voorwaarden</a><br> U kunt zich op elke gewenste
+        <p><small> Lees onze <a href="/privacy-policy.html">privacy beleid</a> &amp; <a
+                    href="/algemene-voorwaarden.html">algemene voorwaarden</a><br> U kunt zich op elke gewenste
                 moment uitschrijven</small></p>
 
     </div>

@@ -22,72 +22,209 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  * International Registered Trademark & Property of PrestaShop SA
  *}
+
 <!doctype html>
 <html lang="{$language.iso_code}">
 
-  <head>
+<head>
     {block name='head'}
-      {include file='_partials/head.tpl'}
+        {include file='_partials/head_checkout.tpl'}
     {/block}
-  </head>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/jui/jquery.min.js"
+        type="text/javascript"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/head.js" type="text/javascript"></script>
 
-  <body id="{$page.page_name}" class="{$page.body_classes|classnames}">
+</head>
 
+<body id="{$page.page_name}" class="{$page.body_classes|classnames} hide_header" data-tablet-width="1040"
+    data-mobile-width="640" data-zoom-size="150" data-parallax="true">
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/first.js" type="text/javascript">
+    </script>
     {block name='hook_after_body_opening_tag'}
-      {hook h='displayAfterBodyOpeningTag'}
+        {hook h='displayAfterBodyOpeningTag'}
     {/block}
 
-    <header id="header">
-      {block name='header'}
-        {include file='checkout/_partials/header.tpl'}
-      {/block}
-    </header>
+    <div id="gkBg">
+        {block name='product_activation'}
+            {include file='catalog/_partials/product-activation.tpl'}
+        {/block}
 
-    {block name='notifications'}
-      {include file='_partials/notifications.tpl'}
-    {/block}
+        <header id="gkHeader" class="gk-clearfix">
+            {block name='header'}
 
-    <section id="wrapper">
-      {hook h="displayWrapperTop"}
-      <div class="container">
+                {include file='_partials/header_nl.tpl'}
 
-      {block name='content'}
-        <section id="content">
-          <div class="row">
-            <div class="col-md-8">
-              {block name='cart_summary'}
-                {render file='checkout/checkout-process.tpl' ui=$checkout_process}
-              {/block}
+            {/block}
+        </header>
+
+        {block name='notifications'}
+            {include file='_partials/notifications.tpl'}
+        {/block}
+
+        {hook h="displayWrapperTop"}
+
+
+        {block name="content_wrapper"}
+            {hook h="displayContentWrapperTop"}
+            {block name="content"}
+                <div id="gkPageContent">
+                    <div class="gkPage">
+                        <div>
+                            <div id="gkContent">
+                                <section id="gkMainbody">
+                                    {block name='cart_summary'}
+                                        {render file='checkout/checkout-process.tpl' ui=$checkout_process}
+                                    {/block}
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {/block}
+            {hook h="displayContentWrapperBottom"}
+        {/block}
+
+
+
+        <footer id="gkFooter" style="min-height: 0px;">
+            {block name="footer"}
+                {if $language.iso_code == 'en'}
+                    {include file='_partials/footer_en.tpl'}
+                {elseif $language.iso_code == 'de'}
+                    {include file='_partials/footer_de.tpl'}
+                {else}
+                    {include file='_partials/footer_nl.tpl'}
+                {/if}
+            {/block}
+        </footer>
+        <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="pswp__bg"></div>
+            <div class="pswp__scroll-wrap">
+                <div class="pswp__container">
+                    <div class="pswp__item"></div>
+                    <div class="pswp__item"></div>
+                    <div class="pswp__item"></div>
+                </div>
+
+                <div class="pswp__ui pswp__ui--hidden">
+                    <div class="pswp__top-bar">
+                        <div class="pswp__counter"></div>
+
+                        <div class="pswp__preloader"></div>
+
+                        <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                        <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                        <button class="pswp__button pswp__button--share" title="Share"></button>
+                        <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                    </div>
+
+                    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                        <div class="pswp__share-tooltip"></div>
+                    </div>
+
+                    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+                    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+
+                    <div class="pswp__caption">
+                        <div class="pswp__caption__center"></div>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-4">
+        </div>
+    </div>
+    <div id="gk-newsletter-popup" data-display="after_time" data-scroll="1000" data-time="6" class="">
+        <a href="#" id="gk-newsletter-popup-close">×</a>
 
-              {block name='cart_summary'}
-                {include file='checkout/_partials/cart-summary.tpl' cart = $cart}
-              {/block}
+        <h3>Meld je aan</h3>
+        <p>Schrijf nu in op onze nieuwsbrief <br>en ontvang de laatste aanbiedingen</p>
+        <form action="index.php?option=com_acymailing&amp;ctrl=sub" method="post"><input name="user[email]" required=""
+                type="email" id="user_email" placeholder="email:"> <input type="submit" value="Aanmelden"
+                id="gk-newsletter-submit"> <input name="acyformname" type="hidden" value="formAcymailing1"> <input
+                name="ctrl" type="hidden" value="sub"> <input name="task" type="hidden" value="optin"> <input
+                name="option" type="hidden" value="com_acymailing"> <input name="visiblelists" type="hidden" value="">
+            <input name="hiddenlists" type="hidden" value="1"> <input name="user[html]" type="hidden" value="1">
+        </form>
+        <!-- Configuration details: https://www.acyba.com/acymailing/248-acymailing-external-subscription-form.html -->
+        <p><small> Lees onze <a href="/index.php/privacy">privacy beleid</a> &amp; <a
+                    href="/index.php/algemene-voorwaarden">algemene voorwaarden</a><br> U kunt zich op elke gewenste
+                moment uitschrijven</small></p>
 
-              {hook h='displayReassurance'}
-            </div>
-          </div>
-        </section>
-      {/block}
-      </div>
-      {hook h="displayWrapperBottom"}
-    </section>
-
-    <footer id="footer">
-      {block name='footer'}
-        {include file='checkout/_partials/footer.tpl'}
-      {/block}
-    </footer>
-
+    </div>
+    <div class="dogbox-sidebar" style="right: -348px;"> </div>
     {block name='javascript_bottom'}
-      {include file="_partials/javascript.tpl" javascript=$javascript.bottom}
+        {include file="_partials/javascript.tpl" javascript=$javascript.bottom}
     {/block}
-
     {block name='hook_before_body_closing_tag'}
-      {hook h='displayBeforeBodyClosingTag'}
+        {hook h='displayBeforeBodyClosingTag'}
     {/block}
+    <script async="" src="//www.google-analytics.com/analytics.js"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/jui/jquery-migrate.min.js"
+        type="text/javascript"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/k2/k2.frontend.js"
+        type="text/javascript">
+    </script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/system/core.js"
+        type="text/javascript">
+    </script>
+    {if $page.page_name == 'index'}
+        <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/slider.js" type="text/javascript"></script>
+    {else}
+        <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/topsliderjs.js"
+            type="text/javascript"></script>
+    {/if}
+    <script
+        src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/vmsite.js?vmver=9293"
+        type="text/javascript"></script>
+    <script
+        src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/dynupdate.js?vmver=9293"
+        type="text/javascript"></script>
+    <script
+        src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/vmprices.js?vmver=9293"
+        type="text/javascript"></script>
+    <script
+        src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/fancybox/jquery.fancybox-1.3.4.pack.js?vmver=9293"
+        type="text/javascript"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/modernizr.js"
+        type="text/javascript">
+    </script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/gk.scripts.js"
+        type="text/javascript">
+    </script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/gk.menu.js" type="text/javascript">
+    </script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/kalendae.js"
+        type="text/javascript">
+    </script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/photoswipe.min.js"
+        type="text/javascript"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/photoswipe-ui.min.js"
+        type="text/javascript"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/scrollreveal.js"
+        type="text/javascript"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/gk.ecommerce.js"
+        type="text/javascript"></script>
 
-  </body>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/jui/jquery-noconflict.js"
+        type="text/javascript"></script>
+
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/jui/bootstrap.min.js"
+        type="text/javascript"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/system/mootools-core.js"
+        type="text/javascript"></script>
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/system/mootools-more.js"
+        type="text/javascript"></script>
+
+
+    <!--[if lte IE 9]>
+ <script type="text/javascript" src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/ie.js"></script>
+ <![endif]-->
+
+    <!--[if (gte IE 6)&(lte IE 8)]>
+ <script type="text/javascript" src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/respond.js"></script>
+ <script type="text/javascript" src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/selectivizr.js"></script>
+ <![endif]-->
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/footer.js" type="text/javascript"></script>
+
+</body>
 
 </html>

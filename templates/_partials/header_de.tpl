@@ -7,9 +7,8 @@
                         <div class="custom">
                             <div class="row">
                                 <div class="col-sm-12 corona-virus">
-                                    <span class="f-18 mr-3">Let op! Wij hanteren extra richtlijnen n.a.v. het
-                                        coronavirus.</span> <a href="/richtlijnen.html"
-                                        class="btn wei-btn wei-bluebtn">Zie onze richtlijnen</a>
+                                    <span class="f-18 mr-3">Passt auf! Wir verwenden zusätzliche Richtlinien für das Corona-Virus.</span> <a href="/de/richtlinien.html"
+                                        class="btn wei-btn wei-bluebtn">Siehe unsere Richtlinien</a>
                                 </div>
                             </div>
                         </div>
@@ -22,24 +21,11 @@
 <div id="gkHeaderNav" class="gk-clearfix gk-fixed contains-cart" style="top: 0px;">
     <div>
         <a href="https://budgetdesinfectie.nl/de/" id="gkLogo">
-            <img src="https://budgetdesinfectie.nl/de/images/logos/logo-nulam-website.png" alt="Nulam">
+            <img src="https://budgetdesinfectie.nl/images/logos/logo-nulam-website.png" alt="Nulam">
         </a>
         <div class="mainrightpart">
             <div class="toppart">
-                <div id="gkPopupCart" style="display: block; opacity: 0; margin-top: -150px;">
-                    <div class="gkPopupWrap">
-                        <div id="gkAjaxCart"></div>
-                    </div>
-                </div>
-                <div id="gkLang">
-                    <div class="box ">
-                        <div class="box-wrap">
-                            <div class="content">
-                                {hook h='displayTop'}
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                {hook h='displayTop'}
                 <div id="gk-cart-btn">
                     <i class="gkicon-cart"></i>
                 </div>
@@ -56,22 +42,26 @@
                                 <div class="gkcol gkcol1  first">
                                     <ul class="gkmenu level1">
                                         <li class="first">
-                                            <a href="/über-uns/hohe-qualität.html" class=" first" id="menu1388">Hohe Qualität</a>
+                                            <a href="/de/über-uns/hohe-qualität.html" class=" first" id="menu1388">Hohe
+                                                Qualität</a>
                                         </li>
                                         <li>
-                                            <a href="/über-uns/unsere-zutaten.html" id="menu1393">Unsere Zutaten</a>
+                                            <a href="/de/über-uns/unsere-zutaten.html" id="menu1393">Unsere Zutaten</a>
                                         </li>
                                         <li>
-                                            <a href="/über-uns/wichtige-zutaten.html" id="menu1389">Wichtige Zutaten</a>
+                                            <a href="/de/über-uns/wichtige-zutaten.html" id="menu1389">Wichtige
+                                                Zutaten</a>
                                         </li>
                                         <li>
-                                            <a href="/über-uns/vorteile-von-nulam.html" id="menu1390">Vorteile von Nulam</a>
+                                            <a href="/de/über-uns/vorteile-von-nulam.html" id="menu1390">Vorteile von
+                                                Nulam</a>
                                         </li>
                                         <li>
-                                            <a href="/über-uns/ganzheitliches-hundefutter.html" id="menu1391">Ganzheitliches Hundefutter</a>
+                                            <a href="/de/über-uns/natürliches-hundefutter.html"
+                                                id="menu1391">Natürliches Hundefutter</a>
                                         </li>
                                         <li class="last">
-                                            <a href="/über-uns/kundenbewertungen.html" class=" last"
+                                            <a href="/de/über-uns/kundenbewertungen.html" class=" last"
                                                 id="menu1430">Kundenbewertungen</a>
                                         </li>
                                     </ul>
@@ -80,7 +70,7 @@
                         </div>
                     </li>
                     <li class="haschild {if $page.page_name=='category' || $page.page_name=='product'}active{/if}">
-                        <span class=" haschild" id="menu1092">Shop</span>
+                        <span class=" haschild" id="menu1092">Startseite</span>
                         <div class="childcontent has-cols-4">
                             <div class="childcontent-inner">
                                 <div class="gkcol gkcol4  first" style="height: 194px;">
@@ -88,27 +78,27 @@
                                         <li class="first group">
                                             <div class="group">
                                                 <div class="header">
-                                                    <a href="/shop/nulam-brokken.html" class=" first group"
-                                                        id="menu1111">Nulam brokken</a>
+                                                    <a href="/de/startseite/nulam-chunks.html" class=" first group"
+                                                        id="menu1111">Nulam Chunks</a>
                                                 </div>
                                                 <div class="gk-group-content">
                                                     <ul class="gkmenu level1">
                                                         <li class="first">
-                                                            <a href="/shop/nulam-brokken/puppy.html" class=" first"
-                                                                id="menu1114">Puppy &amp; Junior</a>
+                                                            <a href="/de/startseite/nulam-chunks/puppy-junior.html"
+                                                                class=" first" id="menu1114">Puppy &amp; Junior</a>
                                                         </li>
                                                         <li>
-                                                            <a href="/shop/nulam-brokken/volwassen.html"
-                                                                id="menu1115">Volwassen</a>
+                                                            <a href="/de/startseite/nulam-chunks/ausgewachsene.html"
+                                                                id="menu1115">Ausgewachsene</a>
                                                         </li>
                                                         <li>
-                                                            <a href="/shop/nulam-brokken/hypoallergeen.html"
-                                                                id="menu1248">Hypoallergeen</a>
+                                                            <a href="/de/startseite/nulam-chunks/hypoallergen.html"
+                                                                id="menu1248">Hypoallergen</a>
                                                         </li>
                                                         <li class="last">
-                                                            <a href="/shop/nulam-brokken/senior-dieet.html"
+                                                            <a href="/de/startseite/nulam-chunks/senior-diät.html"
                                                                 class=" last" id="menu1164">Senior /
-                                                                Dieet</a>
+                                                                Diät</a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -121,19 +111,20 @@
                                         <li class="first group">
                                             <div class="group">
                                                 <div class="header">
-                                                    <a href="/shop/nulam-vers.html" class=" first group"
-                                                        id="menu1110">Nulam Vers</a>
+                                                    <a href="/de/startseite/nulam-fresh.html" class=" first group"
+                                                        id="menu1110">Nulam Fresh</a>
                                                 </div>
                                                 <div class="gk-group-content">
                                                     <ul class="gkmenu level1">
                                                         <li class="first">
-                                                            <a href="/shop/nulam-vers/puppy-compleet.html"
-                                                                class=" first" id="menu1112">Puppy &amp;
+                                                            <a href="/de/startseite/nulam-fresh/frischfleisch-puppy-junior.html"
+                                                                class=" first" id="menu1112">Frischfleisch Puppy &
                                                                 Junior</a>
                                                         </li>
                                                         <li class="last">
-                                                            <a href="/shop/nulam-vers/volwassen-compleet.html"
-                                                                class=" last" id="menu1113">Volwassen
+                                                            <a href="/de/startseite/nulam-fresh/frischfleisch-ausgewachsener-hund.html"
+                                                                class=" last" id="menu1113">Frischfleisch Ausgewachsener
+                                                                Hund
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -147,23 +138,22 @@
                                         <li class="first group">
                                             <div class="group">
                                                 <div class="header">
-                                                    <a href="/shop/nulam-snacks.html" class=" first group"
-                                                        id="menu1168">Nulam Snacks</a>
+                                                    <a href="/de/startseite/snacks.html" class=" first group"
+                                                        id="menu1168">Snacks</a>
                                                 </div>
                                                 <div class="gk-group-content">
                                                     <ul class="gkmenu level1">
                                                         <li class="first">
-                                                            <a href="/shop/nulam-snacks/botten-kluiven.html"
-                                                                class=" first" id="menu1199">Botten &amp;
-                                                                Kluiven</a>
+                                                            <a href="/de/startseite/snacks/knochen-kauleckerlis.html"
+                                                                class=" first" id="menu1199">Knochen & Kauleckerlis</a>
                                                         </li>
                                                         <li>
-                                                            <a href="/shop/nulam-snacks/gedroogde-vlees.html"
-                                                                id="menu1200">Gedroogde Snacks</a>
+                                                            <a href="/de/startseite/snacks/getrocknete-snacks.html"
+                                                                id="menu1200">Getrocknete Snacks</a>
                                                         </li>
                                                         <li class="last">
-                                                            <a href="/shop/nulam-snacks/trainers.html" class=" last"
-                                                                id="menu1201">Trainers</a>
+                                                            <a href="/de/startseite/snacks/nulam-trainingsleckerlis.html"
+                                                                class=" last" id="menu1201">Nulam Trainingsleckerlis</a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -176,19 +166,19 @@
                                         <li class="first group">
                                             <div class="group">
                                                 <div class="header">
-                                                    <a href="/shop/non-food.html" class=" first group" id="menu1487">Non
+                                                    <a href="/de/startseite/non-food.html" class=" first group"
+                                                        id="menu1487">Non
                                                         Food</a>
                                                 </div>
                                                 <div class="gk-group-content">
                                                     <ul class="gkmenu level1">
                                                         <li class="first">
-                                                            <a href="/shop/non-food/desinfectiemiddelen.html"
-                                                                class=" first" id="menu1488">Desinfectiemiddelen </a>
+                                                            <a href="/de/startseite/non-food/desinfektionsmittel.html"
+                                                                class=" first" id="menu1488">Desinfektionsmittel</a>
                                                         </li>
                                                         <li class="last">
-                                                            <a href="/shop/non-food/persoonlijke-hygiëne.html"
-                                                                class=" last" id="menu1489">Persoonlijke
-                                                                hygiëne</a>
+                                                            <a href="/de/startseite/non-food/körperpflege.html"
+                                                                class=" last" id="menu1489">Körperpflege</a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -205,24 +195,26 @@
                             <div class="childcontent-inner">
                                 <div class="gkcol gkcol1  first">
                                     <ul class="gkmenu level1">
-                                        <li class="first"><a href="/fütterungshinweise/voedingsadvies.html" class=" first"
-                                                id="menu1274">Voedingsadvies</a></li>
-                                        <li><a href="/fütterungshinweise/ernährungsrechner.html"
+                                        <li class="first"><a href="/de/fütterungshinweise/nulam-fütterungsberatung.html"
+                                                class=" first" id="menu1274">Nulam-Fütterungsberatung</a></li>
+                                        <li><a href="/de/fütterungshinweise/ernährungsrechner.html"
                                                 id="menu1272">Ernährungsrechner</a></li>
-                                        <li class="last"><a href="/fütterungshinweise/umschalten.html" class=" last"
-                                                id="menu1273">Umschalten</a></li>
+                                        <li class="last"><a href="/de/fütterungshinweise/futterumstellung.html"
+                                                class=" last" id="menu1273">Futterumstellung</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </li>
-                    <li class="gk-login-popup"><a href="/login-page.html" class=" gk-login-popup" id="menu1043">Login /
+                    <li class="gk-login-popup"><a href="/de/login-page.html" class=" gk-login-popup" id="menu1043">Login
+                            /
                             Register</a></li>
-                    <li class="last {if $page.page_name=='contact'}active{/if}"><a href="/de/contact" class=" last" id="menu426">Contact</a></li>
+                    <li class="last {if $page.page_name=='contact'}active{/if}"><a href="/de/contact" class=" last"
+                            id="menu426">Contact</a></li>
                 </ul>
             </nav>
             <div id="gkMobileMenu" class="gkPage">
-                <span id="gk-mobile-menu-text" style="width: 0px;">Menu</span>
+                <span id="gk-mobile-menu-text" style="width: 0px;">Speisekarte</span>
                 <i id="static-aside-menu-toggler"></i>
             </div>
         </div>
@@ -232,21 +224,21 @@
     <p><img src="{if $banner}{$banner}{else}/images/banner-test.jpg{/if}" alt=""></p>&nbsp;
     <div id="ca_banner" style="top:0px;">
         <p style="
-                    ">Nulam® maakt gebruik van cookies om jou beter en persoonlijker te kunnen helpen. Met deze cookies
-            volgen wij en derde partijen jouw internetgedrag. Zo kunnen we advertenties tonen op basis van jouw
-            interesses, kun je informatie delen via social media en kunnen we je een goed functionerende website bieden.
-            Door verder te gaan op onze website ga je hiermee akkoord. <span class="infoplus" style=""><a
-                    href="/cookie-statement.html">Lees meer</a></span>
+                    ">Nulam® verwendet Cookies, um Ihnen besser und persönlicher zu helfen. Wir und Dritte verwenden
+            diese Cookies, um Ihr Internetverhalten zu verfolgen. Zum Beispiel können wir Anzeigen schalten, die auf
+            Ihren Interessen basieren, Sie können Informationen über soziale Medien austauschen und wir können Ihnen
+            eine gut funktionierende Website anbieten. Wenn Sie auf unserer Website fortfahren, stimmen Sie dem zu.<span
+                class="infoplus" style=""><a href="/de/cookie-statement.html">Weiterlesen</a></span>
         </p>
-        <div class="accept" style="">Dit bericht verbergen</div>
+        <div class="accept" style="">Ich verstehe</div>
     </div>
-    <script src="https://budgetdesinfectie.nl/de/themes/PRS020/assets/js/nulam/setCookie.js" type="text/javascript">
+    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/setCookie.js" type="text/javascript">
     </script>
 </div>
 <div class="modulediv">
     <div class="innermdule">
         <div class="maindiv">
-            <span class="newdivcircle"><span>bereid uit</span><strong>de best denkbare</strong>Ingrediënten.</span>
+            <span class="newdivcircle"><span>Aus</span><strong>den bestmöglichen</strong>Zutaten zubereitet.</span>
         </div>
         <p>&nbsp;</p>
     </div>

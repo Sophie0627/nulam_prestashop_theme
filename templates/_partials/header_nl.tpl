@@ -26,20 +26,7 @@
         </a>
         <div class="mainrightpart">
             <div class="toppart">
-                <div id="gkPopupCart" style="display: block; opacity: 0; margin-top: -150px;">
-                    <div class="gkPopupWrap">
-                        <div id="gkAjaxCart"></div>
-                    </div>
-                </div>
-                <div id="gkLang">
-                    <div class="box ">
-                        <div class="box-wrap">
-                            <div class="content">
-                                {hook h='displayTop'}
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                {hook h='displayTop'}
                 <div id="gk-cart-btn">
                     <i class="gkicon-cart"></i>
                 </div>
@@ -223,7 +210,8 @@
                     </li>
                     <li class="gk-login-popup"><a href="/login-page.html" class=" gk-login-popup" id="menu1043">Login /
                             Register</a></li>
-                    <li class="last {if $page.page_name=='contact'}active{/if}"><a href="/contact" class=" last" id="menu426">Contact</a></li>
+                    <li class="last {if $page.page_name=='contact'}active{/if}"><a href="/contact" class=" last"
+                            id="menu426">Contact</a></li>
                 </ul>
             </nav>
             <div id="gkMobileMenu" class="gkPage">
@@ -234,7 +222,7 @@
     </div>
 </div>
 <div id="gkHeaderMod" class="gk-clearfix">
-    <p><img src="{if $banner}{$banner}{else}/images/banner-test.jpg{/if}" alt=""></p>&nbsp;
+    <p><img src="{if isset($banner)}{$banner}{else}/images/banner-test.jpg{/if}" alt=""></p>&nbsp;
     <div id="ca_banner" style="top:0px;">
         <p style="
                     ">Nulam® maakt gebruik van cookies om jou beter en persoonlijker te kunnen helpen. Met deze cookies

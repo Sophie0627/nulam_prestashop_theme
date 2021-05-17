@@ -7,7 +7,7 @@
                             calculator</span></h3>
                     <div class="content gkPage">
                         <script type="text/javascript" language="javascript">
-                            var select_one_filter_vale = "Please select atlead one filter value";
+                            var select_one_filter_vale = "Please select at least one filter value";
 
                             function check_value() {
                                 var form = document.hotel_search;
@@ -17,11 +17,31 @@
                                     alert(select_one_filter_vale);
                                     return false;
                                 }
+
+                                q=[];
+                                if($('#dogage').val()){
+                                    q.push('Age-'+$('#dogage').val());
+                                }
+                                if($('#dogsize').val()){
+                                    q.push('Dog+Size-'+$('#dogsize').val());
+                                }
+                                if($('#dogactivity').val()){
+                                    q.push('Activity-'+$('#dogactivity').val());
+                                }
+                                if($('#dogallergy').val()){
+                                    q.push('Allergy-'+$('#dogallergy').val());
+                                }
+                                if($('#dognutrizion').val()){
+                                    q.push('Nutrition-'+$('#dognutrizion').val());
+                                }
+
+                                query = '?q='+q.join('/');
+                                window.location = 'https://budgetdesinfectie.nl/en/shop.html'+query;
                             }
                         </script>
 
                         <div class="main-div-form">
-                            <form action="/en/component/virtuemart/?Itemid=1272" method="post" id="hotel_search"
+                            <form action="#" method="post" id="hotel_search"
                                 name="hotel_search">
 
                                 <table cellpadding="5px" cellspacing="5px" width="100%">
@@ -57,7 +77,7 @@
                                                     <option value="Normal">Normal</option>
                                                     <option value="Low">Low</option>
                                                     <option value="Active">Active</option>
-                                                    <option value="Very Active">Very Active</option>
+                                                    <option value="Veryactive">Very Active</option>
                                                 </select>
                                             </td>
                                         </tr>
@@ -66,10 +86,10 @@
                                             <td>Allergy</td>
                                             <td><select id="dogallergy" name="dogallergy" class="inputtext" size="auto">
                                                     <option value="" selected="selected">Select..</option>
-                                                    <option value="No allergy">No Allergy</option>
+                                                    <option value="Noallergy">No Allergy</option>
                                                     <option value="Beef">Beef</option>
                                                     <option value="Chicken">Chicken</option>
-                                                    <option value="Grain gluten">Grain free</option>
+                                                    <option value="Graingluten">Grain free</option>
                                                     <option value="Hypoallergenic">Hypoallergenic</option>
                                                 </select>
                                             </td>
@@ -81,15 +101,15 @@
                                                     size="auto">
                                                     <option value="" selected="selected">Select..</option>
                                                     <option value="Chunks">Chunks</option>
-                                                    <option value="Fresh meat">Fresh Meat</option>
+                                                    <option value="Freshmeat">Fresh Meat</option>
                                                     <option value="Snack">Snacks</option>
                                                 </select>
                                             </td>
                                         </tr>
 
                                         <tr>
-                                            <td colspan="2" align="center"><input type="submit" name="search"
-                                                    onclick="return check_value();" value="Search" <="" td=""></td>
+                                            <td colspan="2" align="center"><input type="button" name="search"
+                                                    onclick="return check_value();" value="Search"></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -123,66 +143,4 @@
         </div>
     </section>
 
-    <div>
-        <div>
-            <div id="gkContent">
-
-                <section id="gkMainbody">
-
-                    <article id="comContentContainer" class="itemView single-page " itemscope=""
-                        itemtype="http://schema.org/Article">
-                        <meta itemprop="inLanguage" content="en-GB">
-
-                        <div class="gkPage">
-                            <div id="gk-content-wrapper">
-
-                                <div class="item-content">
-                                    <div class="item-info">
-                                        <ul>
-
-                                        </ul>
-                                    </div><!-- .itemInfo -->
-
-                                    <div class="item-body" itemprop="articleBody">
-
-                                        <p></p>
-                                        <h2>Our Nutrition Calculator is currently being updated, sorry for the
-                                            inconvenience</h2>
-                                        <p>&nbsp;</p>
-
-                                    </div><!-- .item-body -->
-
-                                    <span class="gk-social-icons">
-                                        <i class="fa fa-share-alt"></i>
-
-                                        <span>
-                                            <a href="https://www.facebook.com/sharer.php?u=https://nulam.nl/en/feeding-advice/nutrition-calculator.html"
-                                                target="_blank"><i class="fa fa-facebook"></i> Facebook</a>
-
-                                            <a href="http://twitter.com/intent/tweet?source=sharethiscom&amp;url=https://nulam.nl/en/feeding-advice/nutrition-calculator.html"
-                                                target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
-
-                                            <a href="https://plus.google.com/share?url=https://nulam.nl/en/feeding-advice/nutrition-calculator.html"
-                                                target="_blank"><i class="fa fa-google-plus"></i> Google+</a>
-
-                                            <a
-                                                href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><i
-                                                    class="fa fa-pinterest-p"></i> Pinterest</a>
-
-                                        </span>
-                                    </span>
-
-                                </div><!-- .item-content -->
-
-                            </div>
-
-                        </div>
-                    </article>
-
-                </section>
-
-            </div>
-
-        </div>
-    </div>
 </div>

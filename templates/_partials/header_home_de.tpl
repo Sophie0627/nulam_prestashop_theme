@@ -7,9 +7,8 @@
                         <div class="custom">
                             <div class="row">
                                 <div class="col-sm-12 corona-virus">
-                                    <span class="f-18 mr-3">Let op! Wij hanteren extra richtlijnen n.a.v. het
-                                        coronavirus.</span> <a href="/de/richtlijnen.html"
-                                        class="btn wei-btn wei-bluebtn">Zie onze richtlijnen</a>
+                                    <span class="f-18 mr-3">Passt auf! Wir verwenden zusätzliche Richtlinien für das Corona-Virus.</span> <a href="/de/richtlinien.html"
+                                        class="btn wei-btn wei-bluebtn">Siehe unsere Richtlinien</a>
                                 </div>
                             </div>
                         </div>
@@ -58,8 +57,8 @@
                                                 Nulam</a>
                                         </li>
                                         <li>
-                                            <a href="/de/über-uns/ganzheitliches-hundefutter.html"
-                                                id="menu1391">Ganzheitliches Hundefutter</a>
+                                            <a href="/de/über-uns/natürliches-hundefutter.html"
+                                                id="menu1391">Natürliches Hundefutter</a>
                                         </li>
                                         <li class="last">
                                             <a href="/de/über-uns/kundenbewertungen.html" class=" last"
@@ -150,7 +149,7 @@
                                                         </li>
                                                         <li>
                                                             <a href="/de/startseite/snacks/getrocknete-snacks.html"
-                                                                id="menu1200">Getricknete Snacks</a>
+                                                                id="menu1200">Getrocknete Snacks</a>
                                                         </li>
                                                         <li class="last">
                                                             <a href="/de/startseite/snacks/nulam-trainingsleckerlis.html"
@@ -242,10 +241,10 @@
         <div class="region region-banner-header-layer">
             <ul class="item-list holder">
                 <li>
-                    <a href="/shop/nulam-snacks/non-food/desinfectiemiddelen/desinfectie-alcohol-spray-detail.html">
+                    <a href="/startseite/de/non-food/desinfectiemiddelen/desinfectie-alcohol-spray-detail.html">
                         <div class="description">
-                            <strong class="title">Desinfectie spray</strong>
-                            <strong class="heading">Desinfectiemiddelen</strong>
+                            <strong class="title">Alkohol-Desinfektionsspray</strong>
+                            <strong class="heading">Desinfektionsmittel</strong>
                         </div>
                         <div class="img-wrap">
                             <img src="/images/mini-desinfectie-spray.png" alt="Desinfectie spray Desinfectiemiddelen">
@@ -253,10 +252,10 @@
                     </a>
                 </li>
                 <li>
-                    <a href="/shop/nulam-snacks/non-food/persoonlijke-hygiëne/desinfecterende-handgel-detail.html">
+                    <a href="/startseite/de/non-food/persoonlijke-hygiëne/desinfecterende-handgel-detail.html">
                         <div class="description">
-                            <strong class="title">Desinfecterende Handgel</strong>
-                            <strong class="heading">Persoonlijke hygiëne</strong>
+                            <strong class="title">Desinfektions-Handgel</strong>
+                            <strong class="heading">KÖRPERPFLEGE</strong>
                         </div>
                         <div class="img-wrap">
                             <img src="/images/mini-desinfecterend_handgel.png"
@@ -265,9 +264,9 @@
                     </a>
                 </li>
                 <li>
-                    <a href="/shop/nulam-brokken/puppy/perfect-bulldog-junior-detail.html">
+                    <a href="/startseite/de/nulam-chunks/puppy-junior/perfect-bulldog-junior-detail.html">
                         <div class="description">
-                            <strong class="title">Puppy Brokken</strong>
+                            <strong class="title">Hündchen Brocken</strong>
                             <strong class="heading">Perfect Bulldog Junior</strong>
                         </div>
                         <div class="img-wrap">

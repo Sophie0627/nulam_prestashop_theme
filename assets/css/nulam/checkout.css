@@ -1,0 +1,12 @@
+#login-form .userdata .width30 {
+    margin-bottom: 15px;
+}
+
+#login-form .userdata input, #login-form .userdata button {
+    width: 100%;
+    background: #f19300;
+}
+
+#login-form .userdata p {
+    color: #f19300;
+}

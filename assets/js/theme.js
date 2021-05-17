@@ -154,7 +154,7 @@
 	  var topMenu = new _componentsTopMenu2['default'](topMenuEl);
 	  var productMinitature = new _componentsProductMiniature2['default']();
 	  var productSelect = new _componentsProductSelect2['default']();
-	  $('#product-zoom').zoom();
+	//   $('#product-zoom').zoom();
 	
 	  dropDown.init();
 	  form.init();

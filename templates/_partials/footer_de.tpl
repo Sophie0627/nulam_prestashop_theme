@@ -3,10 +3,10 @@
 <div class="left">
     <p>&nbsp;</p>
     <ul class="menu">
-        <li><strong>Service</strong></li>
+        <li><strong>BEDIENUNG</strong></li>
     </ul>
 
-    <ul class="menu">
+    <!-- <ul class="menu">
         <li class="item-1198"><a href="/contact.html">Contact</a></li>
         <li class="item-1193"><a href="/betalen.html">Betalen</a></li>
         <li class="item-1037"><a href="/bezorgen.html">Bezorgen</a></li>
@@ -16,7 +16,7 @@
         <li class="item-1343"><a href="/klachtenpagina.html">Klachtenpagina</a></li>
         <li class="item-1392"><a href="/disclaimer.html">DISCLAIMER</a></li>
         <li class="item-1468"><a href="/cookie-statement.html">Cookie statement</a></li>
-    </ul>
+    </ul> -->
 </div>
 
 <div class="right">
@@ -26,7 +26,7 @@
             <div>
                 <div>
                     <ul class="menu">
-                        <li><strong>VOORDELEN</strong></li>
+                        <li><strong>LEISTUNGEN</strong></li>
                     </ul>
                 </div>
             </div>
@@ -36,13 +36,13 @@
         <div>
             <div>
                 <div>
-                    <ul class="menu">
+                   <!--  <ul class="menu">
                         <li class="item-1194"><a href="/bulkvoordeel.html">Bulkvoordeel</a></li>
                         <li class="item-1196"><a href="/stichting-vereniging.html">Stichting / vereniging </a></li>
                         <li class="item-1195"><a href="/fokkers-kennels.html">Fokkers / Kennels</a></li>
                         <li class="item-1197"><a href="/kortingscodes.html">Kortingscodes</a></li>
                         <li class="item-1242"><a href="/reseller-distributeur-worden.html">Reseller / distributeur worden</a></li>
-                    </ul>
+                    </ul> -->
                 </div>
             </div>
         </div>

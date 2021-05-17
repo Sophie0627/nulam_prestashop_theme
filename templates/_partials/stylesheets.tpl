@@ -12,6 +12,12 @@
 {else}
   <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/topsidebar.css" rel="stylesheet" type="text/css">
 {/if}
+{if $page.page_name == 'cart'}
+  <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/cart.css" rel="stylesheet" type="text/css">
+{/if}
+{if $page.page_name == 'checkout'}
+  <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/checkout.css" rel="stylesheet" type="text/css">
+{/if}
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/modules/mod_cookiesaccept/screen.css" rel="stylesheet" type="text/css">
 <link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/media/mod_falang/template.css" rel="stylesheet" type="text/css">
 

@@ -16,12 +16,31 @@
                                     '' && form.dogallergy.value == '' && form.dognutrizion.value == '') {
                                     alert(select_one_filter_vale);
                                     return false;
+                                q=[];
+                                if($('#dogage').val()){
+                                    q.push('Age-'+$('#dogage').val());
+                                }
+                                if($('#dogsize').val()){
+                                    q.push('Dog+Size-'+$('#dogsize').val());
+                                }
+                                if($('#dogactivity').val()){
+                                    q.push('Activity-'+$('#dogactivity').val());
+                                }
+                                if($('#dogallergy').val()){
+                                    q.push('Allergy-'+$('#dogallergy').val());
+                                }
+                                if($('#dognutrizion').val()){
+                                    q.push('Nutrition-'+$('#dognutrizion').val());
+                                }
+
+                                query = '?q='+q.join('/');
+                                window.location = 'https://budgetdesinfectie.nl/shop.html'+query;
                                 }
                             }
                         </script>
 
                         <div class="main-div-form">
-                            <form action="/component/virtuemart/?Itemid=1272" method="post" id="hotel_search"
+                            <form action="#" method="post" id="hotel_search"
                                 name="hotel_search">
 
                                 <table cellpadding="5px" cellspacing="5px" width="100%">
@@ -57,7 +76,7 @@
                                                     <option value="Normal">Normaal</option>
                                                     <option value="Low">Weinig</option>
                                                     <option value="Active">Actief</option>
-                                                    <option value="Very Active">Zeer actief</option>
+                                                    <option value="Veryactive">Zeer actief</option>
                                                 </select>
                                             </td>
                                         </tr>
@@ -66,10 +85,10 @@
                                             <td>Allergie</td>
                                             <td><select id="dogallergy" name="dogallergy" class="inputtext" size="auto">
                                                     <option value="" selected="selected">Selecteer..</option>
-                                                    <option value="No allergy">Geen Allergie</option>
+                                                    <option value="Noallergy">Geen Allergie</option>
                                                     <option value="Beef">Rund</option>
                                                     <option value="Chicken">Kip</option>
-                                                    <option value="Grain gluten">Graanvrij</option>
+                                                    <option value="Graingluten">Graanvrij</option>
                                                     <option value="Hypoallergenic">Hypoallergeen </option>
                                                 </select>
                                             </td>
@@ -81,15 +100,15 @@
                                                     size="auto">
                                                     <option value="" selected="selected">Selecteer..</option>
                                                     <option value="Chunks">Brokken</option>
-                                                    <option value="Fresh meat">Vers Vlees</option>
+                                                    <option value="Freshmeat">Vers Vlees</option>
                                                     <option value="Snack">Snacks</option>
                                                 </select>
                                             </td>
                                         </tr>
 
                                         <tr>
-                                            <td colspan="2" align="center"><input type="submit" name="search"
-                                                    onclick="return check_value();" value="Zoeken" <="" td=""></td>
+                                            <td colspan="2" align="center"><input type="button" name="search"
+                                                    onclick="return check_value();" value="Zoeken"></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -123,63 +142,4 @@
         </div>
     </section>
 
-    <div>
-        <div>
-            <div id="gkContent">
-
-                <section id="gkMainbody">
-
-                    <article id="comContentContainer" class="itemView single-page " itemscope=""
-                        itemtype="http://schema.org/Article">
-                        <meta itemprop="inLanguage" content="nl-NL">
-
-                        <div class="gkPage">
-                            <div id="gk-content-wrapper">
-
-                                <div class="item-content">
-                                    <div class="item-info">
-                                        <ul>
-
-                                        </ul>
-                                    </div><!-- .itemInfo -->
-
-                                    <div class="item-body" itemprop="articleBody">
-
-                                        <p></p>
-
-                                    </div><!-- .item-body -->
-
-                                    <span class="gk-social-icons">
-                                        <i class="fa fa-share-alt"></i>
-
-                                        <span>
-                                            <a href="https://www.facebook.com/sharer.php?u=https://nulam.nl/voedingsadvies/voedingsadvies-op-maat.html"
-                                                target="_blank"><i class="fa fa-facebook"></i> Facebook</a>
-
-                                            <a href="http://twitter.com/intent/tweet?source=sharethiscom&amp;url=https://nulam.nl/voedingsadvies/voedingsadvies-op-maat.html"
-                                                target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
-
-                                            <a href="https://plus.google.com/share?url=https://nulam.nl/voedingsadvies/voedingsadvies-op-maat.html"
-                                                target="_blank"><i class="fa fa-google-plus"></i> Google+</a>
-
-                                            <a
-                                                href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><i
-                                                    class="fa fa-pinterest-p"></i> Pinterest</a>
-
-                                        </span>
-                                    </span>
-
-                                </div><!-- .item-content -->
-
-                            </div>
-
-                        </div>
-                    </article>
-
-                </section>
-
-            </div>
-
-        </div>
-    </div>
 </div>

@@ -30,8 +30,14 @@
             <div id="gkContent">
                 <section id="gkMainbody">
                     <div class="browse-view">
-                        <h1 class="h1">{$category.name}</h1>
-                        {if $category.description}
-                            <div id="category-description" class="text-muted">{$category.description nofilter}</div>
+                        {if $category.id == 2}
+                            {assign var='file' value='cms/cms/13-'|cat:$language.iso_code}
+                            {include file=$file|cat:'.tpl'}
+                        {else}
+                            <h1 class="h1">{$category.name}</h1>
+                            {if $category.description}
+                                <div id="category-description" class="text-muted">{$category.description nofilter}</div>
+                            {/if}
                         {/if}
+                        
                     {/block}

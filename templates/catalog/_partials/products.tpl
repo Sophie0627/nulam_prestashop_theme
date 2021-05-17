@@ -24,7 +24,9 @@
  *}
 
 {foreach from=$listing.products item="product"}
+{if $product.id|in_array:$cat_products}
   {block name='product_miniature'}
     {include file='catalog/_partials/miniatures/product.tpl' product=$product}
   {/block}
+  {/if}
 {/foreach}

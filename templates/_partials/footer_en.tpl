@@ -7,15 +7,15 @@
     </ul>
 
     <ul class="menu">
-        <li class="item-1198"><a href="/contact.html">Contact</a></li>
-        <li class="item-1193"><a href="/betalen.html">Betalen</a></li>
-        <li class="item-1037"><a href="/bezorgen.html">Bezorgen</a></li>
-        <li class="item-1038"><a href="/retouren.html">Retouren</a></li>
-        <li class="item-1169"><a href="/privacy-policy.html">Privacy Policy</a></li>
-        <li class="item-1170"><a href="/algemene-voorwaarden.html">Algemene voorwaarden</a></li>
-        <li class="item-1343"><a href="/klachtenpagina.html">Klachtenpagina</a></li>
-        <li class="item-1392"><a href="/disclaimer.html">DISCLAIMER</a></li>
-        <li class="item-1468"><a href="/cookie-statement.html">Cookie statement</a></li>
+        <li class="item-1198"><a href="/en/contact.html">Contact</a></li>
+        <li class="item-1193"><a href="/en/methods-of-payment.html">Methods of Payment</a></li>
+        <li class="item-1037"><a href="/en/delivery.html">Delivery</a></li>
+        <li class="item-1038"><a href="/en/returns.html">Returns</a></li>
+        <li class="item-1169"><a href="/en/privacy-security.html">Privacy & Security</a></li>
+        <li class="item-1170"><a href="/en/terms-and-conditions.html">Terms and Conditions</a></li>
+        <!-- <li class="item-1343"><a href="/en/klachtenpagina.html">Klachtenpagina</a></li> -->
+        <li class="item-1392"><a href="/en/disclaimer.html">DISCLAIMER</a></li>
+        <li class="item-1468"><a href="/en/cookie-statement.html">Cookie statement</a></li>
     </ul>
 </div>
 
@@ -26,7 +26,7 @@
             <div>
                 <div>
                     <ul class="menu">
-                        <li><strong>VOORDELEN</strong></li>
+                        <li><strong>BENEFITS</strong></li>
                     </ul>
                 </div>
             </div>
@@ -36,13 +36,13 @@
         <div>
             <div>
                 <div>
-                    <ul class="menu">
-                        <li class="item-1194"><a href="/bulkvoordeel.html">Bulkvoordeel</a></li>
-                        <li class="item-1196"><a href="/stichting-vereniging.html">Stichting / vereniging </a></li>
-                        <li class="item-1195"><a href="/fokkers-kennels.html">Fokkers / Kennels</a></li>
-                        <li class="item-1197"><a href="/kortingscodes.html">Kortingscodes</a></li>
-                        <li class="item-1242"><a href="/reseller-distributeur-worden.html">Reseller / distributeur worden</a></li>
-                    </ul>
+    <!--                 <ul class="menu">
+                        <li class="item-1194"><a href="/en/bulkvoordeel.html">Bulkvoordeel</a></li>
+                        <li class="item-1196"><a href="/en/stichting-vereniging.html">Stichting / vereniging </a></li>
+                        <li class="item-1195"><a href="/en/fokkers-kennels.html">Fokkers / Kennels</a></li>
+                        <li class="item-1197"><a href="/en/kortingscodes.html">Kortingscodes</a></li>
+                        <li class="item-1242"><a href="/en/reseller-distributeur-worden.html">Reseller / distributeur worden</a></li>
+                    </ul> -->
                 </div>
             </div>
         </div>
