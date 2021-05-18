@@ -30,7 +30,7 @@
                     <i class="gkicon-cart"></i>
                 </div>
             </div>
-            <nav class="gkMainMenu gkMenu" data-duration="150" data-opacity="1" data-height="1" data-width="1">
+            <nav class="gkMainMenu gkMenu" data-duration="150" data-opacity="1" data-height="1" data-width="1" {if !$customer.is_logged || $customer.is_guest}style="width:120%; left:-10%;"{/if}>
                 <ul class="gkmenu level0">
                     <li class="first {if $page.page_name=='index'}active{/if}">
                         <a href="https://budgetdesinfectie.nl/de/" class=" first active" id="menu1167">Home</a>
@@ -206,11 +206,13 @@
                             </div>
                         </div>
                     </li>
-                    <li class="gk-login-popup"><a href="/de/login-page.html" class=" gk-login-popup" id="menu1043">Login
-                            /
-                            Register</a></li>
+                    {if $customer.is_logged && !$customer.is_guest}
+                    <li class=""><a href="/de/mein-Konto" class=" " id="menu1043">Mein Konto</a></li>
+                    {else}
+                    <li class="gk-login-popup"><a href="/de/login-page.html" class=" gk-login-popup" id="menu1043">Anmeldung / Registrieren</a></li>
+                    {/if}
                     <li class="last {if $page.page_name=='contact'}active{/if}"><a href="/de/contact" class=" last"
-                            id="menu426">Contact</a></li>
+                            id="menu426">Kontakt</a></li>
                 </ul>
             </nav>
             <div id="gkMobileMenu" class="gkPage">

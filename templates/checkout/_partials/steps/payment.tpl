@@ -145,13 +145,13 @@
 
   {hook h='displayPaymentByBinaries'}
 
-  <div class="modal fade" id="modal">
+  <div class="modal fade" id="modal" style="z-index:99999;">
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <button type="button" class="close" data-dismiss="modal" aria-label="{l s='Close' d='Shop.Theme.Global'}">
-          <span aria-hidden="true">&times;</span>
+          <span aria-hidden="true" style="color:black;">&times;</span>
         </button>
-        <div class="js-modal-content"></div>
+        <div class="js-modal-content" style="font-family: appleberry, Arial, sans-serif;"></div>
       </div>
     </div>
   </div>

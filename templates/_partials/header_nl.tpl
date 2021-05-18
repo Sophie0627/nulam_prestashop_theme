@@ -208,8 +208,11 @@
                             </div>
                         </div>
                     </li>
-                    <li class="gk-login-popup"><a href="/login-page.html" class=" gk-login-popup" id="menu1043">Login /
-                            Register</a></li>
+                    {if $customer.is_logged && !$customer.is_guest}
+                    <li class=""><a href="/mijn-account" class=" " id="menu1043">Mijn Account</a></li>
+                    {else}
+                    <li class="gk-login-popup"><a href="/login-page.html" class=" gk-login-popup" id="menu1043">Login / Register</a></li>
+                    {/if}
                     <li class="last {if $page.page_name=='contact'}active{/if}"><a href="/contact" class=" last"
                             id="menu426">Contact</a></li>
                 </ul>

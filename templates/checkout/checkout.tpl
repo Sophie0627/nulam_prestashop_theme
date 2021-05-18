@@ -132,25 +132,15 @@
             </div>
         </div>
     </div>
-    <div id="gk-newsletter-popup" data-display="after_time" data-scroll="1000" data-time="6" class="">
-        <a href="#" id="gk-newsletter-popup-close">×</a>
-
-        <h3>Meld je aan</h3>
-        <p>Schrijf nu in op onze nieuwsbrief <br>en ontvang de laatste aanbiedingen</p>
-        <form action="index.php?option=com_acymailing&amp;ctrl=sub" method="post"><input name="user[email]" required=""
-                type="email" id="user_email" placeholder="email:"> <input type="submit" value="Aanmelden"
-                id="gk-newsletter-submit"> <input name="acyformname" type="hidden" value="formAcymailing1"> <input
-                name="ctrl" type="hidden" value="sub"> <input name="task" type="hidden" value="optin"> <input
-                name="option" type="hidden" value="com_acymailing"> <input name="visiblelists" type="hidden" value="">
-            <input name="hiddenlists" type="hidden" value="1"> <input name="user[html]" type="hidden" value="1">
-        </form>
-        <!-- Configuration details: https://www.acyba.com/acymailing/248-acymailing-external-subscription-form.html -->
-        <p><small> Lees onze <a href="/index.php/privacy">privacy beleid</a> &amp; <a
-                    href="/index.php/algemene-voorwaarden">algemene voorwaarden</a><br> U kunt zich op elke gewenste
-                moment uitschrijven</small></p>
 
     </div>
-    <div class="dogbox-sidebar" style="right: -348px;"> </div>
+    {if $language.iso_code == 'en'}
+    <a href="/en/contact-for-sample.html"><div class="dogbox-sidebar" style="right: -348px;"> </div></a>
+    {elseif $language.iso_code == 'nl'}
+    <a href="/contact-for-sample.html"><div class="dogbox-sidebar" style="right: -348px;"> </div></a>
+    {elseif $language.iso_code == 'de'}
+    <a href="/de/contact-for-sample.html"><div class="dogbox-sidebar" style="right: -348px;"> </div></a>
+    {/if}
     {block name='javascript_bottom'}
         {include file="_partials/javascript.tpl" javascript=$javascript.bottom}
     {/block}

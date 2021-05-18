@@ -23,7 +23,25 @@
  * International Registered Trademark & Property of PrestaShop SA
  *}
  
+ {if $cms.id == 3}
+  {block name='content'}
+   <section id="content" class="page-content page-cms page-cms-{$cms.id}">
  
+     {block name='cms_content'}
+       {$cms.content nofilter}
+     {/block}
+ 
+     {block name='hook_cms_dispute_information'}
+       {hook h='displayCMSDisputeInformation'}
+     {/block}
+ 
+     {block name='hook_cms_print_button'}
+       {hook h='displayCMSPrintButton'}
+     {/block}
+ 
+   </section>
+ {/block}
+ {else}
  {assign var='file' value="cms/cms/"|cat:$cms.id}
  {assign var='file' value=$file|cat:"-"}
  {assign var='file' value=$file|cat:$language.iso_code}
@@ -37,4 +55,7 @@
  {block name='content'}
   {include file=$file}
 {/block}
+
+{/if}
+
 {extends file=$layout}

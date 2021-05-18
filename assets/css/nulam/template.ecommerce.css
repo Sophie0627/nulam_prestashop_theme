@@ -2273,6 +2273,8 @@ width: 29.5%;}
 
 #gkHeader{    margin: 0 0 24px 0;
     float: left; width:100%;}
+    /*#gkHeader{    margin: 0 0 24px 0;
+    float: left; width:100%;}*/
 #gkHeaderNav.inactive #gk-mobile-menu-text {
   width: 0 !important;
 }

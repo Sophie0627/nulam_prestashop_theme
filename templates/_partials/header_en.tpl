@@ -75,7 +75,7 @@
                                         <li class="first group">
                                             <div class="group">
                                                 <div class="header">
-                                                    <a href="/en/shop/nulam-brokken.html" class=" first group"
+                                                    <a href="/en/shop/nulam-chunks.html" class=" first group"
                                                         id="menu1111">NULAM CHUNKS</a>
                                                 </div>
                                                 <div class="gk-group-content">
@@ -200,8 +200,11 @@
                             </div>
                         </div>
                     </li>
-                    <li class="gk-login-popup"><a href="/en/login-page.html" class=" gk-login-popup" id="menu1043">Login /
-                            Register</a></li>
+                    {if $customer.is_logged && !$customer.is_guest}
+                    <li class=""><a href="/en/my-account" class=" " id="menu1043">My Account</a></li>
+                    {else}
+                    <li class="gk-login-popup"><a href="/en/login-page.html" class=" gk-login-popup" id="menu1043">Login / Register</a></li>
+                    {/if}
                     <li class="last {if $page.page_name=='contact'}active{/if}"><a href="/en/contact" class=" last" id="menu426">Contact</a></li>
                 </ul>
             </nav>

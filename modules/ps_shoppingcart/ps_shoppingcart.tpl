@@ -44,9 +44,9 @@
                                             </div>
                                         </div>
                                     {/if}
-                                </div>
-                            </div>
+                                    </div>
                             <span class="gkPrice num1">{$product.price}</span>
+                                </div>
 
                         {/foreach}
                     </div>

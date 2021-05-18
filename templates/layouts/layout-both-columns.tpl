@@ -86,7 +86,7 @@
                             {assign var='banner' value='/images/banner-noon-food.jpg'}
                         {/if}
                     {elseif $page.page_name == 'product'}
-                        {assign var="images" value=[1	=> '/images/stories/virtuemart/product/1482313169_puppy-banner.jpg',2	=> '/images/stories/virtuemart/product/1482276090_banner-bulldog-junior-3.jpg',4	=> '/images/stories/virtuemart/product/1482308149_banner-rijst-2.jpg',5	=> '/images/stories/virtuemart/product/1481959129_banner-sea-2.jpg',6	=> '/images/stories/virtuemart/product/1519984986_banner-salmon-potatoes.jpg',7	=> '/images/stories/virtuemart/product/1518428005_Nulam_banner-energy.jpg',8	=> '/images/stories/virtuemart/product/1481806666_banner-ennergy-plus.jpg',9	=> '/images/stories/virtuemart/product/1481794773_banner-mini-adult-2.jpg',10	=> '/images/stories/virtuemart/product/1521254376__banner-lamb-potatoes.jpg',12	=> '/images/stories/virtuemart/product/1482142125_banner-bulldog.jpg',13	=> '/images/stories/virtuemart/product/1518962986__banner-vetanary.png',15	=> '/images/stories/virtuemart/product/1482318366_Header-Light-senior.jpg',16	=> '/images/stories/virtuemart/product/1483686622_banner-14.jpg',17	=> '/images/stories/virtuemart/product/1482389031_banner-3.jpg',18	=> '/images/stories/virtuemart/product/1534840280_1482660184_banner-27.jpg',19	=> '/images/stories/virtuemart/product/1522582093_pure-bulldog-puppy-banner.jpg',20	=> '/images/stories/virtuemart/product/1482935334_banner-nature.jpg',22	=> '/images/stories/virtuemart/product/1482935739_banner-sintbernad.jpg',23	=> '/images/stories/virtuemart/product/1482661413_banner-zee.jpg',24	=> '/images/stories/virtuemart/product/1482661145_banner-17.jpg',25	=> '/images/stories/virtuemart/product/1482659241_banner-voer.jpg',26	=> '/images/stories/virtuemart/product/1482660857_banner-21.jpg',27	=> '/images/stories/virtuemart/product/1482392327_banner-senior-2.jpg',29	=> '/images/stories/virtuemart/product/1482388821_banner-4.jpg',30	=> '/images/stories/virtuemart/product/1482391266_banner-24.jpg',31	=> '/images/stories/virtuemart/product/1482389667_banner-19.jpg',33	=> '/images/stories/virtuemart/product/1482389489_banner-10.jpg',34	=> '/images/stories/virtuemart/product/1482662094_banner-3.jpg',35	=> '/images/stories/virtuemart/product/1522579420_banner-pure-bulldog-complete.jpg',36	=> '/images/stories/virtuemart/product/1507813113_nulam-banner-frensch-puppy.jpg',37	=> '/images/stories/virtuemart/product/',40	=> '/images/stories/virtuemart/product/1507968802_banner-nulam-2.jpg',41	=> '/images/stories/virtuemart/product/1507814185_banner-bulldog-adult.jpg',42	=> '/images/stories/virtuemart/product/1507971443_banner-nulam-5.jpg',43	=> '/images/stories/virtuemart/product/1507972627_banner-nulam-6.jpg',45	=> '/images/stories/virtuemart/product/1507805557_Nulam_banner-3.jpg',46	=> '/images/stories/virtuemart/product/1483083213_banner-9.jpg',47	=> '/images/stories/virtuemart/product/1483082352_banner31.jpg',48	=> '/images/stories/virtuemart/product/1483082027_banner-40.jpg',49	=> '/images/stories/virtuemart/product/1507747648_banner-nulam-1.jpg',50	=> '/images/stories/virtuemart/product/1507121006_banner-ganz.jpg',51	=> '/images/stories/virtuemart/product/1507747910_banner-nulam-3.jpg',57	=> '/images/stories/virtuemart/product/1483080564_banner-33.jpg',58	=> '/images/stories/virtuemart/product/1483081112_banner-37.jpg',59	=> '/images/stories/virtuemart/product/1483079110_banner-35.jpg',60	=> '/images/stories/virtuemart/product/1483035587_banner-32.jpg',61	=> '/images/stories/virtuemart/product/1483035562_banner-38.jpg',62	=> '/images/stories/virtuemart/product/1521254553_banner-duck-potatoes.jpg',53	=> '/images/stories/virtuemart/product/1584692795_banner-noon-food.jpg',56	=> '/images/stories/virtuemart/product/1584695975_banner-noon-food.jpg']}
+                        {assign var="images" value=[1	=> '/images/stories/virtuemart/product/1482313169_puppy-banner.jpg',2	=> '/images/stories/virtuemart/product/1482276090_banner-bulldog-junior-3.jpg',4	=> '/images/stories/virtuemart/product/1482308149_banner-rijst-2.jpg',5	=> '/images/stories/virtuemart/product/1481959129_banner-sea-2.jpg',6	=> '/images/stories/virtuemart/product/1519984986_banner-salmon-potatoes.jpg',7	=> '/images/stories/virtuemart/product/1518428005_Nulam_banner-energy.jpg',8	=> '/images/stories/virtuemart/product/1481806666_banner-ennergy-plus.jpg',9	=> '/images/stories/virtuemart/product/1481794773_banner-mini-adult-2.jpg',10	=> '/images/stories/virtuemart/product/1521254376__banner-lamb-potatoes.jpg',12	=> '/images/stories/virtuemart/product/1482142125_banner-bulldog.jpg',13	=> '/images/stories/virtuemart/product/1518962986__banner-vetanary.png',15	=> '/images/stories/virtuemart/product/1482318366_Header-Light-senior.jpg',16	=> '/images/stories/virtuemart/product/1483686622_banner-14.jpg',17	=> '/images/stories/virtuemart/product/1482389031_banner-3.jpg',18	=> '/images/stories/virtuemart/product/1534840280_1482660184_banner-27.jpg',19	=> '/images/stories/virtuemart/product/1522582093_pure-bulldog-puppy-banner.jpg',20	=> '/images/stories/virtuemart/product/1482935334_banner-nature.jpg',22	=> '/images/stories/virtuemart/product/1482935739_banner-sintbernad.jpg',23	=> '/images/stories/virtuemart/product/1482661413_banner-zee.jpg',24	=> '/images/stories/virtuemart/product/1482661145_banner-17.jpg',25	=> '/images/stories/virtuemart/product/1482659241_banner-voer.jpg',26	=> '/images/stories/virtuemart/product/1482660857_banner-21.jpg',27	=> '/images/stories/virtuemart/product/1482392327_banner-senior-2.jpg',29	=> '/images/stories/virtuemart/product/1482388821_banner-4.jpg',30	=> '/images/stories/virtuemart/product/1482391266_banner-24.jpg',31	=> '/images/stories/virtuemart/product/1482389667_banner-19.jpg',33	=> '/images/stories/virtuemart/product/1482389489_banner-10.jpg',34	=> '/images/stories/virtuemart/product/1482662094_banner-3.jpg',35	=> '/images/stories/virtuemart/product/1522579420_banner-pure-bulldog-complete.jpg',36	=> '/images/stories/virtuemart/product/1507813113_nulam-banner-frensch-puppy.jpg',37	=> '/images/stories/virtuemart/product/',40	=> '/images/stories/virtuemart/product/1507968802_banner-nulam-2.jpg',41	=> '/images/stories/virtuemart/product/1507814185_banner-bulldog-adult.jpg',42	=> '/images/stories/virtuemart/product/1507971443_banner-nulam-5.jpg',43	=> '/images/stories/virtuemart/product/1507972627_banner-nulam-6.jpg',45	=> '/images/stories/virtuemart/product/1507805557_Nulam_banner-3.jpg',46	=> '/images/stories/virtuemart/product/1483083213_banner-9.jpg',47	=> '/images/stories/virtuemart/product/1483082352_banner31.jpg',48	=> '/images/stories/virtuemart/product/1483082027_banner-40.jpg',49	=> '/images/stories/virtuemart/product/1507747648_banner-nulam-1.jpg',50	=> '/images/stories/virtuemart/product/1507121006_banner-ganz.jpg',51	=> '/images/stories/virtuemart/product/1507747910_banner-nulam-3.jpg',57	=> '/images/stories/virtuemart/product/1483080564_banner-33.jpg',58	=> '/images/stories/virtuemart/product/1483081112_banner-37.jpg',59	=> '/images/stories/virtuemart/product/1483079110_banner-35.jpg',60	=> '/images/stories/virtuemart/product/1483035587_banner-32.jpg',61	=> '/images/stories/virtuemart/product/1483035562_banner-38.jpg',62	=> '/images/stories/virtuemart/product/1521254553_banner-duck-potatoes.jpg',53	=> '/images/stories/virtuemart/product/1584692795_banner-noon-food.jpg',56	=> '/images/stories/virtuemart/product/1584695975_banner-noon-food.jpg',37 => '/images/stories/virtuemart/product/1482389489_banner-10-Copy.jpg']}
                         {foreach from=$images item=item key=key}
                             {if $key == $product.id}
                                 {assign var="banner" value=$item}
@@ -222,7 +222,8 @@
                         <label>{l s='Password' d='Shop.Theme.Actions'}</label>
                         <input id="modlgn-passwd" type="password" name="password" class="inputbox" size="24">
                     </p>
-                    <button class="button">{l s='Sign in' d='Shop.Theme.Actions'}</button>
+                    <input type="hidden" name="submitLogin" value="1">
+                    <button class="button" type="submit">{l s='Sign in' d='Shop.Theme.Actions'}</button>
                     <ul>
                         <li> <a href="{$urls.pages.password}" class="inverse">
                                 {l s='Forgot your password?' d='Shop.Theme.Customeraccount'}</a> </li>
@@ -237,21 +238,50 @@
 
     </div>
     <div id="gk-login-popup-overlay"></div>
-    <div id="gk-newsletter-popup" data-display="after_time" data-scroll="1000" data-time="6" class="">
-        <a href="#" id="gk-newsletter-popup-close">×</a>
 
-        <h3>Meld je aan</h3>
-        <p>Schrijf nu in op onze nieuwsbrief <br>en ontvang de laatste aanbiedingen</p>
-        <form action="{$urls.pages.index}" method="post"><input name="email" required="" type="email" id="user_email"
-                placeholder="email:"> <input type="submit" name="submitNewsletter" value="ok" id="gk-newsletter-submit">
-            <input type="hidden" name="action" value="0" />
-        </form>
-        <p><small> Lees onze <a href="/privacy-policy.html">privacy beleid</a> &amp; <a
-                    href="/algemene-voorwaarden.html">algemene voorwaarden</a><br> U kunt zich op elke gewenste
-                moment uitschrijven</small></p>
+    {if $page.page_name == 'index'}
+        <div id="gk-newsletter-popup" data-display="after_time" data-scroll="1000" data-time="6" class="">
+            <a href="#" id="gk-newsletter-popup-close">×</a>
+        {if $language.iso_code=='en'}
+            <h3>Sign In</h3>
+            <p>Subscribe now to our newsletter and receive the latest offers</p>
+            <form action="{$urls.pages.index}" method="post"><input name="email" required="" type="email" id="user_email"
+                    placeholder="email:"> <input type="submit" name="submitNewsletter" value="Register" id="gk-newsletter-submit">
+                <input type="hidden" name="action" value="0" />
+            </form>
+            <p><small> Read our <a href="/en/privacy-security.html">privacy policy</a> &amp; <a
+                        href="/en/terms-and-conditions.html">terms and conditions.</a><br> You can unsubscribe at any time.</small></p>
+        {elseif $language.iso_code=='nl'}
+            <h3>Meld je aan</h3>
+            <p>Schrijf nu in op onze nieuwsbrief <br>en ontvang de laatste aanbiedingen</p>
+            <form action="{$urls.pages.index}" method="post"><input name="email" required="" type="email" id="user_email"
+                    placeholder="email:"> <input type="submit" name="submitNewsletter" value="Aanmelden" id="gk-newsletter-submit">
+                <input type="hidden" name="action" value="0" />
+            </form>
+            <p><small> Lees onze <a href="/privacy-policy.html">privacy beleid</a> &amp; <a
+                        href="/algemene-voorwaarden.html">algemene voorwaarden</a><br> U kunt zich op elke gewenste
+                    moment uitschrijven</small></p>
+        {elseif $language.iso_code=='de'}
+            <h3>einloggen</h3>
+            <p>Abonnieren Sie jetzt unseren Newsletter und erhalten Sie die neuesten Angebote</p>
+            <form action="{$urls.pages.index}" method="post"><input name="email" required="" type="email" id="user_email"
+                    placeholder="email:"> <input type="submit" name="submitNewsletter" value="Anmeldung" id="gk-newsletter-submit">
+                <input type="hidden" name="action" value="0" />
+            </form>
+            <p><small> Lesen Sie unsere <a href="/de/privatsphäre-sicherheit.html">Datenschutzbestimmungen</a> und <a
+                        href="/de/geschäftsbedingungen.html"> Geschäftsbedingungen.</a><br> Sie können jederzeit wieder abbestellen.</small></p>
+        {/if}
 
-    </div>
-    <div class="dogbox-sidebar" style="right: -348px;"> </div>
+        </div>
+    {/if}
+
+    {if $language.iso_code == 'en'}
+    <a href="/en/contact-for-sample.html"><div class="dogbox-sidebar" style="right: -348px;"> </div></a>
+    {elseif $language.iso_code == 'nl'}
+    <a href="/contact-for-sample.html"><div class="dogbox-sidebar" style="right: -348px;"> </div></a>
+    {elseif $language.iso_code == 'de'}
+    <a href="/de/contact-for-sample.html"><div class="dogbox-sidebar" style="right: -348px;"> </div></a>
+    {/if}
     {block name='javascript_bottom'}
         {include file="_partials/javascript.tpl" javascript=$javascript.bottom}
     {/block}
