@@ -151,7 +151,7 @@
         <button type="button" class="close" data-dismiss="modal" aria-label="{l s='Close' d='Shop.Theme.Global'}">
           <span aria-hidden="true" style="color:black;">&times;</span>
         </button>
-        <div class="js-modal-content" style="font-family: appleberry, Arial, sans-serif;"></div>
+        <div class="js-modal-content" style="font-family: appleberry, Arial, sans-serif;max-height:80vh;overflow-y:scroll;"></div>
       </div>
     </div>
   </div>
