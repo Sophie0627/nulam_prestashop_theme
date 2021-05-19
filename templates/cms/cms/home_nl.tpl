@@ -112,11 +112,11 @@
                             </div>
                             <div class="description">
                                 <div class="js-height same-height-right" style="height: 156px;">
-                                    <h2><a href="/wat-is-het-beste-hondenvoer.html?id=138"><span
+                                    <h2><a href="/wat-is-het-beste-hondenvoer.html"><span
                                                 class="field-content">Ontdek het verschil</span></a></h2>
                                     <p>Ontdek het verschil tussen Nulam® en de welbekende a-merk brokken</p>
                                 </div>
-                                <div class="btn-wrap"><a href="/wat-is-het-beste-hondenvoer.html?id=138"
+                                <div class="btn-wrap"><a href="/wat-is-het-beste-hondenvoer.html"
                                         class="btn">Lees meer</a></div>
                             </div>
                         </article>

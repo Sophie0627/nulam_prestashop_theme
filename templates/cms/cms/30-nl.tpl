@@ -25,7 +25,7 @@
                                         <div class="main-content">
                                             <div class="holder">
                                                 <div class="title-holder">
-                                                    <h1>100 % NATÜRLICHE Zutaten MACHEN DEN UNTERSCHIED</h1>
+                                                    <h1>100% NATUURLIJKE ingrediënten MAKEN HET VERSCHIL</h1>
                                                 </div>
                                                 <div class="content-wrap">
                                                     <div class="description">
@@ -34,20 +34,19 @@
                                                             <div class="field-items">
                                                                 <div class="field-item even">
                                                                     <p><span style="font-family: helvetica;">Nulam
-                                                                            ist rein natürlich, ohne chemische
-                                                                            Zusätze, hergestellt aus den
-                                                                            bestmöglichen Zutaten.
-                                                                            &nbsp;</span><span
+                                                                            is puur natuur, zonder enige chemische
+                                                                            toevoeging, bereid uit de best denkbare
+                                                                            ingrediënten.&nbsp;</span><span
                                                                             style="font-family: helvetica;">Alle
-                                                                            Lebensmittel enthalten Omega-3- und
-                                                                            6-Fettsäuren und Präbiotika, nämlich FOS
-                                                                            (Fructo-Oligosaccharid), für eine
-                                                                            gesunde Haut, ein glänzendes Fell,
-                                                                            Vitalität, eine gesunde Darmflora und
-                                                                            zur Unterstützung der natürlichen
-                                                                            Abwehrkräfte.&nbsp;</span></p>
-                                                                    <br>Nulam® verwendet die folgenden
-                                                                    Inhaltsstoffe:&nbsp;
+                                                                            voedingen bevatten Omega 3 &amp; 6
+                                                                            vetzuren en prebiotica, te weten F.O.S
+                                                                            (fructo-oligosaccharide), voor een
+                                                                            &nbsp;gezonde huid, glanzende vacht,
+                                                                            vitaliteit, een gezonde darmflora en als
+                                                                            ondersteuning van de natuurlijke
+                                                                            weerstand.&nbsp;</span></p>
+                                                                    <br> Nulam® maakt gebruik van de volgende
+                                                                    ingredienten:&nbsp;
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -72,28 +71,26 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Geflügel</h2>
+                                                                        <h2>Pluimvee</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
-                                                                                <h3>Geflügelfleisch, frisch</h3>
+                                                                                <h3>Pluimveevlees, vers</h3>
                                                                                 <ul>
-                                                                                    <li>auch hochwertiges
-                                                                                        Muskelfleisch
+                                                                                    <li>hoogwaardig spiervlees ook
                                                                                     </li>
-                                                                                    <li>für mehr Geschmack.</li>
+                                                                                    <li>voor meer smaak.</li>
                                                                                 </ul>
-                                                                                <h3>Geflügelprotein, getrocknet</h3>
+                                                                                <h3>Pluimvee-eiwit, gedroogd</h3>
                                                                                 <ul>
-                                                                                    <li>Rohstoffe von besonderer
-                                                                                        Qualität mit 10 % mehr
-                                                                                        Protein als die
-                                                                                        Standardqualität.</li>
-                                                                                    <li>Aschearm aufgrund des
-                                                                                        minimalen Knochengehalts.
-                                                                                    </li>
-                                                                                    <li>gute Verdaulichkeit und
-                                                                                        Akzeptanz.</li>
+                                                                                    <li>Speciale kwaliteit
+                                                                                        grondstoffen met 10 % meer
+                                                                                        eiwit dan de standaard
+                                                                                        kwaliteit.</li>
+                                                                                    <li>Asarm, door het minimale
+                                                                                        botaandeel.</li>
+                                                                                    <li>goede verteerbaarheid en
+                                                                                        acceptatie.</li>
                                                                                 </ul>
                                                                                 <p>&nbsp;&nbsp;</p>
                                                                             </div>
@@ -110,29 +107,27 @@
                                                                                 alt=""></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Ente&nbsp;</h2>
+                                                                        <h2>Eend&nbsp;</h2>
                                                                         <div class="content-frame">
                                                                             <div id="blockText2">
-                                                                                <h3>Entenfleisch, frisch</h3>
+                                                                                <h3>Eendenvlees, vers</h3>
                                                                                 <ul>
-                                                                                    <li>auch hochwertiges
-                                                                                        Muskelfleisch</li>
-                                                                                    <li>für mehr Geschmack.</li>
-                                                                                    <li>Geeignet für Hunde mit einer
-                                                                                        Proteinallergie, zum
-                                                                                        Beispiel gegen Rindfleisch,
-                                                                                        Huhn oder Lamm</li>
+                                                                                    <li>hoogwaardig spiervlees ook
+                                                                                    </li>
+                                                                                    <li>voor meer smaak.</li>
+                                                                                    <li>Geschikt voor honden met een
+                                                                                        eiwitallergie bijvoorbeeld
+                                                                                        voor rund, kip of lam</li>
                                                                                 </ul>
-                                                                                <h3>Entenfleisch, getrocknet</h3>
+                                                                                <h3>Eendenvlees, gedroogd</h3>
                                                                                 <ul>
-                                                                                    <li>100 % getrocknete
-                                                                                        Entenfleischstücke, gute
-                                                                                        Verdaulichkeit und
-                                                                                        Akzeptanz.</li>
-                                                                                    <li>Geeignet für Hunde mit einer
-                                                                                        Proteinallergie, zum
-                                                                                        Beispiel gegen Rindfleisch,
-                                                                                        Huhn oder Lamm</li>
+                                                                                    <li>100% gedroogde stukjes
+                                                                                        eendenvlees goede
+                                                                                        verteerbaarheid en
+                                                                                        acceptatie.</li>
+                                                                                    <li>Geschikt voor honden met een
+                                                                                        eiwitallergie bijvoorbeeld
+                                                                                        voor rund, kip of lam</li>
                                                                                 </ul>
                                                                             </div>
                                                                         </div>
@@ -148,27 +143,25 @@
                                                                                 title="Lam"></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Lamm</h2>
+                                                                        <h2>Lam</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
-                                                                            <h3 id="blockText2">Lammfleisch, frisch
-                                                                            </h3>
+                                                                            <h3 id="blockText2">Lamsvlees, vers</h3>
                                                                             <ul>
-                                                                                <li>hochwertiges Muskelfleisch</li>
-                                                                                <li>für mehr Geschmack.</li>
-                                                                                <li>Geeignet für Hunde mit einer
-                                                                                    Proteinallergie, zum Beispiel
-                                                                                    gegen Rindfleisch oder Huhn.
-                                                                                </li>
+                                                                                <li>hoogwaardig spiervlees</li>
+                                                                                <li>voor meer smaak.</li>
+                                                                                <li>geschikt voor honden met een
+                                                                                    eiwitallergie bijvoorbeeld voor
+                                                                                    rund of kip.</li>
                                                                             </ul>
-                                                                            <h3>Lammfleisch, getrocknet</h3>
+                                                                            <h3>Lamsvlees, gedroogd</h3>
                                                                             <ul>
-                                                                                <li>100 % getrocknete Lammstücke,
-                                                                                    gute Verdaulichkeit und
-                                                                                    Akzeptanz.</li>
-                                                                                <li>Geeignet für Hunde mit einer
-                                                                                    Proteinallergie, zum Beispiel
-                                                                                    gegen Rindfleisch.</li>
+                                                                                <li>100% gedroogde stukjes lamsvlees
+                                                                                    goede verteerbaarheid en
+                                                                                    acceptatie.</li>
+                                                                                <li>Geschikt voor honden met een
+                                                                                    eiwitallergie bijvoorbeeld voor
+                                                                                    rund of rund.</li>
                                                                             </ul>
                                                                             <p>&nbsp;</p>
                                                                         </div>
@@ -183,19 +176,18 @@
                                                                                 alt=""></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Ziege</h2>
+                                                                        <h2>Geit</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
-                                                                            <h3 id="blockText2">Ziegenfleisch,
-                                                                                frisch
+                                                                            <h3 id="blockText2">Geitenvlees, vers
                                                                             </h3>
                                                                             <ul>
-                                                                                <li>hochwertiges Muskelfleisch</li>
-                                                                                <li>Für mehr Geschmack und bessere
-                                                                                    Verdaulichkeit</li>
-                                                                                <li>Geeignet für Hunde mit einer
-                                                                                    Proteinallergie, zum Beispiel
-                                                                                    gegen Rind, Lamm oder Huhn.</li>
+                                                                                <li>hoogwaardig spiervlees</li>
+                                                                                <li>Voor meer smaak en een betere
+                                                                                    verteerbaarheid</li>
+                                                                                <li>geschikt voor honden met een
+                                                                                    eiwitallergie bijvoorbeeld voor
+                                                                                    rund, lam of kip.</li>
                                                                             </ul>
                                                                             <p>&nbsp;</p>
                                                                         </div>
@@ -210,23 +202,20 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Rindfleisch</h2>
+                                                                        <h2>Rund</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
-                                                                            <h3 id="blockText2">Rindfleisch, frisch
+                                                                            <h3 id="blockText2">Rundvlees, vers</h3>
+                                                                            <ul>
+                                                                                <li>hoogwaardig spiervlees ook</li>
+                                                                                <li>voor meer smaak.</li>
+                                                                            </ul>
+                                                                            <h3 id="blockText2">Rundvlees, gedroogd
                                                                             </h3>
                                                                             <ul>
-                                                                                <li>auch hochwertiges Muskelfleisch
-                                                                                </li>
-                                                                                <li>für mehr Geschmack.</li>
-                                                                            </ul>
-                                                                            <h3 id="blockText2">Rindfleisch,
-                                                                                getrocknet</h3>
-                                                                            <ul>
-                                                                                <li>100 % getrocknete
-                                                                                    Rindfleischstücke, gute
-                                                                                    Verdaulichkeit und Akzeptanz.
-                                                                                </li>
+                                                                                <li>100% gedroogde stukjes rundvlees
+                                                                                    goede verteerbaarheid en
+                                                                                    acceptatie.</li>
                                                                             </ul>
                                                                             <p>&nbsp;</p>
                                                                         </div>
@@ -241,30 +230,27 @@
                                                                                 alt=""></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Kaninchen</h2>
+                                                                        <h2>Konijn</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
-                                                                            <h3 id="blockText2">Kaninchenfleisch,
-                                                                                frisch
+                                                                            <h3 id="blockText2">Konijnenvlees, vers
                                                                             </h3>
                                                                             <ul>
-                                                                                <li>auch hochwertiges Muskelfleisch
-                                                                                </li>
-                                                                                <li>für mehr Geschmack.</li>
-                                                                                <li>Geeignet für Hunde mit einer
-                                                                                    Proteinallergie, zum Beispiel
-                                                                                    gegen Rind, Lamm oder Huhn.</li>
+                                                                                <li>hoogwaardig spiervlees ook</li>
+                                                                                <li>voor meer smaak.</li>
+                                                                                <li>geschikt voor honden met een
+                                                                                    eiwitallergie bijvoorbeeld voor
+                                                                                    rund, lam of kip.</li>
                                                                             </ul>
-                                                                            <h3>Kaninchenfleisch, getrocknet</h3>
+                                                                            <h3>Konijnenvlees, gedroogd</h3>
                                                                             <ul>
-                                                                                <li>100 % getrocknete
-                                                                                    Kaninchenfleischstücke, gute
-                                                                                    Verdaulichkeit und Akzeptanz.
+                                                                                <li>100% gedroogde stukjes
+                                                                                    konijnvleesvlees goede
+                                                                                    verteerbaarheid en acceptatie.
                                                                                 </li>
-                                                                                <li>Geeignet für Hunde mit einer
-                                                                                    Proteinallergie, zum Beispiel
-                                                                                    gegen Rindfleisch, Huhn oder
-                                                                                    Lamm</li>
+                                                                                <li>Geschikt voor honden met een
+                                                                                    eiwitallergie bijvoorbeeld voor
+                                                                                    rund, kip of lam</li>
                                                                             </ul>
                                                                             <p>&nbsp;</p>
                                                                             <p>&nbsp;</p>
@@ -280,19 +266,18 @@
                                                                                 alt=""></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Wild</h2>
+                                                                        <h2>Hert</h2>
                                                                         <div class="content-frame">
-                                                                            <h3 id="blockText2">Wildbret, getrocknet
-                                                                            </h3>
+                                                                            <h3 id="blockText2">Hertenvlees,
+                                                                                gedroogd</h3>
                                                                             <ul>
-                                                                                <li>100 % getrocknete
-                                                                                    Wildbretstücke, gute
-                                                                                    Verdaulichkeit und Akzeptanz.
+                                                                                <li>100% gedroogte stukjes
+                                                                                    hertenvleesvlees goede
+                                                                                    verteerbaarheid en acceptatie.
                                                                                 </li>
-                                                                                <li>Geeignet für Hunde mit einer
-                                                                                    Proteinallergie, zum Beispiel
-                                                                                    gegen Rindfleisch, Huhn oder
-                                                                                    Lamm</li>
+                                                                                <li>Geschikt voor honden met een
+                                                                                    eiwitallergie bijvoorbeeld voor
+                                                                                    rund, kip of lam</li>
                                                                             </ul>
                                                                         </div>
                                                                     </div>
@@ -309,26 +294,25 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Lachs & Seefisch</h2>
+                                                                        <h2>Zalm &amp; Zeevis</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
-                                                                            <h3 id="blockText2">Lachs, frischer Aal
+                                                                            <h3 id="blockText2">Zalm, verse paling
                                                                             </h3>
                                                                             <ul>
-                                                                                <li>Hochwertiger, essbarer Fisch
-                                                                                </li>
+                                                                                <li>Hoogwaardig eetbare vis</li>
+                                                                                <li></li>
                                                                             </ul>
                                                                             <div>&nbsp;</div>
-                                                                            <h3>Lachs- & Meeresfischmehl</h3>
+                                                                            <h3>Zalm- &amp; zeevismeel</h3>
                                                                             <ul>
-                                                                                <li>Kleine Fisch und Lachs, langsam
-                                                                                    getrocknet</li>
-                                                                                <li>Eine Proteinquelle mit einem
-                                                                                    sehr hohen biologischen Wert
-                                                                                </li>
-                                                                                <li>Reich an speziellen
-                                                                                    Omega-3-Fettsäuren (EPA, DHA):
-                                                                                    wichtig für Haut und Fell
+                                                                                <li>Kleine vissen en zalm, langzaam
+                                                                                    gedroogd</li>
+                                                                                <li>Een eiwitbron met een zeer hoge
+                                                                                    biologische waarde</li>
+                                                                                <li>Rijk aan speciale
+                                                                                    Omega-3-vetzuren (EPA, DHA):
+                                                                                    belangrijk voor huid en vacht
                                                                                 </li>
                                                                             </ul>
                                                                             <p>&nbsp;</p>
@@ -350,17 +334,15 @@
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Getrocknetes Vollei</li>
-                                                                                    <li>Proteinquelle mit dem
-                                                                                        höchstmöglichen biologischen
-                                                                                        Wert
+                                                                                    <li>Gedroogd heel ei</li>
+                                                                                    <li>Eiwitbron met de hoogst
+                                                                                        mogelijke biologische waarde
                                                                                     </li>
-                                                                                    <li>Ausgewogener Gehalt an
-                                                                                        Energie, Vitaminen,
-                                                                                        Spurenelementen und
-                                                                                        Mineralien
+                                                                                    <li>Evenwichtig gehalte aan
+                                                                                        energie, vitamines,
+                                                                                        sporenelementen en mineralen
                                                                                     </li>
-                                                                                    <li>sehr gut verdaulich.</li>
+                                                                                    <li>zeer goed verteerbaar.</li>
                                                                                 </ul>
                                                                             </div>
                                                                             <p>&nbsp;</p>
@@ -377,18 +359,17 @@
                                                                                 title="Lever"></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Leber</h2>
+                                                                        <h2>Lever</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Natürlicher Lieferant von
-                                                                                        Vitaminen und wichtigen
-                                                                                        Spurenelementen</li>
-                                                                                    <li>Sehr hochwertige
-                                                                                        Proteinquelle
+                                                                                    <li>Natuurlijke leverancier voor
+                                                                                        vitamines en belangrijke
+                                                                                        sporenelementen</li>
+                                                                                    <li>Zeer hoogwaardige eiwitbron
                                                                                     </li>
-                                                                                    <li>Von Natur aus sehr lecker
+                                                                                    <li>Van nature zeer smakelijk
                                                                                     </li>
                                                                                 </ul>
                                                                             </div>
@@ -418,21 +399,20 @@
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <ul>
-                                                                                <li>Inulin gehört zu den Präbiotika.
-                                                                                    Präbiotika sind Substanzen, die
-                                                                                    unverdaulich sind und
-                                                                                    unverändert im Dickdarm
-                                                                                    ankommen. Dort stimulieren sie
-                                                                                    selektiv das Wachstum und die
-                                                                                    Aktivität von (guten) Bakterien.
-                                                                                    Diese Bakterien setzen den Darm
-                                                                                    in Bewegung und sind daher
-                                                                                    wichtig für einen guten
-                                                                                    Stuhlgang. Darüber hinaus
-                                                                                    produzieren diese Bakterien
-                                                                                    B-Vitamine, aber auch
-                                                                                    Substanzen, die die Darmwand
-                                                                                    nähren.&nbsp;
+                                                                                <li>Inuline behoort tot de
+                                                                                    prebiotica. Prebiotica zijn
+                                                                                    stoffen die onverteerbaar zijn
+                                                                                    en onveranderd in de dikke darm
+                                                                                    aankomen. Daar stimuleren ze
+                                                                                    selectief de groei en activiteit
+                                                                                    van (goede) bacteriën. Deze
+                                                                                    bacteriën zetten de darmen in
+                                                                                    beweging en zijn daardoor
+                                                                                    belangrijk voor een goede
+                                                                                    stoelgang, Verder produceren
+                                                                                    deze bacteriën onder andere
+                                                                                    B-vitamines, maar ook stoffen
+                                                                                    die de darmwand voeden.&nbsp;
                                                                                 </li>
                                                                             </ul>
                                                                             <p>&nbsp;</p>
@@ -449,26 +429,26 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Hafer</h2>
+                                                                        <h2>Haver</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Geschälter Hafer</li>
-                                                                                    <li>Etwa 40 % Linolsäure (=
-                                                                                        wertvolle Omega-6-Fettsäure)
-                                                                                        im Fettgehalt</li>
-                                                                                    <li>Gut verträglich; Langsame
-                                                                                        Verdauung fördert das
-                                                                                        Sättigungsgefühl und hilft,
-                                                                                        den Anstieg des
-                                                                                        Blutzuckerspiegels zu
-                                                                                        reduzieren.</li>
-                                                                                    <li>Gute Verträglichkeit bei
-                                                                                        Glutenüberempfindlichkeit
+                                                                                    <li>Geschilde haver</li>
+                                                                                    <li>Rond 40 % linolzuur (=
+                                                                                        waardevol omega-6-vetzuur)
+                                                                                        in het vetaandeel</li>
+                                                                                    <li>Goed verdraagbaar; trage
+                                                                                        spijsvertering bevordert de
+                                                                                        verzadiging en helpt om de
+                                                                                        stijging van de
+                                                                                        bloedsuikerspiegel te
+                                                                                        verminderen.</li>
+                                                                                    <li>Goede tolerantie bij
+                                                                                        overgevoeligheid voor gluten
                                                                                     </li>
-                                                                                    <li>Hilft bei der Senkung eines
-                                                                                        erhöhten Cholesterinspiegels
+                                                                                    <li>Helpt bij het verlagen van
+                                                                                        verhoogde cholesterolwaarden
                                                                                     </li>
                                                                                 </ul>
                                                                             </div>
@@ -487,17 +467,16 @@
                                                                                 width="300" height="225"></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Kartoffeln, Reis, Mais</h2>
+                                                                        <h2>Aardappelen, Rijst, Maïs</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Hochwertige, glutenfreie
-                                                                                        Kohlenhydratquelle</li>
-                                                                                    <li>Eine gute Alternative für
-                                                                                        Hunde mit einem
-                                                                                        empfindlichen
-                                                                                        Verdauungssystem</li>
+                                                                                    <li>Hoogwaardige, glutenvrije
+                                                                                        bron van koolhydraten</li>
+                                                                                    <li>Een goed alternatief voor
+                                                                                        honden met een gevoelige
+                                                                                        spijsvertering</li>
                                                                                 </ul>
                                                                             </div>
                                                                             <p>&nbsp;</p>
@@ -515,20 +494,20 @@
                                                                                 height="225"></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Erbsenmehl</h2>
+                                                                        <h2>Erwtenbloem</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Hochwertige
-                                                                                        Kohlenhydratquelle</li>
-                                                                                    <li>Glutenfrei</li>
-                                                                                    <li>Gut verträglich; Eine
-                                                                                        langsame Verdauung fördert
-                                                                                        das Sättigungsgefühl und
-                                                                                        hilft, den Anstieg des
-                                                                                        Blutzuckerspiegels zu
-                                                                                        reduzieren.</li>
+                                                                                    <li>Hoogwaardige bron van
+                                                                                        koolhydraten</li>
+                                                                                    <li>Glutenvrij</li>
+                                                                                    <li>Goed verdraagbaar; trage
+                                                                                        spijsvertering bevordert de
+                                                                                        verzadiging en helpt om de
+                                                                                        stijging van de
+                                                                                        bloedsuikerspiegel te
+                                                                                        verminderen.</li>
                                                                                 </ul>
                                                                             </div>
                                                                             <p>&nbsp;</p>
@@ -545,67 +524,69 @@
                                                                                 alt=""></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Frische Früchte</h2>
+                                                                        <h2>Vers Fruit</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <h3 id="blockText2">Mango</h3>
                                                                             <ul>
-                                                                                <li>Mango stärkt das Immunsystem,
-                                                                                    ist reich an Vitamin A, Vitamin
-                                                                                    C, Kalium und Magnesium. Das
-                                                                                    Beta-Carotin in Mango kann das
-                                                                                    Risiko für Asthma verringern,
-                                                                                    und Quercetin, Fisetin und
-                                                                                    Methylgallat können auch vor
-                                                                                    mehreren Krebsarten schützen.
+                                                                                <li>Mango versterkt het
+                                                                                    immuunsysteem, is rijk aan
+                                                                                    vitamine A, vitamine
+                                                                                    C,&nbsp;kalium en magnesium.
+                                                                                    Bètacaroteen in mango kan het
+                                                                                    risico op het ontwikkelen van
+                                                                                    astma verkleinen en quercetine,
+                                                                                    fisetine en methylgallat, kunnen
+                                                                                    ook bescherming bieden tegen
+                                                                                    verschillende kankersoorten.
                                                                                 </li>
                                                                             </ul>
                                                                             <div>&nbsp;</div>
                                                                             <h3 id="blockText2">Cranberry</h3>
                                                                             <ul>
-                                                                                <li>Cranberrys sind reich an Vitamin
-                                                                                    C, Vitamin E, Vitamin B5,
-                                                                                    Vitamin B6 und Vitamin K. Sie
-                                                                                    enthalten auch Mineralien wie
-                                                                                    Kalium, Kalzium, Magnesium,
-                                                                                    Phosphor, Eisen, Mangan, Kupfer
-                                                                                    und Zink. Cranberrys enthalten
-                                                                                    die Phytonährstoffe
-                                                                                    Proanthocyadine. Erkrankungen im
-                                                                                    Zusammenhang mit Blase und
-                                                                                    Harnröhre können verhindert oder
-                                                                                    geheilt werden. Die
-                                                                                    Antioxidantien in Cranberrys
-                                                                                    haben entzündungshemmende
-                                                                                    Eigenschaften.</li>
+                                                                                <li>Cranberries zijn rijk aan
+                                                                                    vitamine C, vitamine E, vitamine
+                                                                                    B5, vitamine B6 en vitamine K.
+                                                                                    Ook bevatten ze mineralen zoals
+                                                                                    kalium, calcium, magnesium,
+                                                                                    fosfor, ijzer mangaan, koper en
+                                                                                    zink zitten er in. In
+                                                                                    cranberries zitten de
+                                                                                    fytonutriënten proanthocyadinen.
+                                                                                    Kwalen die te maken hebben met
+                                                                                    blaas en urinebuis kunnen worden
+                                                                                    voorkomen of genezen. De
+                                                                                    antioxidanten in cranberries
+                                                                                    hebben&nbsp; ontstekingsremmende
+                                                                                    werking.</li>
                                                                             </ul>
-                                                                            <h3 id="blockText2">Banane</h3>
+                                                                            <h3 id="blockText2">Banaan</h3>
                                                                             <ul>
-                                                                                <li>Bananen enthalten Mangan,
-                                                                                    Kalium, Magnesium, Kupfer,
-                                                                                    Phosphor, Eisen, Zink, Kalzium
-                                                                                    und Selen. Selen ist ein
-                                                                                    Spurenelement und wirkt als
-                                                                                    Antioxidans. Selen hilft, die
-                                                                                    schlechten freien Radikale im
-                                                                                    Körper unschädlich zu machen. In
-                                                                                    Kombination mit Vitamin E kann
-                                                                                    es helfen, Krebs,
-                                                                                    Herzerkrankungen und bestimmten
-                                                                                    Augenerkrankungen vorzubeugen.
-                                                                                </li>
+                                                                                <li>Bananen bevatten Mangaan,
+                                                                                    Kalium, Magnesium, Koper,
+                                                                                    Fosfor, IJzer, Zink, Calcium en
+                                                                                    seleen. Seleen is een
+                                                                                    spoorelement en werkt als een
+                                                                                    antioxidant. Seleen helpt de
+                                                                                    slechte vrije radicalen in de
+                                                                                    lichaam onschadelijk te maken.
+                                                                                    Kan in combinatie met vitamine
+                                                                                    E, kanker, hartaandoeningen en
+                                                                                    bepaalde oogziekten helpen
+                                                                                    voorkomen.</li>
                                                                             </ul>
-                                                                            <h3 id="blockText2">Apfel</h3>
+                                                                            <h3 id="blockText2">Appel</h3>
                                                                             <ul>
-                                                                                <li>Äpfel enthalten Vitamin A,
-                                                                                    Beta-Carotin, Lutein Zeaxanthin,
-                                                                                    Thiamin (B1), Riboflavin (B2),
-                                                                                    Niacin (B3), Pantothensäure
-                                                                                    (B5), Vitamin B6, Folsäure (B9),
-                                                                                    Vitamin C, Vitamin E, Vitamin K,
-                                                                                    Calcium , Eisen, Magnesium,
-                                                                                    Mangan, Kalium, Natrium, Zink,
-                                                                                    Fluorid und Phosphor</li>
+                                                                                <li>Appels bevatten Vitamine A,
+                                                                                    Beta-caroteen, Luteïne
+                                                                                    zeaxanthine, Thiamine (B1),
+                                                                                    Riboflavine (B2), Niacine (B3),
+                                                                                    Pantotheenzuur (B5), Vitamine
+                                                                                    B6, Foliumzuur (B9), Vitamine C,
+                                                                                    Vitamine E, Vitamine K, Calcium,
+                                                                                    IJzer, Magnesium, Mangaan,
+                                                                                    Kalium, Natrium, Zink, Fluoride
+                                                                                    en Fosfor.</li>
                                                                                 <li></li>
                                                                             </ul>
                                                                         </div>
@@ -631,23 +612,22 @@
                                                                                 height="224"></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Geflügelfett</h2>
+                                                                        <h2>Pluimveevet</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Hoher Anteil an
-                                                                                        ungesättigten Fettsäuren:
-                                                                                        mehr als 20 % Linolsäure,
-                                                                                        eine Omega-6-Fettsäure</li>
-                                                                                    <li>Sehr hochwertige
-                                                                                        Rohstoffqualität</li>
-                                                                                    <li>Minimaler Gehalt an
-                                                                                        unerwünschten freien
-                                                                                        Fettsäuren
+                                                                                    <li>Hoog aandeel aan
+                                                                                        onverzadigde vetzuren: meer
+                                                                                        dan 20% linolzuur, een
+                                                                                        omega-6-vetzuur</li>
+                                                                                    <li>Zeer hoogwaardige
+                                                                                        grondstofkwaliteit</li>
+                                                                                    <li>Minimaal gehalte aan
+                                                                                        ongewenste vrije vetzuren
                                                                                     </li>
-                                                                                    <li>Natürliches Aroma für einen
-                                                                                        verbesserten Geschmack.</li>
+                                                                                    <li>Natuurlijk aroma voor een
+                                                                                        verbeterde smaak.</li>
                                                                                 </ul>
                                                                             </div>
                                                                             <p>&nbsp;</p>
@@ -664,19 +644,21 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Lachsöl</h2>
+                                                                        <h2>Zalmolie</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Reich an speziellen
-                                                                                        Omega-3-Fettsäuren (EPA,
-                                                                                        DHA): wichtig für Haut und
-                                                                                        Fell</li>
-                                                                                    <li>Das in Lachsöl enthaltene
-                                                                                        Astaxanthin wirkt als
-                                                                                        natürliches Antioxidans</li>
-
+                                                                                    <li>Langzaam, bij lage
+                                                                                        temperaturen (&lt; 55°C)
+                                                                                        verkregen olie</li>
+                                                                                    <li>Rijk aan speciale
+                                                                                        Omega-3-vetzuren (EPA, DHA):
+                                                                                        belangrijk voor huid en
+                                                                                        vacht</li>
+                                                                                    <li>De in zalmolie aanwezige
+                                                                                        astaxanthine werkt als een
+                                                                                        natuurlijke antioxidant</li>
                                                                                 </ul>
                                                                             </div>
                                                                             <p>&nbsp;</p>
@@ -692,30 +674,29 @@
                                                                                 alt=""></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Borretschöl</h2>
+                                                                        <h2>Borage olie</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
                                                                                     <li></li>
-                                                                                    <li>Von allen am Markt
-                                                                                        verfügbaren Pflanzenölen
-                                                                                        enthält Borretschöl den
-                                                                                        höchsten Gehalt an
-                                                                                        Gamma-Linolensäure (GLA)
-                                                                                        21-24 %. Neben den
-                                                                                        Fettsäuren beinhaltet das Öl
-                                                                                        Zink, Magnesium, Vitamin B6
-                                                                                        und Biotin.</li>
+                                                                                    <li>Borage olie bevat het
+                                                                                        hoogste gehalte aan
+                                                                                        gamma-linoleenzuur (GLA)
+                                                                                        21-24% van alle plantaardige
+                                                                                        oliën die verkrijgbaar
+                                                                                        zijn.&nbsp;Naast de vetzuren
+                                                                                        bevat de olie zink,
+                                                                                        magnesium, vitamine B6 en
+                                                                                        biotine.</li>
                                                                                     <li></li>
-                                                                                    <li>hilft, Ekzeme zu reduzieren
+                                                                                    <li>helpt eczeem verminderen
                                                                                     </li>
-                                                                                    <li>beugt trockener Haut vor
-                                                                                    </li>
-                                                                                    <li>hemmt Entzündungen bei
-                                                                                        rheumatoider Arthritis</li>
-                                                                                    <li>ist gut für Herz und
-                                                                                        Blutgefäße</li>
+                                                                                    <li>voorkomt een droge huid</li>
+                                                                                    <li>remt ontstekingen bij
+                                                                                        reumatische artritis</li>
+                                                                                    <li>is goed voor hart en
+                                                                                        bloedvaten</li>
                                                                                 </ul>
                                                                             </div>
                                                                             <p>&nbsp;</p>
@@ -745,46 +726,46 @@
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <ul>
-                                                                                <li>Schätzungen zufolge entstand
-                                                                                    Spirulina vor etwa 3,6
-                                                                                    Milliarden Jahren bildete eine
-                                                                                    evolutionäre Brücke zwischen
-                                                                                    Bakterien- und Pflanzenleben.
-                                                                                    Spirulina, von den alten Azteken
-                                                                                    auch "Tecuitlatl" genannt, ist
-                                                                                    seit Jahrhunderten (geschätzte
-                                                                                    5000 Jahre) eine der
-                                                                                    reichhaltigsten Nahrungs- und
-                                                                                    Proteinquellen. Spirulina ist
-                                                                                    randvoll gefüllt mit Proteinen,
-                                                                                    Enzymen, Salzen, 11 Vitaminen
-                                                                                    (einschließlich A
-                                                                                    (Beta-Carotin), B1, B2, B6, B12,
-                                                                                    E, K), 10 Mineralien
-                                                                                    (hauptsächlich Phosphor),
-                                                                                    Aminosäuren (18 Stück) ),
-                                                                                    Spurenelemente, Fettsäuren,
-                                                                                    Chlorophyll, Kohlenhydrate und
-                                                                                    natürlich einer ordentlichen
-                                                                                    Menge an Antioxidantien. Es
-                                                                                    besteht auch zu 50 % aus leicht
-                                                                                    resorbierbaren pflanzlichen
-                                                                                    Proteinen und ist die
-                                                                                    Nahrungsquelle mit der höchsten
-                                                                                    Dichte (zwischen 50 und 70 %) an
-                                                                                    Proteinen (nach Gewicht) aller
-                                                                                    Lebensmittel auf der Erde.</li>
-                                                                                <li>Eine reichhaltige Quelle für
-                                                                                    nützliche Phytonährstoffe wie
-                                                                                    Carotinoide, GLA, SOD und
-                                                                                    Phycocyanin</li>
-                                                                                <li>2800 % mehr Beta-Carotin als
-                                                                                    Karotten</li>
-                                                                                <li>3900 % mehr Eisen als Spinat
+                                                                                <li>Spirulina is naar schatting
+                                                                                    ongeveer 3.6 miljard jaar
+                                                                                    geleden ontstaan en vormde een
+                                                                                    evolutionaire brug tussen het
+                                                                                    bacterie- en planten leven.
+                                                                                    Spirulina, ook wel ‘Tecuitlatl’
+                                                                                    genoemd door de oude Azteken, is
+                                                                                    tevens al eeuwenlang (naar
+                                                                                    schatting zo’n 5000 jaar) één
+                                                                                    van de meest complete voedsel-
+                                                                                    en met name
+                                                                                    proteïnebronnen.&nbsp;Spirulina,
+                                                                                    wat tot aan de nok gevuld is met
+                                                                                    proteïnen, enzymen, zouten, 11
+                                                                                    vitaminen (waaronder A
+                                                                                    (betacaroteen), B1, B2, B6, B12,
+                                                                                    E, K), 10 mineralen (met name
+                                                                                    Fosfor), aminozuren (18 stuks),
+                                                                                    sporenelementen, vetzuren,
+                                                                                    chlorofyl, koolhydraten en
+                                                                                    natuurlijk een stevige
+                                                                                    hoeveelheid antioxidanten.
+                                                                                    Tevens bestaat het voor 50% uit
+                                                                                    gemakkelijk opneembare
+                                                                                    plantaardige eiwitten en is het
+                                                                                    de voedselbron met de hoogste
+                                                                                    dichtheid (tussen 50-70%) aan
+                                                                                    proteïnen (per gewicht) van al
+                                                                                    het voedsel op aarde.</li>
+                                                                                <li>Een rijke bron van heilzame
+                                                                                    fytonutriënten zoals
+                                                                                    carotenoïden, GLA, SOD en
+                                                                                    phycocyanine</li>
+                                                                                <li>2800% meer bètacaroteen dan
+                                                                                    wortelen</li>
+                                                                                <li>3900% meer ijzer dan spinazie
                                                                                 </li>
-                                                                                <li>600 % mehr Protein als Tofu</li>
-                                                                                <li>280 % mehr Antioxidantien als
-                                                                                    Blaubeeren</li>
+                                                                                <li>600% meer eiwit dan tofu</li>
+                                                                                <li>280% meer antioxidanten dan
+                                                                                    bosbessen</li>
                                                                             </ul>
                                                                             <p>&nbsp;</p>
                                                                         </div>
@@ -804,27 +785,25 @@
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Die Echinacea ist die
-                                                                                        bekannteste Heilpflanze. Sie
-                                                                                        wird auf der ganzen Welt
-                                                                                        eingesetzt, um Erkältungen,
-                                                                                        Grippe und Infektionen zu
-                                                                                        bekämpfen und die
-                                                                                        natürlichen Abwehrkräfte zu
-                                                                                        verbessern. Die
-                                                                                        Sioux-Indianer in South
-                                                                                        Dakota, Amerika, kennen das
-                                                                                        Geheimnis dieser nützlichen
-                                                                                        Pflanze seit vielen
-                                                                                        Jahrhunderten. Sie
-                                                                                        zermahlten die frischen
-                                                                                        Pflanzen- und Wurzelteile
-                                                                                        und verwendeten den Saft zur
-                                                                                        Behandlung von
-                                                                                        Schlangenbissen. Zudem
-                                                                                        kauten sie den Brei, um
-                                                                                        hohes Fieber zu bekämpfen.
-                                                                                    </li>
+                                                                                    <li>Echinacea is de meest
+                                                                                        bekende geneeskrachtige
+                                                                                        plant. Het wordt overal ter
+                                                                                        wereld gebruikt om
+                                                                                        verkoudheid, griep,
+                                                                                        infecties te bestrijden en
+                                                                                        de natuurlijk weerstand te
+                                                                                        verhogen. De Sioux Indianen
+                                                                                        in South Dakota (Amerika)
+                                                                                        kenden het geheim van deze
+                                                                                        heilzame plant al vele
+                                                                                        eeuwen. Zij vermaalden de
+                                                                                        verse planten- en
+                                                                                        worteldelen en gebruikten
+                                                                                        het sap voor de behandeling
+                                                                                        van slangenbeten. Ook
+                                                                                        kauwden zij op de
+                                                                                        plantenbrij om hoge koorts
+                                                                                        te bestrijden.</li>
                                                                                 </ul>
                                                                                 <p>&nbsp;</p>
                                                                             </div>
@@ -840,20 +819,19 @@
                                                                                 alt=""></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Johannisbrot</h2>
+                                                                        <h2>Johannesbrood</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Ein wichtiger Lieferant von
-                                                                                        Kohlenhydraten und
-                                                                                        wertvollen Mineralien.</li>
-                                                                                    <li>Natürliche Tannine und
-                                                                                        Schleimstoffe unterstützen
-                                                                                        eine gesunde Verdauung.
+                                                                                    <li>Levert koolhydraten en
+                                                                                        waardevolle mineralen.</li>
+                                                                                    <li>Natuurlijke tannines en
+                                                                                        slijmstoffen ondersteunen
+                                                                                        een gezonde spijsvertering.
                                                                                     </li>
-                                                                                    <li>Wichtige präbiotische
-                                                                                        Funktion für die Darmflora.
+                                                                                    <li>Belangrijke prebiotische
+                                                                                        functie voor de darmflora.
                                                                                     </li>
                                                                                 </ul>
                                                                             </div>
@@ -871,25 +849,24 @@
                                                                                 alt=""></div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Bierhefe</h2>
+                                                                        <h2>Biergist</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Extrahiert aus natürlichen
-                                                                                        Substanzen, die beim Brauen
-                                                                                        entstehen, und anschließend
-                                                                                        in einem patentierten
-                                                                                        Verfahren sehr schonend
-                                                                                        getrocknet werden.</li>
-                                                                                    <li>Reich an B-Vitaminen,
-                                                                                        Aminosäuren, Spurenelementen
-                                                                                        und Mineralien.</li>
-                                                                                    <li>Bietet eine Vielzahl von
-                                                                                        Immun- und Vitalstoffen
+                                                                                    <li>Gewonnen uit natuurlijke
+                                                                                        stoffen die tijdens het
+                                                                                        brouwen ontstaan en
+                                                                                        vervolgens zeer voorzichtig
+                                                                                        gedroogd in een gepatenteerd
+                                                                                        proces.</li>
+                                                                                    <li>Rijk aan B-vitaminen,
+                                                                                        aminozuren, sporenelementen
+                                                                                        en mineralen.</li>
+                                                                                    <li>Levert een veelvoud aan
+                                                                                        immuun- en vitaalstoffen
                                                                                     </li>
-                                                                                    <li>Hervorragender Geschmack
-                                                                                    </li>
+                                                                                    <li>Uitstekende smaak</li>
                                                                                 </ul>
                                                                             </div>
                                                                             <p>&nbsp;</p>
@@ -906,22 +883,22 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Leinsamen</h2>
+                                                                        <h2>Lijnzaad</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Reich an hochwertigen
-                                                                                        Fettsäuren.</li>
-                                                                                    <li>Leinöl enthält zu 90 %
-                                                                                        ungesättigte Fettsäuren und
-                                                                                        zu mehr als 50 %
-                                                                                        Alpha-Linolensäure
-                                                                                        (Omega-3-Fettsäure)</li>
-                                                                                    <li>Schleimstoffe, ein
-                                                                                        natürlicher Bestandteil von
-                                                                                        Leinsamen, stimulieren eine
-                                                                                        gesunde, stabile Verdauung.
+                                                                                    <li>Rijk aan hoogwaardige
+                                                                                        vetzuren.</li>
+                                                                                    <li>Lijnolie bevat 90 %
+                                                                                        onverzadigde vetzuren en
+                                                                                        meer dan 50 %
+                                                                                        alfa-linoleenzuur
+                                                                                        (omega-3-vetzuur)</li>
+                                                                                    <li>Slijmstoffen, een natuurlijk
+                                                                                        bestanddeel van lijnzaad,
+                                                                                        stimuleren een gezonde,
+                                                                                        stabiele spijsvertering.
                                                                                     </li>
                                                                                 </ul>
                                                                             </div>
@@ -939,25 +916,23 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="description">
-                                                                        <h2>Kräuter</h2>
+                                                                        <h2>Kruiden</h2>
                                                                         <div class="content-frame">
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Die Zusammensetzung umfasst
-                                                                                        Thymian, Brennnessel,
-                                                                                        Oregano, Kamille, Fenchel,
-                                                                                        Sellerie, Minze, Basilikum
-                                                                                        und Mariendistel.</li>
-                                                                                    <li>Sie stellen wertvolle
-                                                                                        Tannine und Bitterstoffe,
-                                                                                        ätherische Öle,
-                                                                                        Bioflavonoide und
-                                                                                        Kieselsäure bereit.</li>
-                                                                                    <li>Sie stimulieren den Appetit
-                                                                                        und die Verdauung und
-                                                                                        steigern die Vitalität Ihres
-                                                                                        Hundes.
+                                                                                    <li>De samenstelling bestaat
+                                                                                        o.a. uit tijm, brandnetel,
+                                                                                        oregano, kamille, venkel,
+                                                                                        selderij, munt, basilicum en
+                                                                                        mariadistel.</li>
+                                                                                    <li>Leveren waardevolle tannines
+                                                                                        en bitterstoffen, etherische
+                                                                                        oliën, bio-flavonoïden en
+                                                                                        kiezelzuur.</li>
+                                                                                    <li>Stimuleren de eetlust en de
+                                                                                        spijsvertering en verhogen
+                                                                                        de vitaliteit van uw hond.
                                                                                     </li>
                                                                                 </ul>
                                                                             </div>
@@ -981,14 +956,13 @@
                                                                             <p>&nbsp;</p>
                                                                             <div id="blockText2">
                                                                                 <ul>
-                                                                                    <li>Reduziert unangenehme
-                                                                                        Gerüche aus Darm und Kot.
-                                                                                    </li>
-                                                                                    <li>Hat eine präbiotische
-                                                                                        Wirkung auf die Darmflora
-                                                                                    </li>
-                                                                                    <li>Unterstützt den Zellschutz
-                                                                                        auf natürliche Weise</li>
+                                                                                    <li>Vermindert onaangename
+                                                                                        geuren van de darmen en
+                                                                                        ontlasting.</li>
+                                                                                    <li>Heeft een prebiotisch effect
+                                                                                        op de darmflora</li>
+                                                                                    <li>Ondersteunt op natuurlijke
+                                                                                        wijze de celbescherming</li>
                                                                                 </ul>
                                                                             </div>
                                                                             <p>&nbsp;</p>

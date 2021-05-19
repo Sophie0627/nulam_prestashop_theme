@@ -29,11 +29,11 @@
                 <div class="mod-languages ">
                     <ul class="lang-inline">
                         {foreach from=$languages item=language}
-                            {if $language.iso_code == 'en' && $page.page_name == 'cms' && !$cms.id|in_array:[22, 23, 24, 25, 26, 27, 28, 29, 30]}
+                            {if $language.iso_code == 'en' && $page.page_name == 'cms' && !$cms.id|in_array:[12, 22, 23, 24, 25, 26, 27]}
                                 <li {if $language.id_lang == $current_language.id_lang} class="lang-active" {/if}>
                                     <a href="{$link->getLanguageLink($language.id_lang)}">{$language.name_simple}</a>
                                 </li>
-                            {elseif $language.iso_code == 'de' && $page.page_name == 'cms' && !$cms.id|in_array:[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]}
+                            {elseif $language.iso_code == 'de' && $page.page_name == 'cms' && !$cms.id|in_array:[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]}
                                 <li {if $language.id_lang == $current_language.id_lang} class="lang-active" {/if}>
                                     <a href="{$link->getLanguageLink($language.id_lang)}">{$language.name_simple}</a>
                                 </li>

@@ -8,68 +8,68 @@
                             <div class="mask">
                                 <div class="slideset" style="">
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#pluimvee"><img
+                                            href="/de/über-uns/unsere-zutaten.html#pluimvee"><img
                                                 src="/images/home_slider/grafiken_gefluegelfleischmehl_0.png"></a>
                                     </div>
 
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Koudgeperst"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Koudgeperst"><img
                                                 src="/images/home_slider/Echinacea.png"></a></div>
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Lam"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Lam"><img
                                                 src="/images/home_slider/grafiken_lamm.png" t=""></a>
                                     </div>
 
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Amarant"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Amarant"><img
                                                 src="/images/home_slider/inuline-bowl2.png"></a></div>
 
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#ZalmZeevis"><img
+                                            href="/de/über-uns/unsere-zutaten.html#ZalmZeevis"><img
                                                 src="/images/home_slider/grafiken_lachs.png"></a></div>
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Ei"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Ei"><img
                                                 src="/images/home_slider/grafiken_ei.png"></a></div>
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Johannesbrood"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Johannesbrood"><img
                                                 src="/images/home_slider/grafiken_bierhefe.png"></a>
                                     </div>
 
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Lever"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Lever"><img
                                                 src="/images/home_slider/grafiken_leber.png"></a></div>
 
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Haver"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Haver"><img
                                                 src="/images/home_slider/grafiken_hafer.png"></a></div>
 
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Aardappelen"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Aardappelen"><img
                                                 src="/images/home_slider/grafiken_kohlenhydrate.png"></a>
                                     </div>
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Erwtenbloem"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Erwtenbloem"><img
                                                 src="/images/home_slider/grafiken_erbsenmehl.png"></a>
                                     </div>
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html"><img
+                                            href="/de/über-uns/unsere-zutaten.html"><img
                                                 src="/images/home_slider/Fruitcren.png"></a></div>
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Pluimveevet"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Pluimveevet"><img
                                                 src="/images/home_slider/grafiken_gefluegelfett.png"></a>
                                     </div>
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html"><img
+                                            href="/de/über-uns/unsere-zutaten.html"><img
                                                 src="/images/home_slider/borage-olie.png"></a></div>
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Zalmolie"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Zalmolie"><img
                                                 src="/images/home_slider/grafiken_lachsoel.png"></a>
                                     </div>
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#Chiazaad"><img
+                                            href="/de/über-uns/unsere-zutaten.html#Chiazaad"><img
                                                 src="/images/home_slider/spirulina.png"></a></div>
                                     <div class="slide"><a
-                                            href="/100-natuurlijke-ingrediënten-maken-het-verschil.html#zooplankton"><img
+                                            href="/de/über-uns/unsere-zutaten.html#zooplankton"><img
                                                 src="/images/home_slider/grafiken_johannisbrot_0.png"></a>
                                     </div>
 
@@ -133,11 +133,11 @@
                         <div class="description">
                             <div class="js-height same-height-left" style="height: 156px;">
                                 <h2><a href="/Fütterungshinweise/ernährungsrechner.html" target="_blank"><span
-                                            class="field-content">Nulam Voedingscalculator</span></a></h2>
-                                <p>bereken hier welke voeding het best bij uw hond past</p>
+                                            class="field-content">Nulam Ernährungsrechner</span></a></h2>
+                                <p>Finden Sie mit Hilfe des Nulam®-Futterrechners das richtige Futter für Ihren Hund</p>
                             </div>
                             <div class="btn-wrap"><a href="/Fütterungshinweise/vernährungsrechner.html" target="_blank"
-                                    class="btn">Lees meer</a></div>
+                                    class="btn">Weiterlesen</a></div>
                         </div>
                     </article>
                     <article class="article">
@@ -147,12 +147,11 @@
                         </div>
                         <div class="description">
                             <div class="js-height same-height-right" style="height: 156px;">
-                                <h2><a href="/wat-is-het-beste-hondenvoer.html?id=138"><span
-                                            class="field-content">Ontdek het verschil</span></a></h2>
-                                <p>Ontdek het verschil tussen Nulam® en de welbekende a-merk brokken</p>
+                                <h2><a href="/de/was-ist-das-beste-hundefutter.html"><span
+                                            class="field-content">Entdecken Sie den Unterschied</span></a></h2>
+                                <p>Entdecken Sie den Unterschied zwischen Nulam® und den bekannten A-Brand-Stücken</p>
                             </div>
-                            <div class="btn-wrap"><a href="/wat-is-het-beste-hondenvoer.html?id=138" class="btn">Lees
-                                    meer</a></div>
+                            <div class="btn-wrap"><a href="/de/was-ist-das-beste-hundefutter.html" class="btn">Weiterlesen</a></div>
                         </div>
                     </article>
                     <article class="article">
@@ -162,13 +161,12 @@
                         </div>
                         <div class="description">
                             <div class="js-height same-height-left" style="height: 156px;">
-                                <h2><a href="/100-natuurlijke-ingrediënten-maken-het-verschil.html"><span
-                                            class="field-content">Onze Ingrediënten</span></a></h2>
-                                <p>Alle ingrediënten zijn met zorg geselecteerd, wij maken uitsluitend gebruik van
-                                    kwalitatief hoogwaardige grondstoffen.</p>
+                                <h2><a href="/de/über-uns/unsere-zutaten.html"><span
+                                            class="field-content">Unsere Zutaten</span></a></h2>
+                                <p>Alle Zutaten wurden sorgfältig ausgewählt, wir verwenden nur hochwertige Rohstoffe.</p>
                             </div>
-                            <div class="btn-wrap"><a href="/100-natuurlijke-ingrediënten-maken-het-verschil.html"
-                                    class="btn">Lees meer</a></div>
+                            <div class="btn-wrap"><a href="/de/über-uns/unsere-zutaten.html"
+                                    class="btn">Weiterlesen</a></div>
                         </div>
                     </article>
                     <article class="article">
@@ -179,14 +177,9 @@
 
                                         <div class="vb_lm_message">
                                             <div class="vb_lm_name">
-                                                P,J en Guus </div>
+                                                P,J und Guus </div>
                                             <div class="vb_lm_text">
-                                                <p>De fokker rade ons Nulam aan, vers vlees en brokken, dat hebben
-                                                    we natuurlijk gedaan, Nou Guus vindt het heerlijk, zijn
-                                                    stoelgang is perfect, zijn huid glanst en krijgt energie voor
-                                                    10!!!!
-                                                    De levering en service is uitstekend!
-                                                    Guus krijgt voor altijd Nulam</p>
+                                                <p>Der Züchter hat uns Nulam Frischfleisch und Trockenfutter empfohlen und dieser Empfehlung sind wir natürlich gefolgt. Nun, Guus liebt es, sein Stuhlgang ist perfekt, seine Haut strahlt und er hat Energie für 10 !!!! Die Lieferung und der Service sind ausgezeichnet! Guus bekommt für immer Nulam</p>
                                             </div>
                                         </div>
                                     </div>
@@ -195,13 +188,11 @@
                             </div>
                             <div class="description">
                                 <div class="js-height same-height-left" style="height: 156px;">
-                                    <h2><a href="/over-ons/ervaring-met-nulam.html"><span class="field-content">Ervaring
-                                                Met Nulam</span></a></h2>
+                                    <h2><a href="/over-ons/ervaring-met-nulam.html"><span class="field-content">Erfahrung mit Nulam</span></a></h2>
                                     <p>
                                     </p>
                                 </div>
-                                <div class="btn-wrap"><a href="/over-ons/ervaring-met-nulam.html" class="btn">Lees
-                                        meer</a></div>
+                                <div class="btn-wrap"><a href="/over-ons/ervaring-met-nulam.html" class="btn">Weiterlesen</a></div>
                             </div>
                         </div>
                     </article>

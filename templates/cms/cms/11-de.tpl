@@ -1,6 +1,6 @@
 <div id="gkPageContent">
 
-    <div>
+    <div class="gkPage">
         <div>
             <div id="gkContent">
 
