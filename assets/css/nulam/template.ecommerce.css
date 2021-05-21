@@ -10615,7 +10615,7 @@ th {
 }
 .mainrightpart{ float: right;
     margin: 9px 0 0;
-    width: 75%;}
+    }
 .mainrightpart .toppart{ float: right;
      margin-right: 2%;
     text-align: right;

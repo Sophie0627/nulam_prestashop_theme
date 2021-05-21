@@ -3011,7 +3011,7 @@
 	      // TODO: Handle request if no pretty URL
 	      // url += '?content_only=1';
 	      _jquery2['default'].get(url, function (content) {
-	        (0, _jquery2['default'])('#modal').find('.js-modal-content').html((0, _jquery2['default'])(content).find('.page-cms').contents());
+	        (0, _jquery2['default'])('#modal').find('.js-modal-content').html((0, _jquery2['default'])(content).find('.page-cms .item-body').contents());
 	      }).fail(function (resp) {
 	        _prestashop2['default'].emit('handleError', { eventType: 'clickTerms', resp: resp });
 	      });

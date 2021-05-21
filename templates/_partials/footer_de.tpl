@@ -6,17 +6,17 @@
         <li><strong>BEDIENUNG</strong></li>
     </ul>
 
-    <!-- <ul class="menu">
-        <li class="item-1198"><a href="/contact.html">Contact</a></li>
-        <li class="item-1193"><a href="/betalen.html">Betalen</a></li>
-        <li class="item-1037"><a href="/bezorgen.html">Bezorgen</a></li>
-        <li class="item-1038"><a href="/retouren.html">Retouren</a></li>
-        <li class="item-1169"><a href="/privacy-policy.html">Privacy Policy</a></li>
-        <li class="item-1170"><a href="/algemene-voorwaarden.html">Algemene voorwaarden</a></li>
-        <li class="item-1343"><a href="/klachtenpagina.html">Klachtenpagina</a></li>
-        <li class="item-1392"><a href="/disclaimer.html">DISCLAIMER</a></li>
-        <li class="item-1468"><a href="/cookie-statement.html">Cookie statement</a></li>
-    </ul> -->
+    <ul class="menu">
+        <li class="item-1198"><a href="/de/contact">Kontakt</a></li>
+        <li class="item-1193"><a href="/de/zahlen.html">Zahlen</a></li>
+        <li class="item-1037"><a href="/de/zustellen.html">Zustellen</a></li>
+        <li class="item-1038"><a href="/de/kehrt-zurück.html">Kehrt zurück</a></li>
+        <li class="item-1169"><a href="/de/privatsphäre-sicherheit.html">Privatsphäre & Sicherheit</a></li>
+        <li class="item-1170"><a href="/de/geschäftsbedingungen.html">Geschäftsbedingungen</a></li>
+        <!-- <li class="item-1343"><a href="/de/klachtenpagina.html">Klachtenpagina</a></li> -->
+        <li class="item-1392"><a href="/de/disclaimer.html">DISCLAIMER</a></li>
+        <li class="item-1468"><a href="/de/cookie-statement.html">Cookie statement</a></li>
+    </ul>
 </div>
 
 <div class="right">
@@ -26,7 +26,7 @@
             <div>
                 <div>
                     <ul class="menu">
-                        <li><strong>LEISTUNGEN</strong></li>
+                        <!-- <li><strong>LEISTUNGEN</strong></li> -->
                     </ul>
                 </div>
             </div>

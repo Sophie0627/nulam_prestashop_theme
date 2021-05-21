@@ -24,22 +24,22 @@
 
                                         <h1>NULAM-FÜTTERUNGSBERATUNG</h1>
                                         <p><span style="color: #000000;"><span style="font-size: medium;"><a
-                                                        href="/index.php/nl/store/nulam-brokken.html">Nulam-Trockenfutter
+                                                        href="/de/startseite/nulam-chunks.html">Nulam-Trockenfutter
                                                     </a>&nbsp;werden in verschiedenen Geschmacksrichtungen
                                                     hergestellt und enthalten alle Präbiotika, nämlich FOS
                                                     (Fructo-Oligosaccharid), für eine gesunde Haut, ein glänzendes
                                                     Fell, Vitalität, eine gesunde Darmflora und zur Unterstützung
                                                     der natürlichen Abwehrkräfte. Das natürliche &nbsp;<a
-                                                        href="/index.php/nl/store/nulam-brokken.html">Hundefutter
+                                                        href="/de/startseite/nulam-chunks.html">Hundefutter
                                                     </a>
                                                     von Nulam eignet sich hervorragend für die tägliche Ernährung
                                                     Ihres Hundes und kommt der Gesundheit Ihres Hundes zugute. Sie
                                                     können &nbsp;<a
-                                                        href="/index.php/nl/store/nulam-brokken.html">Nulam-Trockenfutter</a>&nbsp;problemlos
-                                                    mit&nbsp;<a href="/index.php/nl/store/nulam-vers.html">Nulam
+                                                        href="/de/startseite/nulam-chunks.html">Nulam-Trockenfutter</a>&nbsp;problemlos
+                                                    mit&nbsp;<a href="/de/startseite/nulam-fresh.html">Nulam
                                                         Vers</a>&nbsp;kombinieren. Wir empfehlen Ihnen, Ihren Hund
                                                     regelmäßig mit<a
-                                                        href="/index.php/nl/store/nulam-vers.html">&nbsp;Nulam
+                                                        href="/de/startseite/nulam-fresh.html">&nbsp;Nulam
                                                         Frisch </a>&nbsp;(rohes Frischfleisch) zu füttern, um die
                                                     Darmflora optimal zu erhalten. Nulam hat spezielle
                                                     Zusammensetzungen für Hunde mit Allergien gegen bestimmte
@@ -47,12 +47,12 @@
                                         <p><span style="font-size: medium;"><span style="color: #000000;">Sie können
                                                     dies tun, indem Sie einmal pro Woche einen sogenannten
                                                     Frischfleisch-Tag mit Nulam Frisch <a
-                                                        href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-nature-complete-detail.html">Pure
+                                                        href="/de/startseite/nulam-fresh/frischfleisch-ausgewachsener-hund/pure-nature-complete-detail.html">Pure
                                                         Nature Complete </a> planen oder einige Male pro Woche 20 %
                                                     (1/5) einer <a
-                                                        href="/index.php/nl/store/nulam-brokken.html">Nulam-Trockenfutter-Mahlzeit
+                                                        href="/de/startseite/nulam-chunks.html">Nulam-Trockenfutter-Mahlzeit
                                                     </a>durch Nulam Frisch <a
-                                                        href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-tripe-detail.html">Pure
+                                                        href="/de/startseite/nulam-fresh/frischfleisch-puppy-junior/pure-tripe-detail.html">Pure
                                                         Tripe </a>ersetzen.&nbsp;</span><span
                                                     style="color: #000000;">(Nulam Frisch sollte niemals in einer
                                                     Mikrowelle aufgetaut werden, da die Mikrowelle alle Bakterien
@@ -63,19 +63,19 @@
                                         </p>
                                         <p><span style="color: #000000; font-size: medium;">Sie können wählen
                                                 zwischen: <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-lamb-complete-detail.html">Pure
+                                                    href="/de/startseite/nulam-fresh/frischfleisch-ausgewachsener-hund/pure-lamb-complete-detail.html">Pure
                                                     Lamb Complete</a> (100% Lamm),&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-beef-complete-detail.html">Pure
+                                                    href="/de/startseite/nulam-fresh/frischfleisch-ausgewachsener-hund/pure-beef-complete-detail.html">Pure
                                                     Beef Complete</a> (100% Rindfleisch), <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-duck-complete-detail.html">Pure
+                                                    href="/de/startseite/nulam-fresh/frischfleisch-ausgewachsener-hund/pure-duck-complete-detail.html">Pure
                                                     Duck Complete</a> (100% Ente), <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-rabbit-complete-detail.html">Pure
+                                                    href="/de/startseite/nulam-fresh/frischfleisch-ausgewachsener-hund/pure-rabbit-complete-detail.html">Pure
                                                     Rabbit Complete</a> (100% Kaninchen), <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-goat-duck-complete-detail.html">Pure
+                                                    href="/de/startseite/nulam-fresh/frischfleisch-ausgewachsener-hund/pure-goat-duck-complete-detail.html">Pure
                                                     Goat / Duck Complete</a> (50% Zeige &amp; 50% Ente). Unser <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-chicken-detail.html">Pure
+                                                    href="/de/startseite/nulam-fresh/frischfleisch-ausgewachsener-hund/pure-chicken-detail.html">Pure
                                                     Chicken</a> (100% Huhn) und <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-tripe-detail.html">Pure
+                                                    href="/de/startseite/nulam-fresh/frischfleisch-puppy-junior/pure-tripe-detail.html">Pure
                                                     Tripe</a> (90% Rinderpansen, 10% Huhn) sind ebenfalls sehr
                                                 beliebt.</span>
                                         </p>
@@ -90,19 +90,19 @@
                                                 Nahrungsmittelallergie. Futtermittel mit ausreichend gesundem Fett
                                                 (tierisch) sind normalerweise ein gutes Mittel gegen Haut- und
                                                 Fellprobleme, z. B. Nulam-Trockenfutter Perfect,&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-brokken/volwassen/nulam-perfect-lamb-rice-detail.html">Lamb
+                                                    href="/de/startseite/nulam-chunks/ausgewachsene/perfect-lamb-rice-detail.html">Lamb
                                                     &amp; Rice</a>&nbsp;oder&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-brokken/volwassen/nulam-perfect-salmon-rice-detail.html">Salmon
+                                                    href="/de/startseite/nulam-chunks/ausgewachsene/perfect-salmon-rice-detail.html">Salmon
                                                     &amp; Rice</a>.&nbsp;</span></p>
                                         <p style="color: #222222;"><span style="font-size: medium;"><span
                                                     style="font-weight: 600;">Wählerische
                                                     Esser.&nbsp;</span>Geben Sie &nbsp;<a
-                                                    href="/index.php/store/nulam-brokken/volwassen/nulam-perfect-zalm-aardappelen-100-graanvrij-detail">Nulam
+                                                    href="/de/startseite/nulam-chunks/ausgewachsene/perfect-salmon-potatoes-detail.html">Nulam
                                                     perfect Salmon &amp; Potatoes</a>. Aufgrund seiner einzigartigen
                                                 Zusammensetzung ist dieses leicht verdauliche Futter auf der Basis
                                                 von Lachs und Kartoffeln eine ausgezeichnete Wahl für wählerische
                                                 Hunde.
-                                                Darüber hinaus kann&nbsp;<a href="/index.php/store/nulam-vers">Nulam
+                                                Darüber hinaus kann&nbsp;<a href="/de/startseite/nulam-fresh.html">Nulam
                                                     Frisch </a>&nbsp;eine gute Option sein, wenn der Hund kaufaul
                                                 ist, nicht gut kauen kann, schlecht frisst, flüssigen Stuhlgang
                                                 hat.</span></p>
@@ -112,7 +112,7 @@
                                                 aufgrund des geringeren Energiebedarfs weniger Protein. Geben Sie
                                                 daher einem älteren (bei Alterungserscheinungen) oder
                                                 übergewichtigen Hund&nbsp;<a
-                                                    href="/index.php/store/nulam-brokken/senior">Nulam Perfect
+                                                    href="/de/startseite/nulam-chunks/senior-diät.html">Nulam Perfect
                                                     Adult</a>&nbsp;Trockenfutter: geringerer Energiebedarf und
                                                 angepasster Protein-Fett-Gehalt.</span></p>
                                         <p style="color: #222222;"><span style="font-size: medium;"><span

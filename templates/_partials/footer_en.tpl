@@ -7,7 +7,7 @@
     </ul>
 
     <ul class="menu">
-        <li class="item-1198"><a href="/en/contact.html">Contact</a></li>
+        <li class="item-1198"><a href="/en/contact">Contact</a></li>
         <li class="item-1193"><a href="/en/methods-of-payment.html">Methods of Payment</a></li>
         <li class="item-1037"><a href="/en/delivery.html">Delivery</a></li>
         <li class="item-1038"><a href="/en/returns.html">Returns</a></li>
@@ -25,9 +25,9 @@
         <div>
             <div>
                 <div>
-                    <ul class="menu">
+                    <!-- <ul class="menu">
                         <li><strong>BENEFITS</strong></li>
-                    </ul>
+                    </ul> -->
                 </div>
             </div>
         </div>

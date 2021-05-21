@@ -91,8 +91,8 @@
                                                 Wij sturen deze artikelen naar jou terug en brengen de gemaakte kosten
                                                 in rekening. De meeste artikelen mag je alleen retourneren als de
                                                 verpakking ongeopend is. Dit geldt voor alle soorten&nbsp;<a
-                                                    href="/index.php/store/nulam-brokken">hondenvoer&nbsp;</a>en&nbsp;<a
-                                                    href="/index.php/store/nulam-snacks">hondensnacks</a>. De artikelen
+                                                    href="/shop/nulam-brokken.html">hondenvoer&nbsp;</a>en&nbsp;<a
+                                                    href="/shop/nulam-snacks.html">hondensnacks</a>. De artikelen
                                                 moeten retour worden gezonden naar ons adres: Nulam pet nutrition, de
                                                 Cuserstraat 93, 1081CN Amsterdam. Als<span
                                                     style="-webkit-text-stroke-width: initial;">&nbsp;u er zeker van
@@ -116,7 +116,7 @@
                                             <p
                                                 style="margin: 0px; font-size: 16px; line-height: normal; font-family: Verdana; -webkit-text-stroke-color: #000000; -webkit-text-stroke-width: initial;">
                                                 Voor meer informatie verwijs ik je graag door naar onze&nbsp;<a
-                                                    href="/index.php/algemene-voorwaarden">algemene voorwaarden</a>.</p>
+                                                    href="/algemene-voorwaarden.html">algemene voorwaarden</a>.</p>
                                         </div>
 
                                     </div><!-- .item-body -->

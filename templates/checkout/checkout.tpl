@@ -30,15 +30,15 @@
     {block name='head'}
         {include file='_partials/head_checkout.tpl'}
     {/block}
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/jui/jquery.min.js"
+    <script src="/themes/PRS020/assets/js/nulam/media/jui/jquery.min.js"
         type="text/javascript"></script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/head.js" type="text/javascript"></script>
+    <script src="/themes/PRS020/assets/js/nulam/head.js" type="text/javascript"></script>
 
 </head>
 
 <body id="{$page.page_name}" class="{$page.body_classes|classnames} hide_header" data-tablet-width="1040"
     data-mobile-width="640" data-zoom-size="150" data-parallax="true">
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/first.js" type="text/javascript">
+    <script src="/themes/PRS020/assets/js/nulam/first.js" type="text/javascript">
     </script>
     {block name='hook_after_body_opening_tag'}
         {hook h='displayAfterBodyOpeningTag'}
@@ -148,72 +148,72 @@
         {hook h='displayBeforeBodyClosingTag'}
     {/block}
     <script async="" src="//www.google-analytics.com/analytics.js"></script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/jui/jquery-migrate.min.js"
+    <script src="/themes/PRS020/assets/js/nulam/media/jui/jquery-migrate.min.js"
         type="text/javascript"></script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/k2/k2.frontend.js"
+    <script src="/themes/PRS020/assets/js/nulam/media/k2/k2.frontend.js"
         type="text/javascript">
     </script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/system/core.js"
+    <script src="/themes/PRS020/assets/js/nulam/media/system/core.js"
         type="text/javascript">
     </script>
     {if $page.page_name == 'index'}
-        <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/slider.js" type="text/javascript"></script>
+        <script src="/themes/PRS020/assets/js/nulam/slider.js" type="text/javascript"></script>
     {else}
-        <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/topsliderjs.js"
+        <script src="/themes/PRS020/assets/js/nulam/components/com_virtuemart/topsliderjs.js"
             type="text/javascript"></script>
     {/if}
     <script
-        src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/vmsite.js?vmver=9293"
+        src="/themes/PRS020/assets/js/nulam/components/com_virtuemart/vmsite.js?vmver=9293"
         type="text/javascript"></script>
     <script
-        src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/dynupdate.js?vmver=9293"
+        src="/themes/PRS020/assets/js/nulam/components/com_virtuemart/dynupdate.js?vmver=9293"
         type="text/javascript"></script>
     <script
-        src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/vmprices.js?vmver=9293"
+        src="/themes/PRS020/assets/js/nulam/components/com_virtuemart/vmprices.js?vmver=9293"
         type="text/javascript"></script>
     <script
-        src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/components/com_virtuemart/fancybox/jquery.fancybox-1.3.4.pack.js?vmver=9293"
+        src="/themes/PRS020/assets/js/nulam/components/com_virtuemart/fancybox/jquery.fancybox-1.3.4.pack.js?vmver=9293"
         type="text/javascript"></script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/modernizr.js"
+    <script src="/themes/PRS020/assets/js/nulam/gk_guark/modernizr.js"
         type="text/javascript">
     </script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/gk.scripts.js"
+    <script src="/themes/PRS020/assets/js/nulam/gk_guark/gk.scripts.js"
         type="text/javascript">
     </script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/gk.menu.js" type="text/javascript">
+    <script src="/themes/PRS020/assets/js/nulam/gk_guark/gk.menu.js" type="text/javascript">
     </script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/kalendae.js"
+    <script src="/themes/PRS020/assets/js/nulam/gk_guark/kalendae.js"
         type="text/javascript">
     </script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/photoswipe.min.js"
+    <script src="/themes/PRS020/assets/js/nulam/gk_guark/photoswipe.min.js"
         type="text/javascript"></script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/photoswipe-ui.min.js"
+    <script src="/themes/PRS020/assets/js/nulam/gk_guark/photoswipe-ui.min.js"
         type="text/javascript"></script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/scrollreveal.js"
+    <script src="/themes/PRS020/assets/js/nulam/gk_guark/scrollreveal.js"
         type="text/javascript"></script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/gk.ecommerce.js"
+    <script src="/themes/PRS020/assets/js/nulam/gk_guark/gk.ecommerce.js"
         type="text/javascript"></script>
 
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/jui/jquery-noconflict.js"
+    <script src="/themes/PRS020/assets/js/nulam/media/jui/jquery-noconflict.js"
         type="text/javascript"></script>
 
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/jui/bootstrap.min.js"
+    <script src="/themes/PRS020/assets/js/nulam/media/jui/bootstrap.min.js"
         type="text/javascript"></script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/system/mootools-core.js"
+    <script src="/themes/PRS020/assets/js/nulam/media/system/mootools-core.js"
         type="text/javascript"></script>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/media/system/mootools-more.js"
+    <script src="/themes/PRS020/assets/js/nulam/media/system/mootools-more.js"
         type="text/javascript"></script>
 
 
     <!--[if lte IE 9]>
- <script type="text/javascript" src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/ie.js"></script>
+ <script type="text/javascript" src="/themes/PRS020/assets/js/nulam/gk_guark/ie.js"></script>
  <![endif]-->
 
     <!--[if (gte IE 6)&(lte IE 8)]>
- <script type="text/javascript" src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/respond.js"></script>
- <script type="text/javascript" src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/gk_guark/selectivizr.js"></script>
+ <script type="text/javascript" src="/themes/PRS020/assets/js/nulam/gk_guark/respond.js"></script>
+ <script type="text/javascript" src="/themes/PRS020/assets/js/nulam/gk_guark/selectivizr.js"></script>
  <![endif]-->
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/footer.js" type="text/javascript"></script>
+    <script src="/themes/PRS020/assets/js/nulam/footer.js" type="text/javascript"></script>
 
 </body>
 

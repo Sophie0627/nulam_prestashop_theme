@@ -108,4 +108,11 @@ jQuery(document).ready(function() {
     jQuery(document).on("click", ".description a", function (e) {
         window.location = this.href;
     });
+    jQuery(document).on("click", ".product-description .description .more", function (e) {
+        console.log('ok');
+    });
+    jQuery(document).on("click", ".view-produktliste-nach-kategorie .img-wrap a", function (e) {
+        window.location = this.href;
+    });
+
 });

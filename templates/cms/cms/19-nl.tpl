@@ -1124,86 +1124,52 @@
                                                 <div class="section">
                                                     <div class="layoutArea">
                                                         <div class="column">
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 <strong>Hoofdstuk 2: Bedrijven&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 De in dit Hoofdstuk 2 “Bedrijven” opgenomen bepalingen
                                                                 zijn van toepassing indien de klant van Nulam een
                                                                 rechtspersoon is of een natuurlijke persoon is die
                                                                 handelt in de uitoefening van zijn bedrijf of zijn
                                                                 beroep.&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 21. <strong>Definities</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 21.1. In dit hoofdstuk worden de hiernavolgende termen
                                                                 in de navolgende betekenis gebruikt, tenzij
                                                                 uitdrukkelijk anders is aangegeven of uit de context
                                                                 anders blijkt:&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
-                                                                <span class="Apple-tab-span" style="white-space: pre;">
-                                                                </span>a.<span class="Apple-tab-span"
-                                                                    style="white-space: pre;"> </span>Nulam: Nulam Pet
-                                                                Nutrition gevestigd aan Olympische Stadion 24 te
-                                                                Amsterdam, <br> ingeschreven in het handelsregister van
-                                                                de Kamer van Koophandel onder KvK-nummer 59880902;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
-                                                                <span class="Apple-tab-span" style="white-space: pre;">
-                                                                </span>b.<span class="Apple-tab-span"
-                                                                    style="white-space: pre;"> </span>klant: het bedrijf
-                                                                dat of de natuurlijke persoon die handelt in de
-                                                                uitoefening van zijn beroep of zijn bedrijf die met
-                                                                Nulam een overeenkomst aangaat;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
-                                                                <span class="Apple-tab-span" style="white-space: pre;">
-                                                                </span>c.<span class="Apple-tab-span"
-                                                                    style="white-space: pre;"> </span>overeenkomst: de
-                                                                overeenkomst tussen Nulam en de klant;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
-                                                                <span class="Apple-tab-span" style="white-space: pre;">
-                                                                </span>d.<span class="Apple-tab-span"
-                                                                    style="white-space: pre;"> </span>product: de
-                                                                dierenvoeding van het merk “Nulam”.</p>
+                                                            <p style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;"><span class="Apple-tab-span" style="white-space: pre;"> </span>a.<span class="Apple-tab-span" style="white-space: pre;"> </span>Nulam: Nulam Pet Nutrition gevestigd aan Olympische Stadion 24 te Amsterdam, <br> ingeschreven in het handelsregister van de Kamer van Koophandel onder KvK-nummer 59880902;</p>
+                                                            <p style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;"><span class="Apple-tab-span" style="white-space: pre;"> </span>b.<span class="Apple-tab-span" style="white-space: pre;"> </span>klant: het bedrijf dat of de natuurlijke persoon die handelt in de uitoefening van zijn beroep of zijn bedrijf die met Nulam een overeenkomst aangaat;</p>
+                                                            <p style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;"><span class="Apple-tab-span" style="white-space: pre;"> </span>c.<span class="Apple-tab-span" style="white-space: pre;"> </span>overeenkomst: de overeenkomst tussen Nulam en de klant;</p>
+                                                            <p style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;"><span class="Apple-tab-span" style="white-space: pre;"> </span>d.<span class="Apple-tab-span" style="white-space: pre;"> </span>product: de dierenvoeding van het merk “Nulam”.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 22. <strong>Algemeen&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 22.1. &nbsp;Dit hoofdstuk van de algemene voorwaarden is
                                                                 van toepassing op alle overeenkomsten tussen Nulam en de
                                                                 klant. Indien de klant een consument is, dan is dit
                                                                 hoofdstuk niet van toepassing en zijn de bovengenoemde
                                                                 bepalingen van Stichting Webshop Keurmerk van
                                                                 toepassing.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 22.2.<strong> &nbsp;</strong>Indien deze algemene
                                                                 voorwaarden eenmaal van toepassing zijn geweest op een
                                                                 rechtsverhouding tussen Nulam en de klant, dan wordt de
                                                                 klant geacht bij voorbaat te hebben ingestemd met de
                                                                 toepasselijkheid van deze algemene voorwaarden op nadien
                                                                 gesloten en te sluiten overeenkomsten.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 22.3. &nbsp;Eventuele afwijkingen op deze algemene
                                                                 voorwaarden zijn slechts geldig indien deze
                                                                 uitdrukkelijk schriftelijk of elektronisch zijn
                                                                 overeengekomen.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 22.4. &nbsp;De toepasselijkheid van eventuele inkoop- of
                                                                 andere voorwaarden van de klant wordt uitdrukkelijk van
                                                                 de hand gewezen.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 22.5. &nbsp;Indien een of meerdere van de bepalingen in
                                                                 dit hoofdstuk nietig zijn of vernietigd mochten worden,
                                                                 blijven de overige bepalingen van dit hoofdstuk volledig
@@ -1211,8 +1177,7 @@
                                                                 zullen door Nulam vervangen worden, waarbij voor zoveel
                                                                 mogelijk het doel en de strekking van de oorspronkelijke
                                                                 bepaling(en) in acht wordt genomen.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 22.6. &nbsp;Indien Nulam niet steeds strikte naleving
                                                                 van dit hoofdstuk verlangt, betekent dit niet dat de
                                                                 bepalingen daarvan niet van toepassing zijn, of dat
@@ -1220,50 +1185,40 @@
                                                                 andere gevallen de stipte naleving van de bepalingen van
                                                                 dit hoofdstuk te verlangen.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 23. <strong>Aanbiedingen en offertes&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 23.1. &nbsp;Aanbiedingen en offertes zijn vrijblijvend.
                                                             </p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 23.2. &nbsp;Kennelijke fouten of vergissingen op de
                                                                 website en in folders, aanbiedingen, offertes,
                                                                 overeenkomsten, e-mailberichten of overige publicaties
                                                                 van Nulam binden Nulam niet.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 23.3. &nbsp;Aanbiedingen, offertes en prijzen gelden
                                                                 niet automatisch voor toekomstige bestellingen.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 23.4. &nbsp;Nulam heeft te allen tijde het recht te
                                                                 bepalen dat bepaalde producten slechts in bepaalde <br>
                                                                 minimum hoeveelheden zullen worden geleverd.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 24. <strong>Totstandkoming van de overeenkomst</strong>
                                                             </p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 24.1. De overeenkomst komt tot stand nadat de klant via
                                                                 de e-mail of mondeling een bestelling bij Nulam
                                                                 geplaatst heeft.&nbsp;</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 25. <strong>Annulering&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 25.1. &nbsp;Indien de klant de overeenkomst wenst te
                                                                 annuleren, dan dient de klant dat zo spoedig mogelijk
                                                                 telefonisch of via de e-mail aan Nulam kenbaar te maken.
                                                             </p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 25.2. &nbsp;Indien de klant de overeenkomst annuleert en
                                                                 Nulam heeft reeds een aanvang gemaakt met de uitvoering
                                                                 van de overeenkomst, dan worden alle tot dan toe
@@ -1277,44 +1232,35 @@
                                                                 producten zijn geplakt de producten niet meer aan een
                                                                 derde verkocht kunnen worden.&nbsp;</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 26. <strong>Prijzen&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 26.1. &nbsp;De vermelde prijzen zijn in euro’s en
                                                                 exclusief btw en inclusief transportkosten.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 26.2. &nbsp;Nulam heeft het recht haar prijzen van tijd
                                                                 tot tijd aan te passen.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 26.3. &nbsp;Als de klant de bestelling wenst te
                                                                 wijzigen, dan kan dat financiële gevolgen hebben. De
                                                                 bestelling kan pas gewijzigd worden nadat de klant
                                                                 akkoord is gegaan met de eventuele extra kosten.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 27. <strong>Uitvoering van de
                                                                     overeenkomst&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 27.1. &nbsp;Nulam zal de overeenkomst naar beste inzicht
                                                                 en vermogen en overeenkomstig de eisen van goed
                                                                 vakmanschap uitvoeren, een en ander op grond van de op
                                                                 dat moment bekende stand der wetenschap.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 27.2. &nbsp;Nulam heeft het recht de overeenkomst
                                                                 (deels) door derden te laten uitvoeren.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 28. <strong>Stickers</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 28.1. Het is de klant niet toegestaan Nulam een opdracht
                                                                 te geven tot het maken van stickers voor op de
                                                                 verpakking van de producten die inbreuk maken op rechten
@@ -1335,42 +1281,35 @@
                                                                 producten die zijn voorzien van de door de klant
                                                                 gewenste stickers.&nbsp;</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 29. <strong>Verplichtingen van de klant&nbsp;</strong>
                                                             </p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 29.1. &nbsp;De klant draagt er zorg voor dat alle
                                                                 gegevens en zaken, waarvan Nulam aangeeft dat deze
                                                                 noodzakelijk zijn of waarvan de klant redelijkerwijs
                                                                 behoort te begrijpen dat deze noodzakelijk zijn voor het
                                                                 uitvoeren van de overeenkomst, tijdig, volledig en
                                                                 correct aan Nulam worden verstrekt.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 29.2. &nbsp;Indien de door de klant aangeleverde
                                                                 gegevens onvolledig en/of onjuist zijn, komt dit
                                                                 volledig voor rekening en risico van de klant.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 29.3. &nbsp;De klant is gehouden Nulam onverwijld te
                                                                 informeren omtrent feiten en omstandigheden die in
                                                                 verband met de uitvoering van de overeenkomst van belang
                                                                 kunnen zijn.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 30. <strong>Leveringstermijn&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 30.1. &nbsp;Opgave van een leveringstermijn geschiedt
                                                                 altijd bij benadering. Overschrijding van de
                                                                 leveringstermijn geeft de klant niet het recht op
                                                                 schadevergoeding, ontbinding van de overeenkomst of
                                                                 enige andere vorm van compensatie.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 30.2. &nbsp;In het geval dat een met de klant
                                                                 overeengekomen leveringstermijn wordt overschreden ten
                                                                 gevolge van een gebeurtenis, die in feite buiten de
@@ -1380,15 +1319,12 @@
                                                                 de periode dat zij ten gevolge van een dergelijke
                                                                 gebeurtenis werd overschreden.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 31. <strong>Levering&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 31.1. &nbsp;De producten worden geleverd op het met de
                                                                 klant overeengekomen adres.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 31.2. &nbsp;De klant dient ervoor zorg te dragen dat de
                                                                 bestemming waar de producten afgeleverd dienen te worden
                                                                 goed bereikbaar is. Kunnen de producten niet afgeleverd
@@ -1396,101 +1332,75 @@
                                                                 worden de eventuele extra kosten die Nulam daardoor
                                                                 heeft moeten maken aan de klant in rekening gebracht.
                                                             </p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 31.3. &nbsp;De klant is verplicht de producten af te
                                                                 nemen. Indien de klant afname weigert, dan is Nulam
                                                                 gerechtigd de producten op te slaan voor rekening en
                                                                 risico van de klant.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 31.4. &nbsp;Nulam heeft het recht in gedeeltes te
                                                                 leveren.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 31.5. &nbsp;Het risico van verlies, beschadiging of
                                                                 waardevermindering van de producten gaat op de klant
                                                                 over op het moment waarop de producten op de
                                                                 overeengekomen afleverlocaties zijn afgeleverd.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 31.6. &nbsp;Indien er sprake is van transportschade, dan
                                                                 dient de klant dat direct aan Nulam kenbaar te maken.
                                                             </p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 32. <strong>Reclames&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 32.1. &nbsp;De klant is verplicht de geleverde producten
                                                                 terstond bij aflevering te controleren. De klant dient
                                                                 in het bijzonder na te gaan:&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 72px; text-indent: -72px; font-size: 14px; line-height: normal; font-family: Helvetica;">
-                                                                <span class="Apple-tab-span" style="white-space: pre;">
-                                                                </span>a.<span class="Apple-tab-span"
-                                                                    style="white-space: pre;"> </span>of de juiste
-                                                                producten zijn geleverd;&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 72px; text-indent: -72px; font-size: 14px; line-height: normal; font-family: Helvetica;">
-                                                                <span class="Apple-tab-span" style="white-space: pre;">
-                                                                </span>b.<span class="Apple-tab-span"
-                                                                    style="white-space: pre;"> </span>of het juiste
-                                                                aantal producten is geleverd.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 72px; text-indent: -72px; font-size: 14px; line-height: normal; font-family: Helvetica;"><span class="Apple-tab-span" style="white-space: pre;"> </span>a.<span class="Apple-tab-span" style="white-space: pre;"> </span>of de juiste producten zijn geleverd;&nbsp;</p>
+                                                            <p style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 72px; text-indent: -72px; font-size: 14px; line-height: normal; font-family: Helvetica;"><span class="Apple-tab-span" style="white-space: pre;"> </span>b.<span class="Apple-tab-span" style="white-space: pre;"> </span>of het juiste aantal producten is geleverd.</p>
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 32.2. &nbsp;Reclames ten aanzien van de bestelling
                                                                 dienen zo spoedig mogelijk na de levering aan Nulam
                                                                 kenbaar te worden gemaakt.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 32.3. &nbsp;Reclames dienen schriftelijk of via de
                                                                 e-mail bij Nulam te worden ingediend.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 32.4. &nbsp;Overige gebreken aan de producten dienen
                                                                 binnen 7 dagen na de ontdekking of nadat de klant de
                                                                 gebreken redelijkerwijs had kunnen ontdekken bij Nulam
                                                                 te worden ingediend. Bij het indienen van een klacht
                                                                 dient de klant een duidelijke omschrijving van het
                                                                 gebrek te <br> geven.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 32.5. &nbsp;De klant is verplicht Nulam de mogelijkheid
                                                                 te geven om een klacht te onderzoeken. In dat kader kan
                                                                 Nulam van de klant verlangen dat hij het product
                                                                 terugstuurt. Het feit dat Nulam overgaat tot het
                                                                 onderzoeken van een klacht, impliceert niet dat Nulam
                                                                 erkent dat het product gebrekkig is.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 32.6. &nbsp;Indien de klant aantoont dat het geleverde
                                                                 product op het moment van levering gebrekkig was, dan
                                                                 wordt door Nulam, naar haar keuze, het product vervangen
                                                                 of de prijs voor het product gecrediteerd. De
                                                                 aansprakelijkheid van Nulam is te allen tijde beperkt
                                                                 tot hetgeen in artikel 35 is opgenomen.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 32.7. &nbsp;Een gebrek aan een product geeft de klant
                                                                 niet het recht de gehele bestelling, waarvan het product
                                                                 deel uitmaakt, te weigeren of terug te sturen.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 32.8. &nbsp;Reclames schorten de betalingsverplichting
                                                                 van de klant niet op.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 33. <strong>Facturatie en betaling&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 33.1. &nbsp;Facturatie geschiedt vooraf. De bestelling
                                                                 wordt geleverd nadat Nulam de betaling voor de
                                                                 bestelling van de klant heeft ontvangen.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 33.2. &nbsp;Indien de klant de van Nulam ontvangen
                                                                 factuur niet binnen de betalingstermijn betaalt, dan is
                                                                 de klant direct in verzuim en heeft Nulam het recht om
@@ -1500,14 +1410,12 @@
                                                                 klant te incasseren komen voor rekening van de klant. De
                                                                 buitengerechtelijke incassokosten worden vastgesteld op
                                                                 15% van de hoofdsom met een minimum van € 100,-.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 33.3. &nbsp;In geval van liquidatie, faillissement,
                                                                 beslag of surseance van betaling van de klant zijn de
                                                                 vorderingen van Nulam op de klant onmiddellijk
                                                                 opeisbaar.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 33.4. &nbsp;Iedere betaling door de klant strekt
                                                                 allereerst tot voldoening van de verschuldigde rente(n)
                                                                 en vervolgens tot voldoening van de op de invordering
@@ -1515,19 +1423,16 @@
                                                                 strekt enige betaling door de klant tot voldoening van
                                                                 de openstaande hoofdsom.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 34. <strong>Opschorting en ontbinding&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 34.1. &nbsp;Nulam is gerechtigd de uitvoering van de
                                                                 overeenkomst met onmiddellijke ingang op te schorten
                                                                 indien na het sluiten van de overeenkomst Nulam ter
                                                                 kennis is gekomen omstandigheden goede grond geven te
                                                                 vrezen dat de klant de verplichtingen niet zal nakomen.
                                                             </p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 34.2. &nbsp;Nulam is bevoegd de overeenkomst te
                                                                 ontbinden, indien de klant de verplichtingen uit de
                                                                 overeenkomst niet of niet volledig nakomt en de klant
@@ -1535,8 +1440,7 @@
                                                                 ingebrekestelling. Indien nakoming blijvend onmogelijk
                                                                 is, dan kan een ingebrekestelling achterwege blijven.
                                                             </p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 34.3. &nbsp;Voorts is Nulam bevoegd de overeenkomst te
                                                                 ontbinden indien zich omstandigheden voordoen welke van
                                                                 dien aard zijn dat nakoming van de overeenkomst
@@ -1546,8 +1450,7 @@
                                                                 dien aard zijn dat ongewijzigde instandhouding van de
                                                                 overeenkomst in redelijkheid niet mag worden
                                                                 verwacht.&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 34.4. &nbsp;Nulam is bevoegd de overeenkomst te
                                                                 ontbinden, indien de klant surseance van betaling
                                                                 verzoekt of deze aan de klant wordt verleend, ingeval de
@@ -1556,40 +1459,22 @@
                                                                 zijn schulden te voldoen, overgaat tot beëindiging of
                                                                 liquidatie van zijn bedrijf, onder curatele wordt
                                                                 gesteld, of ingeval een bewindvoerder wordt benoemd.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 34.5. &nbsp;Indien Nulam tot opschorting of ontbinding
                                                                 overgaat, is zij op generlei wijze gehouden tot
                                                                 vergoeding van schade en kosten daardoor op enigerlei
                                                                 wijze ontstaan.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35. <strong>Aansprakelijkheid en
                                                                     verjaring&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.1. &nbsp;Nulam kan niet gehouden worden tot het
                                                                 vergoeden van enige schade, die een direct of indirect
                                                                 gevolg is van:&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 72px; text-indent: -72px; font-size: 14px; line-height: normal; font-family: Helvetica;">
-                                                                <span class="Apple-tab-span" style="white-space: pre;">
-                                                                </span>a.<span class="Apple-tab-span"
-                                                                    style="white-space: pre;"> </span>een gebeurtenis,
-                                                                die in feite buiten haar macht ligt en aldus niet aan
-                                                                haar doen en/of laten kan worden toegeschreven, zoals
-                                                                o.a. omschreven in artikel 36;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 72px; text-indent: -72px; font-size: 14px; line-height: normal; font-family: Helvetica;">
-                                                                <span class="Apple-tab-span" style="white-space: pre;">
-                                                                </span>b.<span class="Apple-tab-span"
-                                                                    style="white-space: pre;"> </span>enige daad of
-                                                                nalatigheid van de klant, diens ondergeschikten, dan wel
-                                                                andere personen, die door of vanwege de klant te werk
-                                                                zijn gesteld.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 72px; text-indent: -72px; font-size: 14px; line-height: normal; font-family: Helvetica;"><span class="Apple-tab-span" style="white-space: pre;"> </span>a.<span class="Apple-tab-span" style="white-space: pre;"> </span>een gebeurtenis, die in feite buiten haar macht ligt en aldus niet aan haar doen en/of laten kan worden toegeschreven, zoals o.a. omschreven in artikel 36;</p>
+                                                            <p style="margin-top: 0px; margin-bottom: 13.3px; margin-left: 72px; text-indent: -72px; font-size: 14px; line-height: normal; font-family: Helvetica;"><span class="Apple-tab-span" style="white-space: pre;"> </span>b.<span class="Apple-tab-span" style="white-space: pre;"> </span>enige daad of nalatigheid van de klant, diens ondergeschikten, dan wel andere personen, die door of vanwege de klant te werk zijn gesteld.</p>
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.2. &nbsp;De klant is onder alle omstandigheden
                                                                 verantwoordelijk voor de juistheid en volledigheid van
                                                                 de door hem aangeleverde gegevens. Nulam is nimmer
@@ -1597,19 +1482,16 @@
                                                                 veroorzaakt doordat de door de klant aangeleverde
                                                                 gegevens onjuist en/of niet volledig zijn. De klant
                                                                 vrijwaart Nulam tegen alle aanspraken ter zake.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.3. &nbsp;Nulam is niet aansprakelijk voor welke
                                                                 schade dan ook door verkeerde of ondeskundige opslag van
                                                                 de geleverde producten of door opslag van de geleverde
                                                                 producten in strijd met de gebruiksinstructies.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.4. &nbsp;Nulam is niet aansprakelijk voor schade
                                                                 indien de klant of derden wijzigingen hebben aangebracht
                                                                 aan het product en/of de verpakking.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.5. &nbsp;Indien een product waarvan de verpakking
                                                                 beschadigd is en een dergelijke beschadiging tot gevolg
                                                                 kan hebben dat het product niet meer goed is, dan dient
@@ -1617,13 +1499,11 @@
                                                                 verkopen. Nulam kan nimmer aansprakelijk worden gesteld
                                                                 voor de gevolgen van het niet nakomen door de klant van
                                                                 deze bepaling.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.6. &nbsp;Nulam aanvaardt bij het eten na de uiterste
                                                                 houdbaarheidsdatum van de producten geen enkele
                                                                 aansprakelijkheid.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.7. &nbsp;De klant dient ervoor in te staan dat
                                                                 producten na het verstrijken van de houdbaarheidsdatum
                                                                 niet meer door hem worden verkocht. De klant vrijwaart
@@ -1631,14 +1511,12 @@
                                                                 uit hoofde van schade die het gevolg is van het eten van
                                                                 de producten indien deze door de klant na de uiterste
                                                                 houdbaarheidsdatum zijn verkocht.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.8. &nbsp;Nulam is niet aansprakelijk voor verminking
                                                                 of verlies van gegevens als gevolg van verzending van de
                                                                 gegevens met behulp van telecommunicatiefaciliteiten.
                                                             </p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.9. &nbsp;Nulam is nimmer gehouden tot betaling van
                                                                 schadevergoeding als gevolg van gevolgschade. Als
                                                                 gevolgschade wordt in ieder geval aangemerkt: gederfde
@@ -1648,8 +1526,7 @@
                                                                 stagnatieschade, vertragingsschade, reputatieschade,
                                                                 milieuschade, opgelegde boetes en indirecte schade,
                                                                 ongeacht hun oorsprong.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.10.Indien Nulam aansprakelijk mocht zijn voor
                                                                 enigerlei schade, dan is de aansprakelijkheid van Nulam
                                                                 beperkt tot het bedrag van de door de verzekeraar van
@@ -1659,8 +1536,7 @@
                                                                 van Nulam beperkt tot het bedrag dat de klant betaald
                                                                 heeft voor het product waarop de aansprakelijkheid
                                                                 betrekking heeft.&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.11.De klant vrijwaart Nulam voor vorderingen die
                                                                 derden tegen Nulam instellen ter zake van voorvallen,
                                                                 daden of nalatigheden, waarvoor Nulam niet aansprakelijk
@@ -1670,30 +1546,18 @@
                                                                 ontstaan als direct of indirect gevolg van een door een
                                                                 derde tegen haar ingestelde vordering als bedoeld in dit
                                                                 lid.&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 35.12.Vorderingsrechten en andere bevoegdheden van de
                                                                 klant uit welken hoofde ook jegens Nulam vervallen in
                                                                 ieder geval na het verstrijken van 1 jaar vanaf het
                                                                 moment waarop zich een feit voordoet dat de klant deze
                                                                 rechten en/of bevoegdheden jegens Nulam kan
                                                                 aanwenden.&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
-                                                                35.13.Indien de klant niet, niet tijdig of niet naar
-                                                                behoren aan zijn contractuele &nbsp; <span
-                                                                    class="Apple-tab-span" style="white-space: pre;">
-                                                                </span>verplichtingen of zijn verplichtingen die
-                                                                voortvloeien uit de wet voldoet of onrechtmatig jegens
-                                                                Nulam handelt, dan dient de klant alle schade te
-                                                                vergoeden die Nulam daardoor lijdt of heeft
-                                                                geleden.&nbsp;</p>
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">35.13.Indien de klant niet, niet tijdig of niet naar behoren aan zijn contractuele &nbsp; <span class="Apple-tab-span" style="white-space: pre;"> </span>verplichtingen of zijn verplichtingen die voortvloeien uit de wet voldoet of onrechtmatig jegens Nulam handelt, dan dient de klant alle schade te vergoeden die Nulam daardoor lijdt of heeft geleden.&nbsp;</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 36. <strong>Overmacht&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 36.1. &nbsp;Nulam is niet gehouden tot het nakomen van
                                                                 enige verplichting indien zij daartoe verhinderd wordt
                                                                 als gevolg van overmacht. Onder overmacht wordt in ieder
@@ -1712,13 +1576,11 @@
                                                                 buitenlandse of internationale overheid; virusinfectie
                                                                 of computervredebreuk door derden; stroomstoring;
                                                                 internetstoring.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 36.2. &nbsp;Onder overmacht wordt mede verstaan een
                                                                 niet-toerekenbare tekortkoming van leveranciers van
                                                                 Nulam.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 36.3.<strong> &nbsp;</strong>Indien er sprake is van
                                                                 overmacht, dan zal Nulam niet gehouden kunnen worden tot
                                                                 het vergoeden van enige schade als een direct of een
@@ -1732,11 +1594,9 @@
                                                                 zullen zowel Nulam als de klant gehouden zijn om die te
                                                                 benutten.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 37. <strong>Geheimhouding&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 37.1. &nbsp;Beide partijen zijn verplicht tot
                                                                 geheimhouding van alle vertrouwelijke informatie die zij
                                                                 in het kader van hun overeenkomst van elkaar of uit
@@ -1746,8 +1606,7 @@
                                                                 informatie. De partij die vertrouwelijke informatie
                                                                 ontvangt, zal deze slechts gebruiken voor het doel
                                                                 waarvoor deze verstrekt is.</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 37.2. &nbsp;Indien op grond van een wettelijke bepaling
                                                                 of een gerechtelijke uitspraak Nulam gehouden is
                                                                 vertrouwelijke informatie aan door de wet of de bevoegde
@@ -1759,16 +1618,13 @@
                                                                 niet gerechtigd tot ontbinding van de overeenkomst op
                                                                 grond van enige schade, hierdoor ontstaan.</p>
                                                             <p>&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 38. <strong>Toepasselijk recht en bevoegde
                                                                     rechter&nbsp;</strong></p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 38.1. &nbsp;Op elke overeenkomst tussen Nulam en de
                                                                 klant is Nederlands recht van toepassing.&nbsp;</p>
-                                                            <p
-                                                                style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
+                                                            <p style="margin-top: 0px; margin-bottom: 12px; margin-left: 36px; text-indent: -36px; font-size: 14px; line-height: normal; font-family: Helvetica;">
                                                                 38.2. &nbsp;Alle geschillen ter zake van overeenkomsten
                                                                 tussen de klant en Nulam worden voorgelegd aan de
                                                                 bevoegde rechter in het arrondissement waar Nulam

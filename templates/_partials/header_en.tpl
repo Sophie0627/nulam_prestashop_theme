@@ -20,8 +20,8 @@
 </div>
 <div id="gkHeaderNav" class="gk-clearfix gk-fixed contains-cart" style="top: 0px;">
     <div>
-        <a href="https://budgetdesinfectie.nl/en/" id="gkLogo">
-            <img src="https://budgetdesinfectie.nl/images/logos/logo-nulam-website.png" alt="Nulam">
+        <a href="/en/" id="gkLogo">
+            <img src="/images/logos/logo-nulam-website.png" alt="Nulam">
         </a>
         <div class="mainrightpart">
             <div class="toppart">
@@ -34,7 +34,7 @@
             <nav class="gkMainMenu gkMenu" data-duration="150" data-opacity="1" data-height="1" data-width="1">
                 <ul class="gkmenu level0">
                     <li class="first {if $page.page_name=='index'}active{/if}">
-                        <a href="https://budgetdesinfectie.nl/en/" class=" first active" id="menu1167">Home</a>
+                        <a href="/en/" class=" first active" id="menu1167">Home</a>
                     </li>
                     <li class="haschild {if $page.page_name=='cms' && $cms.id_cms_category==2}active{/if}">
                         <span class=" haschild" id="menu1387">About Us</span>
@@ -224,7 +224,7 @@
         </p>
         <div class="accept" style="">I understand</div>
     </div>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/setCookie.js" type="text/javascript">
+    <script src="/themes/PRS020/assets/js/nulam/setCookie.js" type="text/javascript">
     </script>
 </div>
 <div class="modulediv">

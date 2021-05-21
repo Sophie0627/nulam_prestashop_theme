@@ -24,20 +24,20 @@
 
                                         <h1>NULAM VOEDINGSADVIES</h1>
                                         <p><span style="color: #000000;"><span style="font-size: medium;"><a
-                                                        href="/index.php/nl/store/nulam-brokken.html">Nulam
+                                                        href="/shop/nulam-brokken.html">Nulam
                                                         brokken</a>&nbsp;zijn in diverse smaken geproduceerd en
                                                     bevatten allen prebiotica, te weten F.O.S
                                                     (fructo-oligosaccharide), voor een &nbsp;gezonde huid, glanzende
                                                     vacht, vitaliteit, een gezonde darmflora en als ondersteuning
                                                     van de natuurlijke weerstand. De natuurlijke&nbsp;<a
-                                                        href="/index.php/nl/store/nulam-brokken.html">hondenbrokken</a>
+                                                        href="/shop/nulam-brokken.html">hondenbrokken</a>
                                                     van Nulam zijn uitermate geschikt voor de dagelijkse voeding van
                                                     uw hond en zullen de gezondheid van uw hond goed doen. U
-                                                    kunt&nbsp;<a href="/index.php/nl/store/nulam-brokken.html">Nulam
+                                                    kunt&nbsp;<a href="/shop/nulam-brokken.html">Nulam
                                                         brokken</a>&nbsp;probleemloos met&nbsp;<a
-                                                        href="/index.php/nl/store/nulam-vers.html">Nulam
+                                                        href="/shop/nulam-vers.html">Nulam
                                                         Vers</a>&nbsp;mengen. Wij adviseren u om uw hond met
-                                                    regelmaat<a href="/index.php/nl/store/nulam-vers.html">&nbsp;Nulam
+                                                    regelmaat<a href="/shop/nulam-vers.html">&nbsp;Nulam
                                                         Vers</a>&nbsp;(rauw vers vlees) te voeren, om de darmflora
                                                     extra optimaal te houden, daarvoor heeft Nulam speciale
                                                     samenstellingen gemaakt voor honden met allergie voor bepaalde
@@ -45,12 +45,12 @@
                                         <p><span style="font-size: medium;"><span style="color: #000000;">U kunt dit
                                                     doen door eens per week een zogenaamde versvleesdag in te
                                                     plannen met Nulam Vers <a
-                                                        href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-nature-complete-detail.html">Pure
+                                                        href="/shop/nulam-vers/volwassen-compleet/pure-nature-complete-detail.html">Pure
                                                         Nature Complete</a> of door een paar keer per week 20% (1/5e
                                                     deel) van een <a
-                                                        href="/index.php/nl/store/nulam-brokken.html">Nullam
+                                                        href="/shop/nulam-brokken.html">Nullam
                                                         Brokken</a> maaltijd te vervangen door Nulam Vers <a
-                                                        href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-tripe-detail.html">Pure
+                                                        href="/shop/nulam-vers/puppy-compleet/pure-tripe-detail.html">Pure
                                                         Tripe</a>.&nbsp;</span><span style="color: #000000;">(Nulam
                                                     Vers mag u nooit ontdooien in een magnetron omdat in de
                                                     magnetron alle bacteriën worden gedood die we juist nodig
@@ -61,19 +61,19 @@
                                         </p>
                                         <p><span style="color: #000000; font-size: medium;">U kunt daarvoor kiezen
                                                 uit: <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-lamb-complete-detail.html">Pure
+                                                    href="/shop/nulam-vers/volwassen-compleet/pure-lamb-complete-detail.html">Pure
                                                     Lamb Complete</a> (100% Lam),&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-beef-complete-detail.html">Pure
+                                                    href="/shop/nulam-vers/volwassen-compleet/pure-beef-complete-detail.html">Pure
                                                     Beef Complete</a> (100% Rund), <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-duck-complete-detail.html">Pure
+                                                    href="/shop/nulam-vers/volwassen-compleet/pure-duck-complete-detail.html">Pure
                                                     Duck Complete</a> (100% Eend), <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-rabbit-complete-detail.html">Pure
+                                                    href="/shop/nulam-vers/volwassen-compleet/pure-rabbit-complete-detail.html">Pure
                                                     Rabbit Complete</a> (100% Konijn), <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-goat-duck-complete-detail.html">Pure
+                                                    href="/shop/nulam-vers/volwassen-compleet/pure-goat-duck-complete-detail.html">Pure
                                                     Goat / Duck Complete</a> (50% geit &amp; 50% eend) ook onze <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-chicken-detail.html">Pure
+                                                    href="/shop/nulam-vers/volwassen-compleet/pure-chicken-detail.html">Pure
                                                     Chicken</a> (100% kip) en <a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-tripe-detail.html">Pure
+                                                    href="/shop/nulam-vers/puppy-compleet/pure-tripe-detail.html">Pure
                                                     Tripe</a> (90% runderpens 10% kip) zijn heel populair.</span>
                                         </p>
                                         <p style="color: #222222;"><span style="font-size: medium;"><span
@@ -86,18 +86,18 @@
                                                 is voedselallergie. Voeding met voldoende gezond vet (dierlijk) is
                                                 doorgaans een goede remedie tegen huid en vachtproblemen bijv. Nulam
                                                 Brokken perfect,&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-brokken/volwassen/nulam-perfect-lamb-rice-detail.html">Lamb
+                                                    href="/shop/nulam-brokken/volwassen/lamb-rice-detail.html">Lamb
                                                     &amp; Rice</a>&nbsp;of&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-brokken/volwassen/nulam-perfect-salmon-rice-detail.html">Salmon
+                                                    href="/shop/nulam-brokken/volwassen/salmon-rice-detail.html">Salmon
                                                     &amp; Rice</a>.&nbsp;</span></p>
                                         <p style="color: #222222;"><span style="font-size: medium;"><span
                                                     style="font-weight: 600;">Moeilijke
                                                     eters.&nbsp;</span>Geef&nbsp;<a
-                                                    href="/index.php/store/nulam-brokken/volwassen/nulam-perfect-zalm-aardappelen-100-graanvrij-detail">Nulam
+                                                    href="/shop/nulam-brokken/volwassen/perfect-salmon-potatoes-detail.html">Nulam
                                                     perfect Salmon &amp; Potatoes</a>, door zijn unieke
                                                 samenstelling is deze licht verteerbare voeding op basis van Zalm
                                                 &amp; Aardappel een uitstekende keuze voor kieskeurige honden.
-                                                Daarnaast kan&nbsp;<a href="/index.php/store/nulam-vers">Nulam
+                                                Daarnaast kan&nbsp;<a href="/shop/nulam-vers">Nulam
                                                     vers</a>&nbsp;een goede optie zijn indien de hond niet van
                                                 brokken houdt, niet goed kan kauwen, slecht eet, dunne ontlasting
                                                 heeft.</span></p>
@@ -106,7 +106,7 @@
                                                     overgewicht.&nbsp;</span>Naarmate een hond ouder wordt heeft ie
                                                 minder eiwitten nodig vanwege de lagere energiebehoefte. Geef daarom
                                                 een oudere hond (ouderdomsverschijnselen) of een hond met
-                                                overgewicht&nbsp;<a href="/index.php/store/nulam-brokken/senior">Nulam
+                                                overgewicht&nbsp;<a href="/shop/nulam-brokken/senior">Nulam
                                                     Perfect
                                                     Adult</a>&nbsp;brokken: lagere energiebehoefte en aangepast
                                                 eiwit-vet gehalte.</span></p>

@@ -20,8 +20,8 @@
 </div>
 <div id="gkHeaderNav" class="gk-clearfix gk-fixed contains-cart" style="top: 0px;">
     <div>
-        <a href="https://budgetdesinfectie.nl/de/" id="gkLogo">
-            <img src="https://budgetdesinfectie.nl/images/logos/logo-nulam-website.png" alt="Nulam">
+        <a href="/de/" id="gkLogo">
+            <img src="/images/logos/logo-nulam-website.png" alt="Nulam">
         </a>
         <div class="mainrightpart">
             <div class="toppart">
@@ -33,7 +33,7 @@
             <nav class="gkMainMenu gkMenu" data-duration="150" data-opacity="1" data-height="1" data-width="1" {if !$customer.is_logged || $customer.is_guest}style="width:120%; left:-10%;"{/if}>
                 <ul class="gkmenu level0">
                     <li class="first {if $page.page_name=='index'}active{/if}">
-                        <a href="https://budgetdesinfectie.nl/de/" class=" first active" id="menu1167">Home</a>
+                        <a href="/de/" class=" first active" id="menu1167">Home</a>
                     </li>
                     <li class="haschild {if $page.page_name=='cms' && $cms.id_cms_category==2}active{/if}">
                         <span class=" haschild" id="menu1387">Über uns</span>
@@ -234,7 +234,7 @@
         </p>
         <div class="accept" style="">Ich verstehe</div>
     </div>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/setCookie.js" type="text/javascript">
+    <script src="/themes/PRS020/assets/js/nulam/setCookie.js" type="text/javascript">
     </script>
 </div>
 <div class="modulediv">
@@ -243,7 +243,7 @@
         <div class="region region-banner-header-layer">
             <ul class="item-list holder">
                 <li>
-                    <a href="/startseite/de/non-food/desinfectiemiddelen/desinfectie-alcohol-spray-detail.html">
+                    <a href="/de/startseite/non-food/desinfektionsmittel/desinfectie-alcohol-spray-detail.html">
                         <div class="description">
                             <strong class="title">Alkohol-Desinfektionsspray</strong>
                             <strong class="heading">Desinfektionsmittel</strong>
@@ -254,7 +254,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="/startseite/de/non-food/persoonlijke-hygiëne/desinfecterende-handgel-detail.html">
+                    <a href="/de/startseite/non-food/körperpflege/desinfecterende-handgel-detail.html">
                         <div class="description">
                             <strong class="title">Desinfektions-Handgel</strong>
                             <strong class="heading">KÖRPERPFLEGE</strong>
@@ -266,7 +266,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="/startseite/de/nulam-chunks/puppy-junior/perfect-bulldog-junior-detail.html">
+                    <a href="/de/startseite/nulam-chunks/puppy-junior/perfect-bulldog-junior-detail.html">
                         <div class="description">
                             <strong class="title">Hündchen Brocken</strong>
                             <strong class="heading">Perfect Bulldog Junior</strong>
@@ -294,12 +294,12 @@
             <img src="/" alt=" " style="display:none !important">
             <img src="/" alt=" " style="display:none !important">
         </div>
-        <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/header_home_de.js"
+        <script src="/themes/PRS020/assets/js/nulam/header_home_de.js"
         type="text/javascript"></script>
         <div class="maindiv">
-            <span class="newdivcircle"><span>Aus</span><strong>den bestmöglichen</strong>Zutaten zubereitet.</span>
+            <span class="newdivcircle"><span>Bereit</span><strong>VON DEN BESTEN</strong>Zutaten</span>
         </div>
         <p>&nbsp;</p>
     </div>
 </div>
-<link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/slider.css" rel="stylesheet" type="text/css">
+<link href="/themes/PRS020/assets/css/nulam/slider.css" rel="stylesheet" type="text/css">

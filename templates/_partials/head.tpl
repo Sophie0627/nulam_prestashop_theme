@@ -28,11 +28,28 @@
 {block name='head_ie_compatibility'}
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 {/block}
-
 {block name='head_seo'}
-  <title>{block name='head_seo_title'}{$page.meta.title}{/block}</title>
-  <meta name="description" content="{block name='head_seo_description'}{$page.meta.description}{/block}">
-  <meta name="keywords" content="{block name='head_seo_keywords'}{$page.meta.keywords}{/block}">
+  {if $page.page_name == 'category'}
+    {assign var='meta_title' value=$category.meta_title}
+    {assign var='meta_description' value=$category.meta_description}
+    {assign var='meta_keywords' value=$category.meta_keywords}
+  {elseif $page.page_name == 'product'}
+    {assign var='meta_title' value=$product.meta_title}
+    {assign var='meta_keywords' value=$product.meta_keywords}
+    {assign var='meta_description' value=$product.meta_description}
+  {elseif $page.page_name == 'cms'}
+    {assign var='meta_title' value=$cms.meta_title}
+    {assign var='meta_keywords' value=$cms.meta_keywords}
+    {assign var='meta_description' value=$cms.meta_description}
+  {else}
+    {assign var='meta_keywords' value=$page.meta.keywords}
+    {assign var='meta_title' value=$page.meta.title}
+    {assign var='meta_description' value=$page.meta.description}
+  {/if}
+  <title>{block name='head_seo_title'}{$meta_title}{/block}</title>
+  <meta name="title" content="{block name='head_seo_description'}{$meta_title}{/block}">
+  <meta name="description" content="{block name='head_seo_description'}{$meta_description}{/block}">
+  <meta name="keywords" content="{block name='head_seo_keywords'}{$meta_keywords}{/block}">
   {if $page.meta.robots !== 'index'}
     <meta name="robots" content="{$page.meta.robots}">
   {/if}
@@ -45,7 +62,6 @@
       {/foreach}
   {/block}
 {/block}
-
 {block name='head_viewport'}
   <meta name="viewport" content="width=device-width, initial-scale=1">
 {/block}

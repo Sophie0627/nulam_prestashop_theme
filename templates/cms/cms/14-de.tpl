@@ -30,7 +30,7 @@
                                         <p><strong>Umstellung von knusprigem Futter auf
                                                 Nulam-Trockenfutter:&nbsp;</strong>Wenn Sie von extrudierten
                                             (knusprigen) Lebensmitteln auf&nbsp;<a
-                                                href="/index.php/nl/store/nulam-brokken.html"><span
+                                                href="/de/startseite/nulam-chunks.html"><span
                                                     style="line-height: normal;">Nulam-Trockenfutter</span></a>&nbsp;und
                                             gepresste Futtermittel umstellen, empfehlen wir Ihnen, dies direkt und
                                             ohne vorheriges Mischen zu tun. (<strong>HINWEIS</strong>: Beim Wechseln
@@ -42,17 +42,17 @@
                                                     Umstellung.&nbsp;</strong></span></p>
                                         <p><span></span><span>Fleischfütterung kann bei der Umstellung helfen.
                                                 Hierfür geben Sie Ihrem Hund 10 Tage lang&nbsp;<a
-                                                    href="/index.php/store/nulam-vers">Nulam Frisch</a>&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-nature-complete-detail.html">Pure
+                                                    href="/de/startseite/nulam-fresh.html">Nulam Frisch</a>&nbsp;<a
+                                                    href="/de/startseite/nulam-fresh/frischfleisch-puppy-junior/pure-nature-complete-detail.html">Pure
                                                     Nature Complete</a>&nbsp;und&nbsp;</span>nach diesen 10 Tagen
                                             Frischfleisch können Sie langsam zum<span>&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-brokken.html">Nulam-Trockenfutter
+                                                    href="/de/startseite/nulam-chunks.html">Nulam-Trockenfutter
                                                 </a>&nbsp;</span>übergehen, indem Sie immer weniger Frischfleisch
                                             und immer mehr Trockenfutter geben (Verhältnis 50 Gramm Trockenfutter
                                             entsprechen 95 Gramm Frischfleisch). Zusätzlich zu<span>&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-brokken.html">Nulam-Trockenfutter
+                                                    href="/de/startseite/nulam-chunks.html">Nulam-Trockenfutter
                                                 </a>&nbsp;</span>empfehlen wir an 1 Tag pro Woche <span>&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-tripe-detail.html">Nulam
+                                                    href="/de/startseite/nulam-fresh/frischfleisch-puppy-junior/pure-tripe-detail.html">Nulam
                                                     Frisch Pure Tripe</a>&nbsp;</span>, um die Darmflora zu
                                             erhalten<span>.&nbsp;</span>Nulam Frisch wird Ihrem Hund (nach dem
                                             Auftauen) bei Raumtemperatur gefüttert. Sie sollten das frische Fleisch
@@ -64,7 +64,7 @@
                                             können die Folge sein. Wenn dem Hund plötzlich ein anderes Futter
                                             angeboten wird, gibt es oft nicht genügend gesunde Bakterien im Magen,
                                             um dieses andere Futter richtig zu verdauen. Durchfall kann dann die
-                                            Folge sein. &nbsp;<a href="/index.php/store/nulam-brokken"><span
+                                            Folge sein. &nbsp;<a href="/de/startseite/nulam-chunks.html"><span
                                                     style="line-height: normal;">Nulam-Trockenfutter</span></a>&nbsp;enthält
                                             Probiotika, die die notwendige Unterstützung bieten, damit gesunde
                                             Bakterien in den Darm zurückkehren können, um das neue Futter zu

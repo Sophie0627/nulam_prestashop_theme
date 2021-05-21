@@ -22,42 +22,25 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  * International Registered Trademark & Property of PrestaShop SA
  *}
- 
- {if $cms.id == 3}
-  {block name='content'}
-   <section id="content" class="page-content page-cms page-cms-{$cms.id}">
- 
-     {block name='cms_content'}
-       {$cms.content nofilter}
-     {/block}
- 
-     {block name='hook_cms_dispute_information'}
-       {hook h='displayCMSDisputeInformation'}
-     {/block}
- 
-     {block name='hook_cms_print_button'}
-       {hook h='displayCMSPrintButton'}
-     {/block}
- 
-   </section>
- {/block}
- {else}
- {assign var='file' value="cms/cms/"|cat:$cms.id}
- {assign var='file' value=$file|cat:"-"}
- {assign var='file' value=$file|cat:$language.iso_code}
- {assign var='file' value=$file|cat:".tpl"}
+{extends file='page.tpl'}
 
- {assign var='image' value="/images/cms/"|cat:$cms.id}
- {assign var='image' value=$image|cat:"-"}
- {assign var='image' value=$image|cat:$language.iso_code}
- {assign var='banner' value=$image|cat:".jpg"}
+{block name='notifications'}{/block}
 
-  {block name='content'}
-  <section id="content" class="page-content page-cms page-cms-{$cms.id}">
-    {include file=$file}
+{block name='page_content_container'}
+  <section id="content" class="page-content">
+    {block name='page_content_top'}
+      {block name='customer_notifications'}
+        {include file='_partials/notifications.tpl'}
+      {/block}
+    {/block}
+    {block name='page_content'}
+      <!-- Page content -->
+    {/block}
   </section>
+{/block}
+
+{block name='page_footer'}
+  {block name='my_account_links'}
+    {include file='customer/_partials/my-account-links.tpl'}
   {/block}
-
-{/if}
-
-{extends file=$layout}
+{/block}

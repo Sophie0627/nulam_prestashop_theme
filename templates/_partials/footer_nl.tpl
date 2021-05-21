@@ -7,7 +7,7 @@
     </ul>
 
     <ul class="menu">
-        <li class="item-1198"><a href="/contact.html">Contact</a></li>
+        <li class="item-1198"><a href="/contact">Contact</a></li>
         <li class="item-1193"><a href="/betalen.html">Betalen</a></li>
         <li class="item-1037"><a href="/bezorgen.html">Bezorgen</a></li>
         <li class="item-1038"><a href="/retouren.html">Retouren</a></li>

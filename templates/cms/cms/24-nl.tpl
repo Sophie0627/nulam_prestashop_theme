@@ -41,7 +41,7 @@
                                             style="margin: 0px; font-size: 16px; font-family: Verdana; -webkit-text-stroke-color: #000000; -webkit-text-stroke-width: initial;">
                                             Stuur de volgende informatie aan ons via het <span
                                                 style="color: #551a8b;"><a
-                                                    href="/index.php/contact">contactformulier:</a></span></p>
+                                                    href="/contact">contactformulier:</a></span></p>
                                         <ul class="list-3"
                                             style="font-size: 16px; font-family: Verdana; -webkit-text-stroke-color: #000000; -webkit-text-stroke-width: initial;">
                                             <li>Naam vereniging of stichting.</li>
@@ -115,7 +115,7 @@
                                             </strong>.</p>
                                         <p
                                             style="margin: 0px; font-size: 16px; font-family: Verdana; -webkit-text-stroke-color: #000000; -webkit-text-stroke-width: initial;">
-                                            <a href="/index.php/contact"></a></p>
+                                            <a href="/contact"></a></p>
 
                                     </div><!-- .item-body -->
 

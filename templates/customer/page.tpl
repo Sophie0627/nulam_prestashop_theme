@@ -22,25 +22,68 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  * International Registered Trademark & Property of PrestaShop SA
  *}
-{extends file='page.tpl'}
+{extends file=$layout}
 
 {block name='notifications'}{/block}
 
-{block name='page_content_container'}
-  <section id="content" class="page-content">
-    {block name='page_content_top'}
-      {block name='customer_notifications'}
-        {include file='_partials/notifications.tpl'}
+{block name='content'}
+{foreach $stylesheets.external as $stylesheet}
+    <link rel="stylesheet" href="{$stylesheet.uri}" type="text/css" media="{$stylesheet.media}">
+  {/foreach}
+  
+  {foreach $stylesheets.inline as $stylesheet}
+    <style>
+      {$stylesheet.content}
+    </style>
+  {/foreach}
+  {include file="_partials/stylesheets.tpl"}
+<section id="wrapper">
+    <div class="container">
+        <div class="row">
+          <div id="content-wrapper" class="col-xs-12">
+          
+          
+  <section id="main">
+
+    {block name='page_header_container'}
+      {block name='page_title' hide}
+        <header class="page-header">
+          <h1>{$smarty.block.child}</h1>
+        </header>
       {/block}
     {/block}
-    {block name='page_content'}
-      <!-- Page content -->
+
+    {block name='page_content_container'}
+      <section id="content" class="page-content">
+        {block name='page_content_top'}
+          {block name='customer_notifications'}
+            {include file='_partials/notifications.tpl'}
+          {/block}
+        {/block}
+        {block name='page_content'}
+          <!-- Page content -->
+        {/block}
+      </section>
     {/block}
+
+    {block name='page_footer_container'}
+      <footer class="page-footer">
+        {block name='page_footer'}
+          {block name='my_account_links'}
+            {include file='customer/_partials/my-account-links.tpl'}
+          {/block}
+        {/block}
+      </footer>
+    {/block}
+
   </section>
+</div>
+        </div>
+    </div>
+</section>
 {/block}
 
-{block name='page_footer'}
-  {block name='my_account_links'}
-    {include file='customer/_partials/my-account-links.tpl'}
-  {/block}
-{/block}
+</div>
+</div>
+</div>
+</section>

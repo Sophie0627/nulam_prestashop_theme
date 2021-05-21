@@ -54,7 +54,7 @@
                                             style="margin: 0px; font-size: 16px; font-family: Verdana; -webkit-text-stroke-color: #000000; -webkit-text-stroke-width: initial;">
                                             <span style="font-family: verdana, geneva; font-size: 12pt;">Stuur de
                                                 volgende informatie aan ons via ons&nbsp;<a
-                                                    href="/index.php/contact">contactformulier:</a></span></p>
+                                                    href="/contact">contactformulier:</a></span></p>
                                         <ul class="list-3">
                                             <li>Naam fokker, kennel</li>
                                             <li>Registratienummer</li>

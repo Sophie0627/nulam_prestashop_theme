@@ -132,11 +132,11 @@
                         </div>
                         <div class="description">
                             <div class="js-height same-height-left" style="height: 156px;">
-                                <h2><a href="/Fütterungshinweise/ernährungsrechner.html" target="_blank"><span
+                                <h2><a href="/de/fütterungshinweise/ernährungsrechner.html" target="_blank"><span
                                             class="field-content">Nulam Ernährungsrechner</span></a></h2>
                                 <p>Finden Sie mit Hilfe des Nulam®-Futterrechners das richtige Futter für Ihren Hund</p>
                             </div>
-                            <div class="btn-wrap"><a href="/Fütterungshinweise/vernährungsrechner.html" target="_blank"
+                            <div class="btn-wrap"><a href="/de/fütterungshinweise/ernährungsrechner.html" target="_blank"
                                     class="btn">Weiterlesen</a></div>
                         </div>
                     </article>
@@ -188,11 +188,11 @@
                             </div>
                             <div class="description">
                                 <div class="js-height same-height-left" style="height: 156px;">
-                                    <h2><a href="/over-ons/ervaring-met-nulam.html"><span class="field-content">Erfahrung mit Nulam</span></a></h2>
+                                    <h2><a href="/de/über-uns/kundenbewertungen.html"><span class="field-content">Erfahrung mit Nulam</span></a></h2>
                                     <p>
                                     </p>
                                 </div>
-                                <div class="btn-wrap"><a href="/over-ons/ervaring-met-nulam.html" class="btn">Weiterlesen</a></div>
+                                <div class="btn-wrap"><a href="/de/über-uns/kundenbewertungen.html" class="btn">Weiterlesen</a></div>
                             </div>
                         </div>
                     </article>

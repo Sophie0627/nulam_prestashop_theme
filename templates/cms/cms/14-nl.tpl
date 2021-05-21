@@ -28,7 +28,7 @@
                                                     voeding</strong></span></h2>
                                         <p><strong>Overstap van krokant naar Nulam brokken :&nbsp;</strong>Wanneer u
                                             overstapt van geëxtrudeerde (krokant) voeding naar&nbsp;<a
-                                                href="/index.php/nl/store/nulam-brokken.html"><span
+                                                href="/shop/nulam-brokken.html"><span
                                                     style="line-height: normal;">Nulam brokken</span></a>&nbsp;een
                                             geperste voeding adviseren wij u dit in 1 keer te doen, dus niet door te
                                             mengen. (<strong>LET OP</strong>: bij het omschakelen van voeding kan de
@@ -39,18 +39,18 @@
                                                     overschakelen.&nbsp;</strong></span></p>
                                         <p><span></span><span>Vleesvoeding kan bij de omschakeling uitkomst bieden.
                                                 Hierbij geeft u uw hond 10 dagen&nbsp;<a
-                                                    href="/index.php/store/nulam-vers">Nulam vers</a>&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-nature-complete-detail.html">Pure
+                                                    href="/shop/nulam-vers.html">Nulam vers</a>&nbsp;<a
+                                                    href="/shop/nulam-vers/puppy-compleet/pure-nature-complete-detail.html">Pure
                                                     Nature Complete</a>&nbsp;en&nbsp;</span>Na deze 10 &nbsp;dagen
                                             versvlees kunt u langzaam overschakelen naar de<span>&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-brokken.html">Nulam
+                                                    href="/shop/nulam-brokken.html">Nulam
                                                     brokken</a>&nbsp;</span>door steeds minder vers vlees te geven
                                             en steeds meer brokken (verhouding 50 gram brokken komen overeen met 95
                                             gram vers vlees). Naast<span>&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-brokken.html">Nulam
+                                                    href="/shop/nulam-brokken.html">Nulam
                                                     brokken</a>&nbsp;</span>adviseren wij 1 dag in de
                                             week<span>&nbsp;<a
-                                                    href="/index.php/nl/store/nulam-vers/volwassen-compleet/pure-tripe-detail.html">Nulam
+                                                    href="/shop/nulam-vers/puppy-compleet/pure-tripe-detail.html">Nulam
                                                     Vers Pure Tripe</a>&nbsp;</span>om de darmflora op peil te
                                             houden<span>.&nbsp;</span>Nulam Vers geeft u (na het ontdooien) op
                                             kamertemperatuur aan uw hond. Het versvlees mag u niet in de magnetron
@@ -62,7 +62,7 @@
                                             kunnen het gevolg zijn. Krijgt de hond ineens een ander voer aangeboden,
                                             dan zijn er vaak onvoldoende goede bacteriën in de maag om deze andere
                                             voeding goed te kunnen verteren. Diarree kan dan het gevolg
-                                            zijn.&nbsp;<a href="/index.php/store/nulam-brokken"><span
+                                            zijn.&nbsp;<a href="/shop/nulam-brokken.html"><span
                                                     style="line-height: normal;">Nulam
                                                     brokken</span></a>&nbsp;bevatten probiotica die de nodige
                                             ondersteuning bieden zodat goede bacteriën weer in de darmen komen om de

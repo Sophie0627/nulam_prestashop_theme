@@ -21,8 +21,8 @@
 </div>
 <div id="gkHeaderNav" class="gk-clearfix gk-fixed contains-cart" style="top: 0px;">
     <div>
-        <a href="https://budgetdesinfectie.nl/" id="gkLogo">
-            <img src="https://budgetdesinfectie.nl/images/logos/logo-nulam-website.png" alt="Nulam">
+        <a href="/" id="gkLogo">
+            <img src="/images/logos/logo-nulam-website.png" alt="Nulam">
         </a>
         <div class="mainrightpart">
             <div class="toppart">
@@ -34,7 +34,7 @@
             <nav class="gkMainMenu gkMenu" data-duration="150" data-opacity="1" data-height="1" data-width="1">
                 <ul class="gkmenu level0">
                     <li class="first {if $page.page_name=='index'}active{/if}">
-                        <a href="https://budgetdesinfectie.nl/" class=" first active" id="menu1167">Home</a>
+                        <a href="/" class=" first active" id="menu1167">Home</a>
                     </li>
                     <li class="haschild {if $page.page_name=='cms' && $cms.id_cms_category==2}active{/if}">
                         <span class=" haschild" id="menu1387">Over Ons</span>
@@ -236,7 +236,7 @@
         </p>
         <div class="accept" style="">Dit bericht verbergen</div>
     </div>
-    <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/setCookie.js" type="text/javascript">
+    <script src="/themes/PRS020/assets/js/nulam/setCookie.js" type="text/javascript">
     </script>
 </div>
 <div class="modulediv">
@@ -244,7 +244,7 @@
         <div class="region region-banner-header-layer">
             <ul class="item-list holder">
                 <li>
-                    <a href="/shop/nulam-snacks/non-food/desinfectiemiddelen/desinfectie-alcohol-spray-detail.html">
+                    <a href="/shop/non-food/desinfectiemiddelen/desinfectie-alcohol-spray-detail.html">
                         <div class="description">
                             <strong class="title">Desinfectie spray</strong>
                             <strong class="heading">Desinfectiemiddelen</strong>
@@ -255,7 +255,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="/shop/nulam-snacks/non-food/persoonlijke-hygiëne/desinfecterende-handgel-detail.html">
+                    <a href="/shop/non-food/persoonlijke-hygiëne/desinfecterende-handgel-detail.html">
                         <div class="description">
                             <strong class="title">Desinfecterende Handgel</strong>
                             <strong class="heading">Persoonlijke hygiëne</strong>
@@ -295,11 +295,11 @@
             <img src="/" alt=" " style="display:none !important">
             <img src="/" alt=" " style="display:none !important">
         </div>
-        <script src="https://budgetdesinfectie.nl/themes/PRS020/assets/js/nulam/header_home_nl.js" type="text/javascript"></script>
+        <script src="/themes/PRS020/assets/js/nulam/header_home_nl.js" type="text/javascript"></script>
         <div class="maindiv">
             <span class="newdivcircle"><span>bereid uit</span><strong>de best denkbare</strong>Ingrediënten.</span>
         </div>
         <p>&nbsp;</p>
     </div>
 </div>
-<link href="https://budgetdesinfectie.nl/themes/PRS020/assets/css/nulam/slider.css" rel="stylesheet" type="text/css">
+<link href="/themes/PRS020/assets/css/nulam/slider.css" rel="stylesheet" type="text/css">
